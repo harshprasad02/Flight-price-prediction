@@ -1,0 +1,2745 @@
+,Airline Name,Date of journey,Source,Destination,Departure Time,Arrival Time,Duration,Total Stops,Price
+0,Air Asia,"Wed, 6 Oct",New Delhi,Mumbai,12:40,20:15,7h 35m,1 Stop,"5,953"
+1,Air Asia,"Wed, 6 Oct",New Delhi,Mumbai,11:55,20:15,8h 20m,1 Stop,"5,953"
+2,Air Asia,"Wed, 6 Oct",New Delhi,Mumbai,08:00,16:35,8h 35m,1 Stop,"5,953"
+3,Air Asia,"Wed, 6 Oct",New Delhi,Mumbai,04:55,14:15,9h 20m,1 Stop,"5,953"
+4,Air Asia,"Wed, 6 Oct",New Delhi,Mumbai,05:20,20:15,14h 55m,1 Stop,"5,953"
+5,Go First,"Wed, 6 Oct",New Delhi,Mumbai,09:40,11:45,2h 05m,Non Stop,"5,954"
+6,Go First,"Wed, 6 Oct",New Delhi,Mumbai,14:20,16:25,2h 05m,Non Stop,"5,954"
+7,Go First,"Wed, 6 Oct",New Delhi,Mumbai,18:40,20:45,2h 05m,Non Stop,"5,954"
+8,Go First,"Wed, 6 Oct",New Delhi,Mumbai,21:30,23:35,2h 05m,Non Stop,"5,954"
+9,Go First,"Wed, 6 Oct",New Delhi,Mumbai,17:45,22:25,4h 40m,1 Stop,"5,954"
+10,Go First,"Wed, 6 Oct",New Delhi,Mumbai,08:10,13:00,4h 50m,1 Stop,"5,954"
+11,Go First,"Wed, 6 Oct",New Delhi,Mumbai,16:10,21:05,4h 55m,1 Stop,"5,954"
+12,Go First,"Wed, 6 Oct",New Delhi,Mumbai,08:10,14:55,6h 45m,1 Stop,"5,954"
+13,Go First,"Wed, 6 Oct",New Delhi,Mumbai,11:20,18:15,6h 55m,1 Stop,"5,954"
+14,Go First,"Wed, 6 Oct",New Delhi,Mumbai,09:10,18:15,9h 05m,1 Stop,"5,954"
+15,Go First,"Wed, 6 Oct",New Delhi,Mumbai,06:00,15:25,9h 25m,1 Stop,"5,954"
+16,Go First,"Wed, 6 Oct",New Delhi,Mumbai,08:00,18:15,10h 15m,1 Stop,"5,954"
+17,Go First,"Wed, 6 Oct",New Delhi,Mumbai,19:45,"07:25
++ 1 day",11h 40m,1 Stop,"5,954"
+18,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,06:00,08:00,2h 00m,Non Stop,"5,955"
+19,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,19:05,21:05,2h 00m,Non Stop,"5,955"
+20,Air India,"Wed, 6 Oct",New Delhi,Mumbai,07:00,09:05,2h 05m,Non Stop,"5,955"
+21,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,09:30,11:35,2h 05m,Non Stop,"5,955"
+22,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,12:00,14:05,2h 05m,Non Stop,"5,955"
+23,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,14:00,16:05,2h 05m,Non Stop,"5,955"
+24,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,20:30,22:35,2h 05m,Non Stop,"5,955"
+25,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,06:10,08:20,2h 10m,Non Stop,"5,955"
+26,Air India,"Wed, 6 Oct",New Delhi,Mumbai,08:00,10:10,2h 10m,Non Stop,"5,955"
+27,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,08:55,11:05,2h 10m,Non Stop,"5,955"
+28,Air India,"Wed, 6 Oct",New Delhi,Mumbai,10:40,12:50,2h 10m,Non Stop,"5,955"
+29,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,12:45,14:55,2h 10m,Non Stop,"5,955"
+30,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,15:30,17:40,2h 10m,Non Stop,"5,955"
+31,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,16:55,19:05,2h 10m,Non Stop,"5,955"
+32,Air India,"Wed, 6 Oct",New Delhi,Mumbai,20:00,22:10,2h 10m,Non Stop,"5,955"
+33,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,20:50,23:00,2h 10m,Non Stop,"5,955"
+34,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,21:55,"00:05
++ 1 day",2h 10m,Non Stop,"5,955"
+35,SpiceJet,"Wed, 6 Oct",New Delhi,Mumbai,06:50,09:05,2h 15m,Non Stop,"5,955"
+36,Air India,"Wed, 6 Oct",New Delhi,Mumbai,09:00,11:15,2h 15m,Non Stop,"5,955"
+37,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,10:10,12:25,2h 15m,Non Stop,"5,955"
+38,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,10:20,12:35,2h 15m,Non Stop,"5,955"
+39,Air India,"Wed, 6 Oct",New Delhi,Mumbai,19:00,21:15,2h 15m,Non Stop,"5,955"
+40,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,19:45,22:00,2h 15m,Non Stop,"5,955"
+41,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,08:50,11:10,2h 20m,Non Stop,"5,955"
+42,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,17:45,20:05,2h 20m,Non Stop,"5,955"
+43,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,18:55,21:15,2h 20m,Non Stop,"5,955"
+44,SpiceJet,"Wed, 6 Oct",New Delhi,Mumbai,20:20,22:40,2h 20m,Non Stop,"5,955"
+45,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,17:45,20:10,2h 25m,Non Stop,"5,955"
+46,Air India,"Wed, 6 Oct",New Delhi,Mumbai,15:05,18:15,3h 10m,1 Stop,"5,955"
+47,SpiceJet,"Wed, 6 Oct",New Delhi,Mumbai,06:35,10:10,3h 35m,1 Stop,"5,955"
+48,Air India,"Wed, 6 Oct",New Delhi,Mumbai,17:50,21:35,3h 45m,1 Stop,"5,955"
+49,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,13:45,17:45,4h 00m,1 Stop,"5,955"
+50,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,08:55,13:10,4h 15m,1 Stop,"5,955"
+51,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,18:10,22:35,4h 25m,1 Stop,"5,955"
+52,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,13:40,18:35,4h 55m,1 Stop,"5,955"
+53,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,08:10,13:10,5h 00m,1 Stop,"5,955"
+54,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,13:10,18:35,5h 25m,1 Stop,"5,955"
+55,SpiceJet,"Wed, 6 Oct",New Delhi,Mumbai,09:15,14:45,5h 30m,1 Stop,"5,955"
+56,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,11:30,18:45,7h 15m,1 Stop,"5,955"
+57,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,07:40,16:50,9h 10m,1 Stop,"5,955"
+58,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,13:50,23:00,9h 10m,1 Stop,"5,955"
+59,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,08:10,17:45,9h 35m,1 Stop,"5,955"
+60,SpiceJet,"Wed, 6 Oct",New Delhi,Mumbai,06:50,16:55,10h 05m,1 Stop,"5,955"
+61,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,12:30,22:35,10h 05m,1 Stop,"5,955"
+62,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,08:10,18:45,10h 35m,1 Stop,"5,955"
+63,SpiceJet,"Wed, 6 Oct",New Delhi,Mumbai,18:15,"14:55
++ 1 day",20h 40m,1 Stop,"5,955"
+64,SpiceJet,"Wed, 6 Oct",New Delhi,Mumbai,14:00,"14:55
++ 1 day",24h 55m,1 Stop,"5,955"
+65,SpiceJet,"Wed, 6 Oct",New Delhi,Mumbai,18:40,20:40,2h 00m,Non Stop,"6,060"
+66,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,07:30,09:45,2h 15m,Non Stop,"7,005"
+67,Air Asia,"Wed, 6 Oct",New Delhi,Mumbai,16:15,"06:20
++ 1 day",14h 05m,1 Stop,"7,273"
+68,Air India,"Wed, 6 Oct",New Delhi,Mumbai,08:40,23:25,14h 45m,1 Stop,"7,468"
+69,Air India,"Wed, 6 Oct",New Delhi,Mumbai,08:40,"09:40
++ 1 day",25h 00m,1 Stop,"7,468"
+70,Air India,"Wed, 6 Oct",New Delhi,Mumbai,12:00,15:50,3h 50m,1 Stop,"8,160"
+71,Air India,"Wed, 6 Oct",New Delhi,Mumbai,07:15,15:50,8h 35m,1 Stop,"8,160"
+72,Air India,"Wed, 6 Oct",New Delhi,Mumbai,13:00,"15:50
++ 1 day",26h 50m,1 Stop,"8,160"
+73,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,18:45,23:00,4h 15m,1 Stop,"8,396"
+74,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,13:20,"16:00
++ 1 day",26h 40m,1 Stop,"8,528"
+75,SpiceJet,"Wed, 6 Oct",New Delhi,Mumbai,16:40,"16:55
++ 1 day",24h 15m,1 Stop,"8,972"
+76,Air India,"Wed, 6 Oct",New Delhi,Mumbai,06:20,20:00,13h 40m,1 Stop,"9,000"
+77,Air India,"Wed, 6 Oct",New Delhi,Mumbai,06:00,23:05,17h 05m,1 Stop,"9,000"
+78,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,17:10,"15:00
++ 1 day",21h 50m,1 Stop,"9,000"
+79,Air India,"Wed, 6 Oct",New Delhi,Mumbai,20:10,"20:00
++ 1 day",23h 50m,1 Stop,"9,000"
+80,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,13:40,"15:00
++ 1 day",25h 20m,1 Stop,"9,000"
+81,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,17:10,21:35,4h 25m,1 Stop,"9,210"
+82,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,13:40,21:35,7h 55m,1 Stop,"9,210"
+83,Air India,"Wed, 6 Oct",New Delhi,Mumbai,16:35,"16:25
++ 1 day",23h 50m,3 Stop(s),"9,590"
+84,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,17:45,23:00,5h 15m,1 Stop,"9,840"
+85,Air India,"Wed, 6 Oct",New Delhi,Mumbai,16:35,23:30,6h 55m,1 Stop,"9,840"
+86,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,14:45,23:00,8h 15m,1 Stop,"9,840"
+87,Air India,"Wed, 6 Oct",New Delhi,Mumbai,21:50,"07:10
++ 1 day",9h 20m,1 Stop,"9,840"
+88,Air India,"Wed, 6 Oct",New Delhi,Mumbai,21:50,"09:40
++ 1 day",11h 50m,1 Stop,"9,840"
+89,Air India,"Wed, 6 Oct",New Delhi,Mumbai,17:30,"07:10
++ 1 day",13h 40m,2 Stop(s),"9,840"
+90,Air India,"Wed, 6 Oct",New Delhi,Mumbai,09:45,23:30,13h 45m,1 Stop,"9,840"
+91,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,20:35,"10:40
++ 1 day",14h 05m,1 Stop,"9,840"
+92,Air India,"Wed, 6 Oct",New Delhi,Mumbai,16:35,"07:10
++ 1 day",14h 35m,1 Stop,"9,840"
+93,Air India,"Wed, 6 Oct",New Delhi,Mumbai,08:20,23:30,15h 10m,1 Stop,"9,840"
+94,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,07:10,23:00,15h 50m,1 Stop,"9,840"
+95,Air India,"Wed, 6 Oct",New Delhi,Mumbai,17:30,"09:40
++ 1 day",16h 10m,2 Stop(s),"9,840"
+96,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,17:45,"10:40
++ 1 day",16h 55m,1 Stop,"9,840"
+97,Air India,"Wed, 6 Oct",New Delhi,Mumbai,16:35,"09:40
++ 1 day",17h 05m,1 Stop,"9,840"
+98,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,14:45,"10:40
++ 1 day",19h 55m,1 Stop,"9,840"
+99,Air India,"Wed, 6 Oct",New Delhi,Mumbai,09:45,"07:10
++ 1 day",21h 25m,1 Stop,"9,840"
+100,Air India,"Wed, 6 Oct",New Delhi,Mumbai,08:20,"07:10
++ 1 day",22h 50m,1 Stop,"9,840"
+101,Air India,"Wed, 6 Oct",New Delhi,Mumbai,09:45,"09:40
++ 1 day",23h 55m,1 Stop,"9,840"
+102,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,13:50,19:30,5h 40m,1 Stop,"9,861"
+103,Air India,"Wed, 6 Oct",New Delhi,Mumbai,13:00,19:25,6h 25m,1 Stop,"9,988"
+104,Air India,"Wed, 6 Oct",New Delhi,Mumbai,12:55,"13:35
++ 1 day",24h 40m,1 Stop,"9,988"
+105,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,08:30,13:35,5h 05m,1 Stop,"10,470"
+106,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,08:30,14:45,6h 15m,1 Stop,"10,470"
+107,Go First,"Wed, 6 Oct",New Delhi,Mumbai,10:40,15:40,5h 00m,1 Stop,"10,575"
+108,Go First,"Wed, 6 Oct",New Delhi,Mumbai,08:10,15:40,7h 30m,1 Stop,"10,575"
+109,Vistara,"Wed, 6 Oct",New Delhi,Mumbai,13:20,18:20,5h 00m,1 Stop,"10,680"
+110,Air India,"Wed, 6 Oct",New Delhi,Mumbai,12:05,17:10,5h 05m,1 Stop,"10,680"
+111,Air India,"Wed, 6 Oct",New Delhi,Mumbai,10:15,15:40,5h 25m,1 Stop,"10,680"
+112,Air India,"Wed, 6 Oct",New Delhi,Mumbai,18:40,"17:10
++ 1 day",22h 30m,1 Stop,"10,680"
+113,Air India,"Wed, 6 Oct",New Delhi,Mumbai,16:45,"16:45
++ 1 day",24h 00m,1 Stop,"10,921"
+114,Air India,"Wed, 6 Oct",New Delhi,Mumbai,14:00,"16:45
++ 1 day",26h 45m,1 Stop,"10,921"
+115,Go First,"Wed, 6 Oct",New Delhi,Mumbai,12:20,18:15,5h 55m,1 Stop,"11,295"
+116,IndiGo,"Wed, 6 Oct",New Delhi,Mumbai,08:55,19:30,10h 35m,1 Stop,"11,940"
+117,Air Asia,"Wed, 6 Oct",Bangalore,Mumbai,15:20,20:15,4h 55m,1 Stop,"5,176"
+118,Air Asia,"Wed, 6 Oct",Bangalore,Mumbai,05:35,14:15,8h 40m,1 Stop,"5,176"
+119,Air Asia,"Wed, 6 Oct",Bangalore,Mumbai,05:45,20:15,14h 30m,1 Stop,"5,176"
+120,Air Asia,"Wed, 6 Oct",Bangalore,Mumbai,05:35,23:05,17h 30m,1 Stop,"5,176"
+121,Go First,"Wed, 6 Oct",Bangalore,Mumbai,06:00,16:25,10h 25m,1 Stop,"5,177"
+122,Go First,"Wed, 6 Oct",Bangalore,Mumbai,21:15,"08:20
++ 1 day",11h 05m,1 Stop,"5,177"
+123,Go First,"Wed, 6 Oct",Bangalore,Mumbai,21:15,"11:45
++ 1 day",14h 30m,1 Stop,"5,177"
+124,Go First,"Wed, 6 Oct",Bangalore,Mumbai,06:30,21:05,14h 35m,1 Stop,"5,177"
+125,SpiceJet,"Wed, 6 Oct",Bangalore,Mumbai,05:55,20:40,14h 45m,1 Stop,"5,177"
+126,Go First,"Wed, 6 Oct",Bangalore,Mumbai,06:00,20:45,14h 45m,1 Stop,"5,177"
+127,SpiceJet,"Wed, 6 Oct",Bangalore,Mumbai,06:20,"08:10
++ 1 day",25h 50m,1 Stop,"5,177"
+128,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,22:10,23:45,1h 35m,Non Stop,"5,178"
+129,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,05:45,07:25,1h 40m,Non Stop,"5,178"
+130,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,18:50,20:35,1h 45m,Non Stop,"5,178"
+131,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,20:45,22:35,1h 50m,Non Stop,"5,178"
+132,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,17:50,19:45,1h 55m,Non Stop,"5,178"
+133,Air Asia,"Wed, 6 Oct",Bangalore,Mumbai,04:40,06:20,1h 40m,Non Stop,"5,179"
+134,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,07:45,09:30,1h 45m,Non Stop,"5,179"
+135,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,18:25,20:15,1h 50m,Non Stop,"5,179"
+136,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,09:30,11:25,1h 55m,Non Stop,"5,179"
+137,Air India,"Wed, 6 Oct",Bangalore,Mumbai,19:10,21:05,1h 55m,Non Stop,"5,179"
+138,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,19:55,21:50,1h 55m,Non Stop,"5,179"
+139,Air India,"Wed, 6 Oct",Bangalore,Mumbai,08:35,10:35,2h 00m,Non Stop,"5,179"
+140,Air Asia,"Wed, 6 Oct",Bangalore,Mumbai,14:40,16:35,1h 55m,Non Stop,"5,280"
+141,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,07:30,09:15,1h 45m,Non Stop,"5,283"
+142,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,08:35,10:20,1h 45m,Non Stop,"5,283"
+143,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,16:35,18:20,1h 45m,Non Stop,"5,388"
+144,Air Asia,"Wed, 6 Oct",Bangalore,Mumbai,09:15,20:15,11h 00m,2 Stop(s),"5,389"
+145,SpiceJet,"Wed, 6 Oct",Bangalore,Mumbai,19:55,"08:10
++ 1 day",12h 15m,1 Stop,"5,807"
+146,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,10:35,12:25,1h 50m,Non Stop,"5,913"
+147,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,12:20,"13:35
++ 1 day",25h 15m,1 Stop,"7,384"
+148,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,12:20,"14:45
++ 1 day",26h 25m,1 Stop,"7,384"
+149,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,06:25,12:25,6h 00m,1 Stop,"7,436"
+150,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,07:20,14:10,6h 50m,1 Stop,"7,462"
+151,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,06:25,14:30,8h 05m,1 Stop,"7,646"
+152,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,14:35,19:50,5h 15m,1 Stop,"7,856"
+153,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,14:35,21:05,6h 30m,1 Stop,"7,856"
+154,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,14:50,19:40,4h 50m,1 Stop,"8,066"
+155,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,18:25,23:25,5h 00m,1 Stop,"8,066"
+156,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,16:25,23:25,7h 00m,1 Stop,"8,066"
+157,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,04:30,12:05,7h 35m,1 Stop,"8,066"
+158,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,14:50,23:25,8h 35m,1 Stop,"8,066"
+159,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,18:30,23:10,4h 40m,1 Stop,"8,118"
+160,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,11:10,19:50,8h 40m,1 Stop,"8,171"
+161,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,19:25,23:00,3h 35m,1 Stop,"8,224"
+162,Air India,"Wed, 6 Oct",Bangalore,Mumbai,18:45,23:30,4h 45m,1 Stop,"8,224"
+163,Air India,"Wed, 6 Oct",Bangalore,Mumbai,15:15,23:30,8h 15m,2 Stop(s),"8,224"
+164,Air India,"Wed, 6 Oct",Bangalore,Mumbai,18:45,"07:10
++ 1 day",12h 25m,1 Stop,"8,224"
+165,Air India,"Wed, 6 Oct",Bangalore,Mumbai,18:45,"09:40
++ 1 day",14h 55m,1 Stop,"8,224"
+166,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,19:25,"10:40
++ 1 day",15h 15m,1 Stop,"8,224"
+167,Air India,"Wed, 6 Oct",Bangalore,Mumbai,15:15,"07:10
++ 1 day",15h 55m,2 Stop(s),"8,224"
+168,Air India,"Wed, 6 Oct",Bangalore,Mumbai,05:45,23:30,17h 45m,2 Stop(s),"8,224"
+169,Air India,"Wed, 6 Oct",Bangalore,Mumbai,15:15,"09:40
++ 1 day",18h 25m,2 Stop(s),"8,224"
+170,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,11:00,15:35,4h 35m,1 Stop,"8,328"
+171,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,11:00,17:35,6h 35m,1 Stop,"8,328"
+172,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,08:50,15:35,6h 45m,1 Stop,"8,328"
+173,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,11:00,19:40,8h 40m,1 Stop,"8,328"
+174,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,11:10,17:45,6h 35m,1 Stop,"8,381"
+175,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,10:20,14:30,4h 10m,1 Stop,"8,591"
+176,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,09:00,13:15,4h 15m,1 Stop,"8,591"
+177,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,10:00,15:35,5h 35m,1 Stop,"8,643"
+178,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,10:00,17:35,7h 35m,1 Stop,"8,643"
+179,Air India,"Wed, 6 Oct",Bangalore,Mumbai,09:00,22:20,13h 20m,2 Stop(s),"8,697"
+180,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,10:20,17:45,7h 25m,1 Stop,"9,011"
+181,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,10:40,17:45,7h 05m,1 Stop,"9,063"
+182,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,07:10,12:45,5h 35m,1 Stop,"9,273"
+183,Air India,"Wed, 6 Oct",Bangalore,Mumbai,06:10,12:50,6h 40m,1 Stop,"9,277"
+184,Air India,"Wed, 6 Oct",Bangalore,Mumbai,10:25,18:15,7h 50m,2 Stop(s),"9,277"
+185,Air India,"Wed, 6 Oct",Bangalore,Mumbai,13:20,21:15,7h 55m,1 Stop,"9,277"
+186,Air India,"Wed, 6 Oct",Bangalore,Mumbai,13:20,21:35,8h 15m,2 Stop(s),"9,277"
+187,Air India,"Wed, 6 Oct",Bangalore,Mumbai,13:20,22:10,8h 50m,1 Stop,"9,277"
+188,Air India,"Wed, 6 Oct",Bangalore,Mumbai,10:25,21:15,10h 50m,1 Stop,"9,277"
+189,Air India,"Wed, 6 Oct",Bangalore,Mumbai,10:25,21:35,11h 10m,2 Stop(s),"9,277"
+190,Air India,"Wed, 6 Oct",Bangalore,Mumbai,10:25,22:10,11h 45m,1 Stop,"9,277"
+191,Air India,"Wed, 6 Oct",Bangalore,Mumbai,06:10,21:15,15h 05m,1 Stop,"9,277"
+192,Air India,"Wed, 6 Oct",Bangalore,Mumbai,17:45,"09:05
++ 1 day",15h 20m,1 Stop,"9,277"
+193,Air India,"Wed, 6 Oct",Bangalore,Mumbai,06:10,22:10,16h 00m,1 Stop,"9,277"
+194,Air India,"Wed, 6 Oct",Bangalore,Mumbai,17:45,"10:10
++ 1 day",16h 25m,1 Stop,"9,277"
+195,Air India,"Wed, 6 Oct",Bangalore,Mumbai,17:45,"11:15
++ 1 day",17h 30m,1 Stop,"9,277"
+196,Air India,"Wed, 6 Oct",Bangalore,Mumbai,17:45,"12:50
++ 1 day",19h 05m,1 Stop,"9,277"
+197,Air India,"Wed, 6 Oct",Bangalore,Mumbai,07:25,22:25,15h 00m,1 Stop,"9,904"
+198,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,04:30,09:40,5h 10m,1 Stop,"10,113"
+199,Air India,"Wed, 6 Oct",Bangalore,Mumbai,11:50,17:10,5h 20m,1 Stop,"10,744"
+200,Air India,"Wed, 6 Oct",Bangalore,Mumbai,05:45,17:10,11h 25m,2 Stop(s),"10,744"
+201,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,15:00,22:10,7h 10m,1 Stop,"10,901"
+202,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,10:40,18:55,8h 15m,1 Stop,"11,426"
+203,Air India,"Wed, 6 Oct",Bangalore,Mumbai,18:45,"09:05
++ 1 day",14h 20m,2 Stop(s),"11,545"
+204,Air India,"Wed, 6 Oct",Bangalore,Mumbai,18:45,"10:10
++ 1 day",15h 25m,2 Stop(s),"11,545"
+205,Air India,"Wed, 6 Oct",Bangalore,Mumbai,18:45,"11:15
++ 1 day",16h 30m,2 Stop(s),"11,545"
+206,Air India,"Wed, 6 Oct",Bangalore,Mumbai,18:45,"12:50
++ 1 day",18h 05m,2 Stop(s),"11,545"
+207,Go First,"Wed, 6 Oct",Bangalore,Mumbai,05:40,22:30,16h 50m,1 Stop,"12,108"
+208,Air India,"Wed, 6 Oct",Bangalore,Mumbai,05:45,12:25,6h 40m,1 Stop,"12,214"
+209,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,07:20,12:05,4h 45m,1 Stop,"12,528"
+210,IndiGo,"Wed, 6 Oct",Bangalore,Mumbai,07:20,15:35,8h 15m,1 Stop,"12,528"
+211,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,07:00,12:35,5h 35m,1 Stop,"13,054"
+212,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,11:30,17:40,6h 10m,1 Stop,"13,054"
+213,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,08:00,14:55,6h 55m,1 Stop,"13,054"
+214,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,11:30,19:05,7h 35m,1 Stop,"13,054"
+215,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,07:00,14:55,7h 55m,1 Stop,"13,054"
+216,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,11:30,20:05,8h 35m,1 Stop,"13,054"
+217,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,08:00,17:40,9h 40m,1 Stop,"13,054"
+218,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,11:30,21:15,9h 45m,1 Stop,"13,054"
+219,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,11:30,22:00,10h 30m,1 Stop,"13,054"
+220,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,07:00,17:40,10h 40m,1 Stop,"13,054"
+221,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,21:10,"08:00
++ 1 day",10h 50m,1 Stop,"13,054"
+222,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,08:00,19:05,11h 05m,1 Stop,"13,054"
+223,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,11:30,23:00,11h 30m,1 Stop,"13,054"
+224,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,07:00,19:05,12h 05m,1 Stop,"13,054"
+225,Go First,"Wed, 6 Oct",Bangalore,Mumbai,17:00,"08:45
++ 1 day",15h 45m,1 Stop,"13,264"
+226,Air India,"Wed, 6 Oct",Bangalore,Mumbai,06:10,17:10,11h 00m,2 Stop(s),"14,002"
+227,Air India,"Wed, 6 Oct",Bangalore,Mumbai,17:45,"17:10
++ 1 day",23h 25m,2 Stop(s),"14,002"
+228,Air India,"Wed, 6 Oct",Bangalore,Mumbai,13:20,"17:10
++ 1 day",27h 50m,2 Stop(s),"14,002"
+229,Air India,"Wed, 6 Oct",Bangalore,Mumbai,13:20,"17:10
++ 1 day",27h 50m,2 Stop(s),"14,002"
+230,Air India,"Wed, 6 Oct",Bangalore,Mumbai,10:25,"17:10
++ 1 day",30h 45m,2 Stop(s),"14,002"
+231,Air India,"Wed, 6 Oct",Bangalore,Mumbai,10:25,"17:10
++ 1 day",30h 45m,2 Stop(s),"14,002"
+232,Air India,"Wed, 6 Oct",Bangalore,Mumbai,06:10,"17:10
++ 1 day",35h 00m,2 Stop(s),"14,002"
+233,Go First,"Wed, 6 Oct",Bangalore,Mumbai,20:05,23:35,3h 30m,1 Stop,"14,208"
+234,Go First,"Wed, 6 Oct",Bangalore,Mumbai,08:20,12:00,3h 40m,1 Stop,"14,208"
+235,Air India,"Wed, 6 Oct",Bangalore,Mumbai,05:45,19:45,14h 00m,1 Stop,"14,419"
+236,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,11:00,"15:00
++ 1 day",28h 00m,1 Stop,"14,734"
+237,Vistara,"Wed, 6 Oct",Bangalore,Mumbai,11:00,21:35,10h 35m,1 Stop,"14,944"
+238,Air India,"Wed, 6 Oct",Bangalore,Mumbai,17:45,"16:45
++ 1 day",23h 00m,2 Stop(s),"15,083"
+239,Air India,"Wed, 6 Oct",Bangalore,Mumbai,13:20,"16:45
++ 1 day",27h 25m,2 Stop(s),"15,083"
+240,Air India,"Wed, 6 Oct",Bangalore,Mumbai,10:25,"16:45
++ 1 day",30h 20m,2 Stop(s),"15,083"
+241,Air India,"Wed, 6 Oct",Bangalore,Mumbai,10:25,"16:45
++ 1 day",30h 20m,2 Stop(s),"15,083"
+242,Air India,"Wed, 6 Oct",Bangalore,Mumbai,06:10,"16:45
++ 1 day",34h 35m,2 Stop(s),"15,083"
+243,Air Asia,"Wed, 6 Oct",Mumbai,Bangalore,16:40,"00:25
++ 1 day",7h 45m,1 Stop,"5,101"
+244,Go First,"Wed, 6 Oct",Mumbai,Bangalore,06:05,07:45,1h 40m,Non Stop,"5,102"
+245,Go First,"Wed, 6 Oct",Mumbai,Bangalore,17:50,19:30,1h 40m,Non Stop,"5,102"
+246,Go First,"Wed, 6 Oct",Mumbai,Bangalore,09:50,13:25,3h 35m,1 Stop,"5,102"
+247,Go First,"Wed, 6 Oct",Mumbai,Bangalore,15:45,22:20,6h 35m,1 Stop,"5,102"
+248,Go First,"Wed, 6 Oct",Mumbai,Bangalore,14:00,22:15,8h 15m,1 Stop,"5,102"
+249,Go First,"Wed, 6 Oct",Mumbai,Bangalore,09:10,22:20,13h 10m,1 Stop,"5,102"
+250,Go First,"Wed, 6 Oct",Mumbai,Bangalore,20:00,"11:10
++ 1 day",15h 10m,1 Stop,"5,102"
+251,Go First,"Wed, 6 Oct",Mumbai,Bangalore,07:00,22:15,15h 15m,1 Stop,"5,102"
+252,SpiceJet,"Wed, 6 Oct",Mumbai,Bangalore,17:55,"09:25
++ 1 day",15h 30m,1 Stop,"5,102"
+253,Go First,"Wed, 6 Oct",Mumbai,Bangalore,06:00,22:20,16h 20m,1 Stop,"5,102"
+254,SpiceJet,"Wed, 6 Oct",Mumbai,Bangalore,21:20,"21:00
++ 1 day",23h 40m,1 Stop,"5,102"
+255,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,06:10,07:45,1h 35m,Non Stop,"5,103"
+256,Air India,"Wed, 6 Oct",Mumbai,Bangalore,06:15,07:55,1h 40m,Non Stop,"5,103"
+257,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,08:20,10:00,1h 40m,Non Stop,"5,103"
+258,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,08:35,10:15,1h 40m,Non Stop,"5,103"
+259,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,17:45,19:25,1h 40m,Non Stop,"5,103"
+260,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,16:00,17:45,1h 45m,Non Stop,"5,103"
+261,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,16:30,18:15,1h 45m,Non Stop,"5,103"
+262,Air India,"Wed, 6 Oct",Mumbai,Bangalore,16:45,18:30,1h 45m,Non Stop,"5,103"
+263,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,19:10,20:55,1h 45m,Non Stop,"5,103"
+264,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,19:25,21:10,1h 45m,Non Stop,"5,103"
+265,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,07:00,08:50,1h 50m,Non Stop,"5,103"
+266,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,07:05,09:00,1h 55m,Non Stop,"5,103"
+267,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,09:10,18:15,9h 05m,1 Stop,"5,103"
+268,Air Asia,"Wed, 6 Oct",Mumbai,Bangalore,20:50,22:25,1h 35m,Non Stop,"5,104"
+269,Air Asia,"Wed, 6 Oct",Mumbai,Bangalore,12:15,14:00,1h 45m,Non Stop,"5,104"
+270,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,13:45,15:25,1h 40m,Non Stop,"5,208"
+271,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,09:55,11:40,1h 45m,Non Stop,"5,208"
+272,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,20:45,22:35,1h 50m,Non Stop,"5,208"
+273,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,08:15,14:35,6h 20m,1 Stop,"6,017"
+274,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,15:15,21:55,6h 40m,1 Stop,"7,387"
+275,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,09:30,14:55,5h 25m,1 Stop,"7,991"
+276,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,12:05,17:40,5h 35m,1 Stop,"7,991"
+277,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,13:55,19:50,5h 55m,1 Stop,"7,991"
+278,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,21:25,"04:30
++ 1 day",7h 05m,1 Stop,"7,991"
+279,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,12:05,19:50,7h 45m,1 Stop,"7,991"
+280,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,09:00,13:25,4h 25m,1 Stop,"8,043"
+281,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,18:05,22:35,4h 30m,1 Stop,"8,043"
+282,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,09:00,14:15,5h 15m,1 Stop,"8,043"
+283,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,16:45,22:35,5h 50m,1 Stop,"8,043"
+284,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,07:25,13:25,6h 00m,1 Stop,"8,043"
+285,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,07:25,14:15,6h 50m,1 Stop,"8,043"
+286,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,14:25,22:35,8h 10m,1 Stop,"8,043"
+287,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,09:00,17:40,8h 40m,1 Stop,"8,043"
+288,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,11:25,16:00,4h 35m,1 Stop,"8,148"
+289,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,10:15,16:00,5h 45m,1 Stop,"8,148"
+290,Air India,"Wed, 6 Oct",Mumbai,Bangalore,05:45,14:45,9h 00m,2 Stop(s),"8,148"
+291,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,19:15,"08:50
++ 1 day",13h 35m,1 Stop,"8,148"
+292,Air India,"Wed, 6 Oct",Mumbai,Bangalore,21:15,"22:20
++ 1 day",25h 05m,1 Stop,"8,148"
+293,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,06:55,"08:50
++ 1 day",25h 55m,1 Stop,"8,148"
+294,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,07:20,14:15,6h 55m,1 Stop,"8,201"
+295,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,10:35,17:40,7h 05m,1 Stop,"8,358"
+296,Air India,"Wed, 6 Oct",Mumbai,Bangalore,21:15,"11:20
++ 1 day",14h 05m,1 Stop,"8,463"
+297,Air India,"Wed, 6 Oct",Mumbai,Bangalore,19:25,"11:20
++ 1 day",15h 55m,1 Stop,"8,463"
+298,Air Asia,"Wed, 6 Oct",Mumbai,Bangalore,08:00,19:05,11h 05m,1 Stop,"8,465"
+299,Air Asia,"Wed, 6 Oct",Mumbai,Bangalore,08:00,"00:25
++ 1 day",16h 25m,1 Stop,"8,465"
+300,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,16:25,21:10,4h 45m,1 Stop,"8,568"
+301,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,13:55,21:10,7h 15m,1 Stop,"8,568"
+302,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,12:05,21:10,9h 05m,1 Stop,"8,568"
+303,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,11:15,17:40,6h 25m,1 Stop,"8,621"
+304,Air India,"Wed, 6 Oct",Mumbai,Bangalore,17:10,"17:55
++ 1 day",24h 45m,2 Stop(s),"8,621"
+305,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,10:15,15:25,5h 10m,1 Stop,"8,883"
+306,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,08:15,15:25,7h 10m,1 Stop,"8,936"
+307,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,06:45,15:25,8h 40m,1 Stop,"8,936"
+308,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,13:00,17:45,4h 45m,1 Stop,"8,988"
+309,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,10:15,17:45,7h 30m,1 Stop,"8,988"
+310,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,13:00,21:20,8h 20m,1 Stop,"8,988"
+311,Air India,"Wed, 6 Oct",Mumbai,Bangalore,09:00,"11:20
++ 1 day",26h 20m,2 Stop(s),"8,988"
+312,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,18:15,23:50,5h 35m,1 Stop,"9,198"
+313,IndiGo,"Wed, 6 Oct",Mumbai,Bangalore,16:25,23:50,7h 25m,1 Stop,"9,198"
+314,Air India,"Wed, 6 Oct",Mumbai,Bangalore,10:00,16:15,6h 15m,1 Stop,"9,201"
+315,Air India,"Wed, 6 Oct",Mumbai,Bangalore,16:00,23:55,7h 55m,1 Stop,"9,201"
+316,Air India,"Wed, 6 Oct",Mumbai,Bangalore,15:40,23:55,8h 15m,2 Stop(s),"9,201"
+317,Air India,"Wed, 6 Oct",Mumbai,Bangalore,07:05,16:15,9h 10m,2 Stop(s),"9,201"
+318,Air India,"Wed, 6 Oct",Mumbai,Bangalore,10:00,23:55,13h 55m,1 Stop,"9,201"
+319,Air India,"Wed, 6 Oct",Mumbai,Bangalore,19:00,"08:55
++ 1 day",13h 55m,1 Stop,"9,201"
+320,Air India,"Wed, 6 Oct",Mumbai,Bangalore,18:00,"08:55
++ 1 day",14h 55m,1 Stop,"9,201"
+321,Air India,"Wed, 6 Oct",Mumbai,Bangalore,07:05,23:55,16h 50m,2 Stop(s),"9,201"
+322,Air India,"Wed, 6 Oct",Mumbai,Bangalore,16:00,"08:55
++ 1 day",16h 55m,1 Stop,"9,201"
+323,Air India,"Wed, 6 Oct",Mumbai,Bangalore,15:40,"08:55
++ 1 day",17h 15m,2 Stop(s),"9,201"
+324,Air India,"Wed, 6 Oct",Mumbai,Bangalore,19:00,"12:30
++ 1 day",17h 30m,1 Stop,"9,201"
+325,Air India,"Wed, 6 Oct",Mumbai,Bangalore,18:00,"12:30
++ 1 day",18h 30m,1 Stop,"9,201"
+326,Air India,"Wed, 6 Oct",Mumbai,Bangalore,16:00,"12:30
++ 1 day",20h 30m,1 Stop,"9,201"
+327,Air India,"Wed, 6 Oct",Mumbai,Bangalore,15:40,"12:30
++ 1 day",20h 50m,2 Stop(s),"9,201"
+328,Air India,"Wed, 6 Oct",Mumbai,Bangalore,19:00,"22:20
++ 1 day",27h 20m,2 Stop(s),"11,469"
+329,Air India,"Wed, 6 Oct",Mumbai,Bangalore,19:00,"22:20
++ 1 day",27h 20m,2 Stop(s),"11,469"
+330,Air India,"Wed, 6 Oct",Mumbai,Bangalore,18:00,"22:20
++ 1 day",28h 20m,2 Stop(s),"11,469"
+331,Air India,"Wed, 6 Oct",Mumbai,Bangalore,18:00,"22:20
++ 1 day",28h 20m,2 Stop(s),"11,469"
+332,Air India,"Wed, 6 Oct",Mumbai,Bangalore,18:00,"22:20
++ 1 day",28h 20m,2 Stop(s),"11,469"
+333,Air India,"Wed, 6 Oct",Mumbai,Bangalore,16:00,"22:20
++ 1 day",30h 20m,2 Stop(s),"11,469"
+334,Air India,"Wed, 6 Oct",Mumbai,Bangalore,18:00,"11:20
++ 1 day",17h 20m,2 Stop(s),"11,784"
+335,Air India,"Wed, 6 Oct",Mumbai,Bangalore,16:00,"11:20
++ 1 day",19h 20m,2 Stop(s),"11,784"
+336,Air India,"Wed, 6 Oct",Mumbai,Bangalore,15:40,"11:20
++ 1 day",19h 40m,3 Stop(s),"11,784"
+337,Air India,"Wed, 6 Oct",Mumbai,Bangalore,10:00,"11:20
++ 1 day",25h 20m,2 Stop(s),"11,784"
+338,Air India,"Wed, 6 Oct",Mumbai,Bangalore,10:00,"11:20
++ 1 day",25h 20m,2 Stop(s),"11,784"
+339,Air India,"Wed, 6 Oct",Mumbai,Bangalore,10:00,"11:20
++ 1 day",25h 20m,3 Stop(s),"11,784"
+340,Air India,"Wed, 6 Oct",Mumbai,Bangalore,11:10,"12:50
++ 1 day",25h 40m,1 Stop,"12,138"
+341,Air India,"Wed, 6 Oct",Mumbai,Bangalore,16:00,"11:20
++ 1 day",19h 20m,3 Stop(s),"12,246"
+342,Go First,"Wed, 6 Oct",Mumbai,Bangalore,19:20,"11:15
++ 1 day",15h 55m,1 Stop,"12,847"
+343,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,14:40,20:25,5h 45m,1 Stop,"12,978"
+344,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,17:30,23:20,5h 50m,1 Stop,"12,978"
+345,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,10:25,16:55,6h 30m,1 Stop,"12,978"
+346,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,11:55,18:50,6h 55m,1 Stop,"12,978"
+347,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,15:45,22:40,6h 55m,1 Stop,"12,978"
+348,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,15:45,23:20,7h 35m,1 Stop,"12,978"
+349,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,14:40,22:40,8h 00m,1 Stop,"12,978"
+350,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,08:45,16:55,8h 10m,1 Stop,"12,978"
+351,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,10:25,18:50,8h 25m,1 Stop,"12,978"
+352,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,11:55,20:25,8h 30m,1 Stop,"12,978"
+353,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,14:40,23:20,8h 40m,1 Stop,"12,978"
+354,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,07:30,16:55,9h 25m,1 Stop,"12,978"
+355,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,10:25,20:25,10h 00m,1 Stop,"12,978"
+356,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,08:45,18:50,10h 05m,1 Stop,"12,978"
+357,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,11:55,22:40,10h 45m,1 Stop,"12,978"
+358,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,07:30,18:50,11h 20m,1 Stop,"12,978"
+359,Go First,"Wed, 6 Oct",Mumbai,Bangalore,07:40,15:20,7h 40m,1 Stop,"13,557"
+360,Go First,"Wed, 6 Oct",Mumbai,Bangalore,07:40,22:55,15h 15m,1 Stop,"13,557"
+361,Air India,"Wed, 6 Oct",Mumbai,Bangalore,05:45,22:20,16h 35m,1 Stop,"14,553"
+362,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,16:05,"17:55
++ 1 day",25h 50m,1 Stop,"14,658"
+363,Vistara,"Wed, 6 Oct",Mumbai,Bangalore,09:30,17:55,8h 25m,1 Stop,"15,078"
+364,Air India,"Wed, 6 Oct",Mumbai,Bangalore,10:00,22:20,12h 20m,2 Stop(s),"17,874"
+365,Air India,"Wed, 6 Oct",Mumbai,Bangalore,20:30,"16:45
++ 1 day",20h 15m,1 Stop,"19,173"
+366,Air India,"Wed, 6 Oct",Mumbai,Bangalore,09:50,22:20,12h 30m,3 Stop(s),"22,388"
+367,Air India,"Wed, 6 Oct",Mumbai,Bangalore,06:10,23:20,17h 10m,1 Stop,"25,893"
+368,Air Asia,"Wed, 6 Oct",Mumbai,New Delhi,16:40,"00:45
++ 1 day",8h 05m,1 Stop,"5,941"
+369,Air Asia,"Wed, 6 Oct",Mumbai,New Delhi,12:15,22:35,10h 20m,1 Stop,"5,941"
+370,Air Asia,"Wed, 6 Oct",Mumbai,New Delhi,09:55,20:20,10h 25m,1 Stop,"5,941"
+371,Go First,"Wed, 6 Oct",Mumbai,New Delhi,06:00,08:05,2h 05m,Non Stop,"5,942"
+372,Go First,"Wed, 6 Oct",Mumbai,New Delhi,15:45,17:50,2h 05m,Non Stop,"5,942"
+373,Go First,"Wed, 6 Oct",Mumbai,New Delhi,19:20,21:25,2h 05m,Non Stop,"5,942"
+374,Go First,"Wed, 6 Oct",Mumbai,New Delhi,09:10,11:20,2h 10m,Non Stop,"5,942"
+375,Go First,"Wed, 6 Oct",Mumbai,New Delhi,07:00,10:45,3h 45m,1 Stop,"5,942"
+376,Go First,"Wed, 6 Oct",Mumbai,New Delhi,14:00,19:10,5h 10m,1 Stop,"5,942"
+377,Go First,"Wed, 6 Oct",Mumbai,New Delhi,14:20,19:55,5h 35m,1 Stop,"5,942"
+378,Go First,"Wed, 6 Oct",Mumbai,New Delhi,17:50,23:55,6h 05m,1 Stop,"5,942"
+379,Go First,"Wed, 6 Oct",Mumbai,New Delhi,12:40,19:55,7h 15m,1 Stop,"5,942"
+380,Go First,"Wed, 6 Oct",Mumbai,New Delhi,14:00,21:40,7h 40m,1 Stop,"5,942"
+381,Go First,"Wed, 6 Oct",Mumbai,New Delhi,09:50,19:55,10h 05m,1 Stop,"5,942"
+382,Go First,"Wed, 6 Oct",Mumbai,New Delhi,10:30,22:40,12h 10m,1 Stop,"5,942"
+383,Go First,"Wed, 6 Oct",Mumbai,New Delhi,07:00,19:55,12h 55m,1 Stop,"5,942"
+384,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,09:15,11:20,2h 05m,Non Stop,"5,943"
+385,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,17:35,19:40,2h 05m,Non Stop,"5,943"
+386,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,18:55,21:00,2h 05m,Non Stop,"5,943"
+387,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,20:55,23:00,2h 05m,Non Stop,"5,943"
+388,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,22:10,"00:15
++ 1 day",2h 05m,Non Stop,"5,943"
+389,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,06:05,08:15,2h 10m,Non Stop,"5,943"
+390,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,07:05,09:15,2h 10m,Non Stop,"5,943"
+391,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,07:30,09:40,2h 10m,Non Stop,"5,943"
+392,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,08:15,10:25,2h 10m,Non Stop,"5,943"
+393,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,11:55,14:05,2h 10m,Non Stop,"5,943"
+394,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,17:30,19:40,2h 10m,Non Stop,"5,943"
+395,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,18:30,20:40,2h 10m,Non Stop,"5,943"
+396,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,22:45,"00:55
++ 1 day",2h 10m,Non Stop,"5,943"
+397,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,08:45,11:00,2h 15m,Non Stop,"5,943"
+398,Air India,"Wed, 6 Oct",Mumbai,New Delhi,10:00,12:15,2h 15m,Non Stop,"5,943"
+399,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,10:25,12:40,2h 15m,Non Stop,"5,943"
+400,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,11:05,13:20,2h 15m,Non Stop,"5,943"
+401,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,14:40,16:55,2h 15m,Non Stop,"5,943"
+402,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,14:45,17:00,2h 15m,Non Stop,"5,943"
+403,Air India,"Wed, 6 Oct",Mumbai,New Delhi,19:00,21:15,2h 15m,Non Stop,"5,943"
+404,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,21:55,"00:10
++ 1 day",2h 15m,Non Stop,"5,943"
+405,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,15:45,18:05,2h 20m,Non Stop,"5,943"
+406,Air India,"Wed, 6 Oct",Mumbai,New Delhi,16:00,18:20,2h 20m,Non Stop,"5,943"
+407,SpiceJet,"Wed, 6 Oct",Mumbai,New Delhi,21:55,"00:20
++ 1 day",2h 25m,Non Stop,"5,943"
+408,Air India,"Wed, 6 Oct",Mumbai,New Delhi,18:00,20:30,2h 30m,Non Stop,"5,943"
+409,SpiceJet,"Wed, 6 Oct",Mumbai,New Delhi,14:30,17:50,3h 20m,1 Stop,"5,943"
+410,Air India,"Wed, 6 Oct",Mumbai,New Delhi,15:40,19:10,3h 30m,1 Stop,"5,943"
+411,Air India,"Wed, 6 Oct",Mumbai,New Delhi,07:05,11:10,4h 05m,1 Stop,"5,943"
+412,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,10:35,14:55,4h 20m,1 Stop,"5,943"
+413,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,08:55,13:30,4h 35m,1 Stop,"5,943"
+414,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,13:40,18:15,4h 35m,1 Stop,"5,943"
+415,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,13:55,18:55,5h 00m,1 Stop,"5,943"
+416,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,12:55,18:05,5h 10m,1 Stop,"5,943"
+417,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,14:25,19:35,5h 10m,1 Stop,"5,943"
+418,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,05:35,10:50,5h 15m,1 Stop,"5,943"
+419,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,07:45,13:00,5h 15m,1 Stop,"5,943"
+420,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,15:25,20:40,5h 15m,1 Stop,"5,943"
+421,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,07:20,12:40,5h 20m,1 Stop,"5,943"
+422,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,10:55,16:15,5h 20m,1 Stop,"5,943"
+423,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,09:00,14:50,5h 50m,1 Stop,"5,943"
+424,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,13:40,19:40,6h 00m,1 Stop,"5,943"
+425,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,16:15,22:15,6h 00m,1 Stop,"5,943"
+426,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,18:15,"00:30
++ 1 day",6h 15m,1 Stop,"5,943"
+427,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,18:05,"00:30
++ 1 day",6h 25m,1 Stop,"5,943"
+428,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,16:30,23:00,6h 30m,1 Stop,"5,943"
+429,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,12:05,18:55,6h 50m,1 Stop,"5,943"
+430,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,08:15,15:10,6h 55m,1 Stop,"5,943"
+431,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,13:55,20:50,6h 55m,1 Stop,"5,943"
+432,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,09:00,16:10,7h 10m,1 Stop,"5,943"
+433,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,10:00,17:15,7h 15m,1 Stop,"5,943"
+434,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,07:25,14:50,7h 25m,1 Stop,"5,943"
+435,SpiceJet,"Wed, 6 Oct",Mumbai,New Delhi,09:45,20:40,10h 55m,1 Stop,"5,943"
+436,SpiceJet,"Wed, 6 Oct",Mumbai,New Delhi,09:45,"09:55
++ 1 day",24h 10m,1 Stop,"5,943"
+437,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,19:45,21:55,2h 10m,Non Stop,"6,993"
+438,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,12:15,16:45,4h 30m,1 Stop,"8,148"
+439,Air India,"Wed, 6 Oct",Mumbai,New Delhi,11:10,"04:40
++ 1 day",17h 30m,1 Stop,"8,148"
+440,Air India,"Wed, 6 Oct",Mumbai,New Delhi,11:10,"09:40
++ 1 day",22h 30m,1 Stop,"8,148"
+441,Air India,"Wed, 6 Oct",Mumbai,New Delhi,14:20,"16:30
++ 1 day",26h 10m,1 Stop,"8,148"
+442,Air India,"Wed, 6 Oct",Mumbai,New Delhi,19:20,23:25,4h 05m,1 Stop,"8,296"
+443,Air India,"Wed, 6 Oct",Mumbai,New Delhi,05:45,15:55,10h 10m,1 Stop,"8,296"
+444,Air India,"Wed, 6 Oct",Mumbai,New Delhi,19:20,"11:50
++ 1 day",16h 30m,1 Stop,"8,296"
+445,Air India,"Wed, 6 Oct",Mumbai,New Delhi,05:45,23:25,17h 40m,1 Stop,"8,296"
+446,Air Asia,"Wed, 6 Oct",Mumbai,New Delhi,08:00,"00:45
++ 1 day",16h 45m,1 Stop,"8,857"
+447,Air India,"Wed, 6 Oct",Mumbai,New Delhi,16:55,23:55,7h 00m,1 Stop,"8,988"
+448,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,09:30,16:30,7h 00m,1 Stop,"9,408"
+449,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,09:30,19:55,10h 25m,1 Stop,"9,408"
+450,Air India,"Wed, 6 Oct",Mumbai,New Delhi,08:20,20:30,12h 10m,1 Stop,"9,504"
+451,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,16:05,"16:30
++ 1 day",24h 25m,1 Stop,"9,723"
+452,Air India,"Wed, 6 Oct",Mumbai,New Delhi,05:35,10:10,4h 35m,1 Stop,"9,828"
+453,Air India,"Wed, 6 Oct",Mumbai,New Delhi,19:25,"00:25
++ 1 day",5h 00m,1 Stop,"9,828"
+454,Air India,"Wed, 6 Oct",Mumbai,New Delhi,08:05,15:45,7h 40m,1 Stop,"9,828"
+455,Air India,"Wed, 6 Oct",Mumbai,New Delhi,05:45,13:50,8h 05m,1 Stop,"9,828"
+456,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,06:55,20:10,13h 15m,1 Stop,"9,828"
+457,Air India,"Wed, 6 Oct",Mumbai,New Delhi,08:05,21:35,13h 30m,1 Stop,"9,828"
+458,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,19:15,"09:00
++ 1 day",13h 45m,1 Stop,"9,828"
+459,Air India,"Wed, 6 Oct",Mumbai,New Delhi,19:00,"09:25
++ 1 day",14h 25m,1 Stop,"9,828"
+460,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,06:55,22:50,15h 55m,1 Stop,"9,828"
+461,Air India,"Wed, 6 Oct",Mumbai,New Delhi,05:45,22:50,17h 05m,2 Stop(s),"9,828"
+462,Air India,"Wed, 6 Oct",Mumbai,New Delhi,05:45,"00:25
++ 1 day",18h 40m,1 Stop,"9,828"
+463,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,19:15,"20:10
++ 1 day",24h 55m,1 Stop,"9,828"
+464,Air India,"Wed, 6 Oct",Mumbai,New Delhi,21:15,"23:00
++ 1 day",25h 45m,1 Stop,"9,828"
+465,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,06:55,"09:00
++ 1 day",26h 05m,1 Stop,"9,828"
+466,Air India,"Wed, 6 Oct",Mumbai,New Delhi,19:25,"23:00
++ 1 day",27h 35m,1 Stop,"9,828"
+467,Air India,"Wed, 6 Oct",Mumbai,New Delhi,09:30,16:15,6h 45m,1 Stop,"9,976"
+468,Air India,"Wed, 6 Oct",Mumbai,New Delhi,16:25,"16:45
++ 1 day",24h 20m,1 Stop,"9,976"
+469,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,06:55,12:30,5h 35m,1 Stop,"10,038"
+470,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,10:35,16:50,6h 15m,1 Stop,"10,038"
+471,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,19:15,"12:30
++ 1 day",17h 15m,1 Stop,"10,248"
+472,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,19:15,"22:50
++ 1 day",27h 35m,1 Stop,"10,563"
+473,Air India,"Wed, 6 Oct",Mumbai,New Delhi,21:15,"18:30
++ 1 day",21h 15m,1 Stop,"10,668"
+474,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,11:40,17:50,6h 10m,1 Stop,"10,826"
+475,Air India,"Wed, 6 Oct",Mumbai,New Delhi,08:20,17:35,9h 15m,1 Stop,"10,869"
+476,SpiceJet,"Wed, 6 Oct",Mumbai,New Delhi,12:15,20:50,8h 35m,1 Stop,"10,962"
+477,SpiceJet,"Wed, 6 Oct",Mumbai,New Delhi,12:15,"10:45
++ 1 day",22h 30m,1 Stop,"10,962"
+478,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,08:15,12:55,4h 40m,1 Stop,"11,088"
+479,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,11:10,16:10,5h 00m,1 Stop,"11,193"
+480,Air India,"Wed, 6 Oct",Mumbai,New Delhi,08:05,19:00,10h 55m,2 Stop(s),"11,246"
+481,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,11:25,"14:40
++ 1 day",27h 15m,1 Stop,"11,298"
+482,Air India,"Wed, 6 Oct",Mumbai,New Delhi,12:00,23:15,11h 15m,2 Stop(s),"11,508"
+483,Air India,"Wed, 6 Oct",Mumbai,New Delhi,12:00,23:45,11h 45m,1 Stop,"11,508"
+484,Air India,"Wed, 6 Oct",Mumbai,New Delhi,05:30,18:00,12h 30m,1 Stop,"11,718"
+485,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,12:05,17:10,5h 05m,1 Stop,"11,802"
+486,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,11:25,17:05,5h 40m,1 Stop,"11,823"
+487,Vistara,"Wed, 6 Oct",Mumbai,New Delhi,10:15,17:05,6h 50m,1 Stop,"11,823"
+488,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,11:15,18:05,6h 50m,1 Stop,"12,611"
+489,Go First,"Wed, 6 Oct",Mumbai,New Delhi,21:00,"08:05
++ 1 day",11h 05m,1 Stop,"12,873"
+490,SpiceJet,"Wed, 6 Oct",Mumbai,New Delhi,06:25,08:35,2h 10m,Non Stop,"14,238"
+491,Go First,"Wed, 6 Oct",Mumbai,New Delhi,10:50,16:20,5h 30m,1 Stop,"14,239"
+492,Air India,"Wed, 6 Oct",Mumbai,New Delhi,19:05,"18:00
++ 1 day",22h 55m,1 Stop,"16,443"
+493,IndiGo,"Wed, 6 Oct",Mumbai,New Delhi,14:10,19:15,5h 05m,1 Stop,"18,753"
+494,Go First,"Wed, 6 Oct",Mumbai,New Delhi,10:50,21:15,10h 25m,2 Stop(s),"24,631"
+495,Go First,"Wed, 6 Oct",Mumbai,New Delhi,10:50,21:15,10h 25m,2 Stop(s),"24,631"
+496,Air Asia,"Wed, 6 Oct",New Delhi,Bangalore,12:40,18:20,5h 40m,1 Stop,"7,422"
+497,Air Asia,"Wed, 6 Oct",New Delhi,Bangalore,15:25,21:20,5h 55m,1 Stop,"7,422"
+498,Air Asia,"Wed, 6 Oct",New Delhi,Bangalore,11:55,18:20,6h 25m,1 Stop,"7,422"
+499,Air Asia,"Wed, 6 Oct",New Delhi,Bangalore,04:55,11:30,6h 35m,1 Stop,"7,422"
+500,Air Asia,"Wed, 6 Oct",New Delhi,Bangalore,07:15,13:55,6h 40m,1 Stop,"7,422"
+501,Air Asia,"Wed, 6 Oct",New Delhi,Bangalore,06:10,13:55,7h 45m,1 Stop,"7,422"
+502,Air Asia,"Wed, 6 Oct",New Delhi,Bangalore,16:20,"01:00
++ 1 day",8h 40m,1 Stop,"7,422"
+503,Air Asia,"Wed, 6 Oct",New Delhi,Bangalore,05:35,16:35,11h 00m,1 Stop,"7,422"
+504,Go First,"Wed, 6 Oct",New Delhi,Bangalore,08:40,11:15,2h 35m,Non Stop,"7,424"
+505,Go First,"Wed, 6 Oct",New Delhi,Bangalore,19:45,22:20,2h 35m,Non Stop,"7,424"
+506,Go First,"Wed, 6 Oct",New Delhi,Bangalore,14:20,19:30,5h 10m,1 Stop,"7,424"
+507,Go First,"Wed, 6 Oct",New Delhi,Bangalore,08:10,13:25,5h 15m,1 Stop,"7,424"
+508,Go First,"Wed, 6 Oct",New Delhi,Bangalore,16:10,22:15,6h 05m,1 Stop,"7,424"
+509,Go First,"Wed, 6 Oct",New Delhi,Bangalore,05:45,15:20,9h 35m,1 Stop,"7,424"
+510,Go First,"Wed, 6 Oct",New Delhi,Bangalore,21:30,"07:45
++ 1 day",10h 15m,1 Stop,"7,424"
+511,Go First,"Wed, 6 Oct",New Delhi,Bangalore,08:40,19:30,10h 50m,1 Stop,"7,424"
+512,Go First,"Wed, 6 Oct",New Delhi,Bangalore,09:45,20:50,11h 05m,1 Stop,"7,424"
+513,Go First,"Wed, 6 Oct",New Delhi,Bangalore,08:50,20:40,11h 50m,1 Stop,"7,424"
+514,Go First,"Wed, 6 Oct",New Delhi,Bangalore,18:40,"07:45
++ 1 day",13h 05m,1 Stop,"7,424"
+515,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,08:10,10:50,2h 40m,Non Stop,"7,425"
+516,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,20:40,23:20,2h 40m,Non Stop,"7,425"
+517,Air India,"Wed, 6 Oct",New Delhi,Bangalore,21:15,23:55,2h 40m,Non Stop,"7,425"
+518,Air India,"Wed, 6 Oct",New Delhi,Bangalore,06:10,08:55,2h 45m,Non Stop,"7,425"
+519,Air India,"Wed, 6 Oct",New Delhi,Bangalore,09:45,12:30,2h 45m,Non Stop,"7,425"
+520,Air India,"Wed, 6 Oct",New Delhi,Bangalore,13:30,16:15,2h 45m,Non Stop,"7,425"
+521,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,14:10,16:55,2h 45m,Non Stop,"7,425"
+522,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,16:05,18:50,2h 45m,Non Stop,"7,425"
+523,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,22:20,"01:05
++ 1 day",2h 45m,Non Stop,"7,425"
+524,SpiceJet,"Wed, 6 Oct",New Delhi,Bangalore,22:40,"01:25
++ 1 day",2h 45m,Non Stop,"7,425"
+525,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,17:35,20:25,2h 50m,Non Stop,"7,425"
+526,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,19:50,22:40,2h 50m,Non Stop,"7,425"
+527,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,20:15,23:05,2h 50m,Non Stop,"7,425"
+528,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,18:45,21:40,2h 55m,Non Stop,"7,425"
+529,SpiceJet,"Wed, 6 Oct",New Delhi,Bangalore,20:05,23:10,3h 05m,Non Stop,"7,425"
+530,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,06:05,09:15,3h 10m,Non Stop,"7,425"
+531,SpiceJet,"Wed, 6 Oct",New Delhi,Bangalore,12:00,16:55,4h 55m,1 Stop,"7,425"
+532,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,12:20,17:15,4h 55m,1 Stop,"7,425"
+533,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,05:50,11:05,5h 15m,1 Stop,"7,425"
+534,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,10:10,15:25,5h 15m,1 Stop,"7,425"
+535,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,06:55,12:20,5h 25m,1 Stop,"7,425"
+536,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,08:50,14:15,5h 25m,1 Stop,"7,425"
+537,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,14:00,19:25,5h 25m,1 Stop,"7,425"
+538,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,12:10,17:40,5h 30m,1 Stop,"7,425"
+539,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,09:50,15:25,5h 35m,1 Stop,"7,425"
+540,SpiceJet,"Wed, 6 Oct",New Delhi,Bangalore,11:20,17:00,5h 40m,1 Stop,"7,425"
+541,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,13:10,18:55,5h 45m,1 Stop,"7,425"
+542,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,11:35,17:40,6h 05m,1 Stop,"7,425"
+543,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,06:15,12:25,6h 10m,1 Stop,"7,425"
+544,SpiceJet,"Wed, 6 Oct",New Delhi,Bangalore,14:50,21:00,6h 10m,1 Stop,"7,425"
+545,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,12:00,18:15,6h 15m,1 Stop,"7,425"
+546,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,13:35,19:50,6h 15m,1 Stop,"7,425"
+547,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,07:40,14:05,6h 25m,1 Stop,"7,425"
+548,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,05:25,11:55,6h 30m,1 Stop,"7,425"
+549,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,16:30,23:05,6h 35m,1 Stop,"7,425"
+550,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,17:20,23:55,6h 35m,1 Stop,"7,425"
+551,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,12:25,19:15,6h 50m,1 Stop,"7,425"
+552,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,08:30,15:25,6h 55m,1 Stop,"7,425"
+553,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,07:10,14:15,7h 05m,1 Stop,"7,425"
+554,SpiceJet,"Wed, 6 Oct",New Delhi,Bangalore,07:25,17:35,10h 10m,1 Stop,"7,425"
+555,SpiceJet,"Wed, 6 Oct",New Delhi,Bangalore,06:50,19:25,12h 35m,1 Stop,"7,425"
+556,SpiceJet,"Wed, 6 Oct",New Delhi,Bangalore,10:50,"12:00
++ 1 day",25h 10m,1 Stop,"7,425"
+557,SpiceJet,"Wed, 6 Oct",New Delhi,Bangalore,09:25,"12:00
++ 1 day",26h 35m,1 Stop,"7,425"
+558,Air Asia,"Wed, 6 Oct",New Delhi,Bangalore,16:15,18:45,2h 30m,Non Stop,"7,426"
+559,Air Asia,"Wed, 6 Oct",New Delhi,Bangalore,08:00,10:50,2h 50m,Non Stop,"7,426"
+560,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,11:05,13:45,2h 40m,Non Stop,"7,635"
+561,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,16:25,19:15,2h 50m,Non Stop,"7,635"
+562,Air Asia,"Wed, 6 Oct",New Delhi,Bangalore,12:40,22:25,9h 45m,2 Stop(s),"7,741"
+563,Air Asia,"Wed, 6 Oct",New Delhi,Bangalore,11:55,22:25,10h 30m,2 Stop(s),"7,741"
+564,SpiceJet,"Wed, 6 Oct",New Delhi,Bangalore,18:15,"16:55
++ 1 day",22h 40m,1 Stop,"7,741"
+565,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,13:10,16:00,2h 50m,Non Stop,"7,845"
+566,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,09:55,15:45,5h 50m,1 Stop,"9,362"
+567,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,22:00,"04:30
++ 1 day",6h 30m,1 Stop,"9,683"
+568,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,20:35,"08:50
++ 1 day",12h 15m,1 Stop,"9,840"
+569,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,17:45,"08:50
++ 1 day",15h 05m,1 Stop,"9,840"
+570,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,14:45,"08:50
++ 1 day",18h 05m,1 Stop,"9,840"
+571,Air India,"Wed, 6 Oct",New Delhi,Bangalore,21:50,"22:20
++ 1 day",24h 30m,1 Stop,"9,840"
+572,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,07:10,"08:50
++ 1 day",25h 40m,1 Stop,"9,840"
+573,Air India,"Wed, 6 Oct",New Delhi,Bangalore,17:30,"22:20
++ 1 day",28h 50m,2 Stop(s),"9,840"
+574,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,10:35,17:30,6h 55m,1 Stop,"9,914"
+575,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,06:10,11:40,5h 30m,1 Stop,"10,008"
+576,Air India,"Wed, 6 Oct",New Delhi,Bangalore,21:50,"11:20
++ 1 day",13h 30m,1 Stop,"10,155"
+577,Air India,"Wed, 6 Oct",New Delhi,Bangalore,17:30,"11:20
++ 1 day",17h 50m,2 Stop(s),"10,155"
+578,Air India,"Wed, 6 Oct",New Delhi,Bangalore,16:35,"11:20
++ 1 day",18h 45m,1 Stop,"10,155"
+579,Air India,"Wed, 6 Oct",New Delhi,Bangalore,09:45,"11:20
++ 1 day",25h 35m,1 Stop,"10,155"
+580,Air India,"Wed, 6 Oct",New Delhi,Bangalore,08:20,"11:20
++ 1 day",27h 00m,1 Stop,"10,155"
+581,SpiceJet,"Wed, 6 Oct",New Delhi,Bangalore,16:40,"19:25
++ 1 day",26h 45m,1 Stop,"10,245"
+582,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,16:10,21:20,5h 10m,1 Stop,"10,470"
+583,Air India,"Wed, 6 Oct",New Delhi,Bangalore,20:55,"11:20
++ 1 day",14h 25m,2 Stop(s),"10,470"
+584,Air India,"Wed, 6 Oct",New Delhi,Bangalore,20:55,"14:25
++ 1 day",17h 30m,1 Stop,"10,470"
+585,Air India,"Wed, 6 Oct",New Delhi,Bangalore,13:00,"12:50
++ 1 day",23h 50m,1 Stop,"10,470"
+586,Air India,"Wed, 6 Oct",New Delhi,Bangalore,12:00,"12:50
++ 1 day",24h 50m,1 Stop,"10,470"
+587,Air India,"Wed, 6 Oct",New Delhi,Bangalore,06:00,"11:20
++ 1 day",29h 20m,2 Stop(s),"10,470"
+588,Go First,"Wed, 6 Oct",New Delhi,Bangalore,20:20,"11:10
++ 1 day",14h 50m,1 Stop,"10,549"
+589,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,12:45,17:45,5h 00m,1 Stop,"10,680"
+590,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,15:30,20:55,5h 25m,1 Stop,"10,680"
+591,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,08:55,15:25,6h 30m,1 Stop,"10,680"
+592,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,10:20,17:45,7h 25m,1 Stop,"10,680"
+593,Air India,"Wed, 6 Oct",New Delhi,Bangalore,10:40,18:30,7h 50m,1 Stop,"10,680"
+594,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,12:45,20:55,8h 10m,1 Stop,"10,680"
+595,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,09:30,17:45,8h 15m,1 Stop,"10,680"
+596,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,08:50,17:45,8h 55m,1 Stop,"10,680"
+597,Air India,"Wed, 6 Oct",New Delhi,Bangalore,09:00,18:30,9h 30m,1 Stop,"10,680"
+598,Air India,"Wed, 6 Oct",New Delhi,Bangalore,08:00,18:30,10h 30m,1 Stop,"10,680"
+599,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,10:20,20:55,10h 35m,1 Stop,"10,680"
+600,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,09:30,20:55,11h 25m,1 Stop,"10,680"
+601,Air India,"Wed, 6 Oct",New Delhi,Bangalore,07:00,18:30,11h 30m,1 Stop,"10,680"
+602,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,06:00,17:45,11h 45m,1 Stop,"10,680"
+603,Air India,"Wed, 6 Oct",New Delhi,Bangalore,20:00,"07:55
++ 1 day",11h 55m,1 Stop,"10,680"
+604,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,20:50,"08:50
++ 1 day",12h 00m,1 Stop,"10,680"
+605,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,08:50,20:55,12h 05m,1 Stop,"10,680"
+606,Air India,"Wed, 6 Oct",New Delhi,Bangalore,19:00,"07:55
++ 1 day",12h 55m,1 Stop,"10,680"
+607,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,19:45,"08:50
++ 1 day",13h 05m,1 Stop,"10,680"
+608,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,20:50,"10:00
++ 1 day",13h 10m,1 Stop,"10,680"
+609,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,18:55,"08:50
++ 1 day",13h 55m,1 Stop,"10,680"
+610,Air India,"Wed, 6 Oct",New Delhi,Bangalore,17:50,"07:55
++ 1 day",14h 05m,2 Stop(s),"10,680"
+611,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,19:45,"10:00
++ 1 day",14h 15m,1 Stop,"10,680"
+612,Air India,"Wed, 6 Oct",New Delhi,Bangalore,20:00,"11:10
++ 1 day",15h 10m,1 Stop,"10,680"
+613,Air India,"Wed, 6 Oct",New Delhi,Bangalore,19:00,"11:10
++ 1 day",16h 10m,1 Stop,"10,680"
+614,Air India,"Wed, 6 Oct",New Delhi,Bangalore,15:05,"07:55
++ 1 day",16h 50m,2 Stop(s),"10,680"
+615,Air India,"Wed, 6 Oct",New Delhi,Bangalore,17:50,"11:10
++ 1 day",17h 20m,2 Stop(s),"10,680"
+616,Air India,"Wed, 6 Oct",New Delhi,Bangalore,20:00,"18:30
++ 1 day",22h 30m,1 Stop,"10,680"
+617,Air India,"Wed, 6 Oct",New Delhi,Bangalore,19:00,"18:30
++ 1 day",23h 30m,1 Stop,"10,680"
+618,Go First,"Wed, 6 Oct",New Delhi,Bangalore,14:10,20:40,6h 30m,1 Stop,"11,153"
+619,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,11:10,16:00,4h 50m,1 Stop,"11,310"
+620,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,08:30,16:00,7h 30m,1 Stop,"11,310"
+621,Air India,"Wed, 6 Oct",New Delhi,Bangalore,08:40,"07:55
++ 1 day",23h 15m,2 Stop(s),"11,629"
+622,Air India,"Wed, 6 Oct",New Delhi,Bangalore,08:40,"11:10
++ 1 day",26h 30m,2 Stop(s),"11,629"
+623,Air India,"Wed, 6 Oct",New Delhi,Bangalore,08:40,"18:30
++ 1 day",33h 50m,2 Stop(s),"11,629"
+624,Air India,"Wed, 6 Oct",New Delhi,Bangalore,08:40,"18:30
++ 1 day",33h 50m,2 Stop(s),"11,629"
+625,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,07:30,17:45,10h 15m,1 Stop,"11,730"
+626,Air India,"Wed, 6 Oct",New Delhi,Bangalore,14:10,"17:55
++ 1 day",27h 45m,2 Stop(s),"11,783"
+627,SpiceJet,"Wed, 6 Oct",New Delhi,Bangalore,18:20,"11:30
++ 1 day",17h 10m,1 Stop,"11,941"
+628,Go First,"Wed, 6 Oct",New Delhi,Bangalore,12:35,22:15,9h 40m,1 Stop,"12,045"
+629,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,17:10,"17:55
++ 1 day",24h 45m,1 Stop,"12,150"
+630,Air India,"Wed, 6 Oct",New Delhi,Bangalore,06:20,"07:55
++ 1 day",25h 35m,2 Stop(s),"12,321"
+631,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,17:30,"00:30
++ 1 day",7h 00m,1 Stop,"12,360"
+632,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,08:55,14:20,5h 25m,1 Stop,"12,621"
+633,Air India,"Wed, 6 Oct",New Delhi,Bangalore,09:45,"11:20
++ 1 day",25h 35m,2 Stop(s),"12,675"
+634,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,14:45,21:05,6h 20m,1 Stop,"13,515"
+635,SpiceJet,"Wed, 6 Oct",New Delhi,Bangalore,13:10,"15:15
++ 1 day",26h 05m,1 Stop,"13,657"
+636,IndiGo,"Wed, 6 Oct",New Delhi,Bangalore,09:30,16:40,7h 10m,1 Stop,"14,040"
+637,Vistara,"Wed, 6 Oct",New Delhi,Bangalore,13:20,20:55,7h 35m,2 Stop(s),"15,405"
+638,Air India,"Wed, 6 Oct",New Delhi,Bangalore,16:35,22:20,5h 45m,1 Stop,"16,245"
+639,Air India,"Wed, 6 Oct",New Delhi,Bangalore,09:45,22:20,12h 35m,1 Stop,"16,245"
+640,Air India,"Wed, 6 Oct",New Delhi,Bangalore,08:20,22:20,14h 00m,1 Stop,"16,245"
+641,Air India,"Wed, 6 Oct",New Delhi,Bangalore,20:15,"16:45
++ 1 day",20h 30m,1 Stop,"18,135"
+642,Air India,"Wed, 6 Oct",New Delhi,Bangalore,16:55,23:20,6h 25m,1 Stop,"21,285"
+643,Air India,"Wed, 6 Oct",New Delhi,Bangalore,07:00,23:20,16h 20m,1 Stop,"21,285"
+644,SpiceJet,"Wed, 6 Oct",New Delhi,Bangalore,11:10,18:30,7h 20m,1 Stop,"23,817"
+645,Air Asia,"Wed, 6 Oct",Bangalore,New Delhi,05:45,10:55,5h 10m,1 Stop,"7,485"
+646,Air Asia,"Wed, 6 Oct",Bangalore,New Delhi,06:05,12:00,5h 55m,1 Stop,"7,485"
+647,Air Asia,"Wed, 6 Oct",Bangalore,New Delhi,12:55,20:10,7h 15m,1 Stop,"7,485"
+648,Air Asia,"Wed, 6 Oct",Bangalore,New Delhi,11:50,19:20,7h 30m,1 Stop,"7,485"
+649,Air Asia,"Wed, 6 Oct",Bangalore,New Delhi,07:10,15:40,8h 30m,1 Stop,"7,485"
+650,Air Asia,"Wed, 6 Oct",Bangalore,New Delhi,09:15,17:45,8h 30m,2 Stop(s),"7,485"
+651,Air Asia,"Wed, 6 Oct",Bangalore,New Delhi,16:15,"01:00
++ 1 day",8h 45m,1 Stop,"7,485"
+652,Go First,"Wed, 6 Oct",Bangalore,New Delhi,06:00,08:40,2h 40m,Non Stop,"7,487"
+653,Go First,"Wed, 6 Oct",Bangalore,New Delhi,21:15,23:55,2h 40m,Non Stop,"7,487"
+654,Go First,"Wed, 6 Oct",Bangalore,New Delhi,14:10,18:50,4h 40m,1 Stop,"7,487"
+655,Go First,"Wed, 6 Oct",Bangalore,New Delhi,13:55,19:55,6h 00m,1 Stop,"7,487"
+656,Go First,"Wed, 6 Oct",Bangalore,New Delhi,06:30,19:55,13h 25m,1 Stop,"7,487"
+657,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,12:55,15:40,2h 45m,Non Stop,"7,488"
+658,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,14:35,17:20,2h 45m,Non Stop,"7,488"
+659,SpiceJet,"Wed, 6 Oct",Bangalore,New Delhi,21:50,"00:35
++ 1 day",2h 45m,Non Stop,"7,488"
+660,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,05:30,08:20,2h 50m,Non Stop,"7,488"
+661,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,07:50,10:40,2h 50m,Non Stop,"7,488"
+662,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,09:40,12:30,2h 50m,Non Stop,"7,488"
+663,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,17:40,20:30,2h 50m,Non Stop,"7,488"
+664,SpiceJet,"Wed, 6 Oct",Bangalore,New Delhi,19:10,22:00,2h 50m,Non Stop,"7,488"
+665,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,21:30,"00:20
++ 1 day",2h 50m,Non Stop,"7,488"
+666,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,08:20,13:30,5h 10m,1 Stop,"7,488"
+667,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,12:20,17:35,5h 15m,1 Stop,"7,488"
+668,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,14:50,20:40,5h 50m,1 Stop,"7,488"
+669,SpiceJet,"Wed, 6 Oct",Bangalore,New Delhi,09:25,15:20,5h 55m,1 Stop,"7,488"
+670,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,14:50,20:50,6h 00m,1 Stop,"7,488"
+671,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,18:25,"00:30
++ 1 day",6h 05m,1 Stop,"7,488"
+672,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,10:00,16:50,6h 50m,1 Stop,"7,488"
+673,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,15:15,22:05,6h 50m,1 Stop,"7,488"
+674,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,08:50,15:45,6h 55m,1 Stop,"7,488"
+675,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,06:30,13:35,7h 05m,1 Stop,"7,488"
+676,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,07:45,14:55,7h 10m,1 Stop,"7,488"
+677,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,15:10,22:45,7h 35m,1 Stop,"7,488"
+678,SpiceJet,"Wed, 6 Oct",Bangalore,New Delhi,09:25,17:20,7h 55m,1 Stop,"7,488"
+679,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,08:50,16:50,8h 00m,1 Stop,"7,488"
+680,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,16:25,"00:30
++ 1 day",8h 05m,1 Stop,"7,488"
+681,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,10:00,18:55,8h 55m,1 Stop,"7,488"
+682,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,08:50,18:00,9h 10m,1 Stop,"7,488"
+683,SpiceJet,"Wed, 6 Oct",Bangalore,New Delhi,12:10,23:10,11h 00m,1 Stop,"7,488"
+684,SpiceJet,"Wed, 6 Oct",Bangalore,New Delhi,09:40,20:50,11h 10m,1 Stop,"7,488"
+685,SpiceJet,"Wed, 6 Oct",Bangalore,New Delhi,06:20,22:50,16h 30m,1 Stop,"7,488"
+686,SpiceJet,"Wed, 6 Oct",Bangalore,New Delhi,18:30,"15:55
++ 1 day",21h 25m,1 Stop,"7,488"
+687,SpiceJet,"Wed, 6 Oct",Bangalore,New Delhi,09:40,"10:45
++ 1 day",25h 05m,1 Stop,"7,488"
+688,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,17:55,20:30,2h 35m,Non Stop,"7,489"
+689,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,21:10,23:45,2h 35m,Non Stop,"7,489"
+690,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,07:00,09:40,2h 40m,Non Stop,"7,489"
+691,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,08:00,10:40,2h 40m,Non Stop,"7,489"
+692,Air Asia,"Wed, 6 Oct",Bangalore,New Delhi,11:25,14:05,2h 40m,Non Stop,"7,489"
+693,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,11:30,14:10,2h 40m,Non Stop,"7,489"
+694,Air India,"Wed, 6 Oct",Bangalore,New Delhi,06:10,08:55,2h 45m,Non Stop,"7,489"
+695,Air India,"Wed, 6 Oct",Bangalore,New Delhi,10:25,13:10,2h 45m,Non Stop,"7,489"
+696,Air India,"Wed, 6 Oct",Bangalore,New Delhi,13:20,16:05,2h 45m,Non Stop,"7,489"
+697,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,19:40,22:25,2h 45m,Non Stop,"7,489"
+698,Air India,"Wed, 6 Oct",Bangalore,New Delhi,17:45,20:35,2h 50m,Non Stop,"7,489"
+699,Air Asia,"Wed, 6 Oct",Bangalore,New Delhi,19:45,22:35,2h 50m,Non Stop,"7,489"
+700,Air Asia,"Wed, 6 Oct",Bangalore,New Delhi,09:15,19:15,10h 00m,2 Stop(s),"8,001"
+701,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,23:00,"08:25
++ 1 day",9h 25m,1 Stop,"8,134"
+702,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,10:20,18:55,8h 35m,2 Stop(s),"8,186"
+703,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,19:40,"03:25
++ 1 day",7h 45m,1 Stop,"8,780"
+704,Air Asia,"Wed, 6 Oct",Bangalore,New Delhi,18:45,"00:45
++ 1 day",6h 00m,1 Stop,"9,694"
+705,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,04:30,12:40,8h 10m,1 Stop,"9,746"
+706,Air India,"Wed, 6 Oct",Bangalore,New Delhi,18:45,"00:25
++ 1 day",5h 40m,1 Stop,"9,904"
+707,Air India,"Wed, 6 Oct",Bangalore,New Delhi,15:15,"00:25
++ 1 day",9h 10m,2 Stop(s),"9,904"
+708,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,19:25,"09:00
++ 1 day",13h 35m,1 Stop,"9,904"
+709,Air India,"Wed, 6 Oct",Bangalore,New Delhi,05:45,22:50,17h 05m,3 Stop(s),"9,904"
+710,Air India,"Wed, 6 Oct",Bangalore,New Delhi,05:45,"00:25
++ 1 day",18h 40m,2 Stop(s),"9,904"
+711,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,19:25,"20:10
++ 1 day",24h 45m,1 Stop,"9,904"
+712,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,08:35,16:10,7h 35m,2 Stop(s),"10,124"
+713,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,04:30,09:25,4h 55m,1 Stop,"10,218"
+714,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,11:00,16:50,5h 50m,1 Stop,"10,323"
+715,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,11:00,18:55,7h 55m,1 Stop,"10,323"
+716,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,19:25,"12:30
++ 1 day",17h 05m,1 Stop,"10,324"
+717,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,18:25,23:00,4h 35m,1 Stop,"10,744"
+718,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,07:45,12:40,4h 55m,1 Stop,"10,744"
+719,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,19:55,"00:55
++ 1 day",5h 00m,1 Stop,"10,744"
+720,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,18:25,"00:10
++ 1 day",5h 45m,1 Stop,"10,744"
+721,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,07:45,14:05,6h 20m,1 Stop,"10,744"
+722,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,18:25,"00:55
++ 1 day",6h 30m,1 Stop,"10,744"
+723,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,09:30,16:55,7h 25m,1 Stop,"10,744"
+724,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,09:30,18:05,8h 35m,1 Stop,"10,744"
+725,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,07:45,16:55,9h 10m,1 Stop,"10,744"
+726,Air India,"Wed, 6 Oct",Bangalore,New Delhi,08:35,18:20,9h 45m,1 Stop,"10,744"
+727,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,09:30,19:40,10h 10m,1 Stop,"10,744"
+728,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,07:45,18:05,10h 20m,1 Stop,"10,744"
+729,Air India,"Wed, 6 Oct",Bangalore,New Delhi,08:35,19:10,10h 35m,2 Stop(s),"10,744"
+730,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,09:30,20:40,11h 10m,1 Stop,"10,744"
+731,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,07:45,19:40,11h 55m,1 Stop,"10,744"
+732,Air India,"Wed, 6 Oct",Bangalore,New Delhi,08:35,20:30,11h 55m,1 Stop,"10,744"
+733,Air India,"Wed, 6 Oct",Bangalore,New Delhi,08:35,21:15,12h 40m,1 Stop,"10,744"
+734,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,07:45,20:40,12h 55m,1 Stop,"10,744"
+735,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,09:30,23:00,13h 30m,1 Stop,"10,744"
+736,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,19:55,"09:40
++ 1 day",13h 45m,1 Stop,"10,744"
+737,Air India,"Wed, 6 Oct",Bangalore,New Delhi,19:10,"09:10
++ 1 day",14h 00m,1 Stop,"10,744"
+738,Air India,"Wed, 6 Oct",Bangalore,New Delhi,19:10,"10:15
++ 1 day",15h 05m,1 Stop,"10,744"
+739,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,19:55,"11:00
++ 1 day",15h 05m,1 Stop,"10,744"
+740,Air India,"Wed, 6 Oct",Bangalore,New Delhi,19:10,"11:10
++ 1 day",16h 00m,2 Stop(s),"10,744"
+741,Air India,"Wed, 6 Oct",Bangalore,New Delhi,19:10,"12:15
++ 1 day",17h 05m,1 Stop,"10,744"
+742,Air India,"Wed, 6 Oct",Bangalore,New Delhi,05:45,23:00,17h 15m,1 Stop,"10,744"
+743,Air India,"Wed, 6 Oct",Bangalore,New Delhi,19:10,"18:20
++ 1 day",23h 10m,1 Stop,"10,744"
+744,Air India,"Wed, 6 Oct",Bangalore,New Delhi,19:10,"19:10
++ 1 day",24h 00m,2 Stop(s),"10,744"
+745,Air India,"Wed, 6 Oct",Bangalore,New Delhi,19:10,"20:30
++ 1 day",25h 20m,1 Stop,"10,744"
+746,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,12:20,"14:40
++ 1 day",26h 20m,1 Stop,"11,374"
+747,Air India,"Wed, 6 Oct",Bangalore,New Delhi,05:45,16:45,11h 00m,2 Stop(s),"11,584"
+748,Air India,"Wed, 6 Oct",Bangalore,New Delhi,11:50,23:15,11h 25m,2 Stop(s),"11,584"
+749,Air India,"Wed, 6 Oct",Bangalore,New Delhi,11:50,23:45,11h 55m,1 Stop,"11,584"
+750,Air India,"Wed, 6 Oct",Bangalore,New Delhi,05:45,23:15,17h 30m,3 Stop(s),"11,584"
+751,Air India,"Wed, 6 Oct",Bangalore,New Delhi,05:45,23:45,18h 00m,2 Stop(s),"11,584"
+752,Air India,"Wed, 6 Oct",Bangalore,New Delhi,08:35,23:25,14h 50m,2 Stop(s),"11,693"
+753,Air India,"Wed, 6 Oct",Bangalore,New Delhi,19:10,"11:50
++ 1 day",16h 40m,2 Stop(s),"11,693"
+754,Air India,"Wed, 6 Oct",Bangalore,New Delhi,08:35,"11:50
++ 1 day",27h 15m,2 Stop(s),"11,693"
+755,Air India,"Wed, 6 Oct",Bangalore,New Delhi,08:35,"11:50
++ 1 day",27h 15m,2 Stop(s),"11,693"
+756,Air India,"Wed, 6 Oct",Bangalore,New Delhi,19:10,"23:25
++ 1 day",28h 15m,2 Stop(s),"11,693"
+757,Air India,"Wed, 6 Oct",Bangalore,New Delhi,19:10,"23:25
++ 1 day",28h 15m,2 Stop(s),"11,693"
+758,Air India,"Wed, 6 Oct",Bangalore,New Delhi,08:35,"23:25
++ 1 day",38h 50m,2 Stop(s),"11,693"
+759,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,09:30,21:55,12h 25m,1 Stop,"11,794"
+760,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,07:45,21:55,14h 10m,1 Stop,"11,794"
+761,Go First,"Wed, 6 Oct",Bangalore,New Delhi,17:00,"08:05
++ 1 day",15h 05m,1 Stop,"11,794"
+762,Air India,"Wed, 6 Oct",Bangalore,New Delhi,09:00,21:10,12h 10m,2 Stop(s),"11,847"
+763,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,07:00,13:50,6h 50m,1 Stop,"11,898"
+764,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,05:55,13:50,7h 55m,1 Stop,"11,898"
+765,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,12:20,17:05,4h 45m,1 Stop,"11,899"
+766,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,11:00,16:30,5h 30m,1 Stop,"12,214"
+767,Vistara,"Wed, 6 Oct",Bangalore,New Delhi,11:00,19:55,8h 55m,1 Stop,"12,214"
+768,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,11:20,20:15,8h 55m,1 Stop,"12,896"
+769,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,08:25,16:35,8h 10m,1 Stop,"13,001"
+770,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,13:00,20:15,7h 15m,1 Stop,"13,211"
+771,Air India,"Wed, 6 Oct",Bangalore,New Delhi,08:35,23:15,14h 40m,3 Stop(s),"13,225"
+772,Air India,"Wed, 6 Oct",Bangalore,New Delhi,08:35,23:45,15h 10m,2 Stop(s),"13,225"
+773,Air India,"Wed, 6 Oct",Bangalore,New Delhi,19:10,"23:45
++ 1 day",28h 35m,2 Stop(s),"13,225"
+774,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,11:20,19:10,7h 50m,1 Stop,"13,421"
+775,SpiceJet,"Wed, 6 Oct",Bangalore,New Delhi,09:50,19:35,9h 45m,1 Stop,"14,628"
+776,Air India,"Wed, 6 Oct",Bangalore,New Delhi,07:25,"00:30
++ 1 day",17h 05m,1 Stop,"14,629"
+777,SpiceJet,"Wed, 6 Oct",Bangalore,New Delhi,09:50,23:55,14h 05m,1 Stop,"15,258"
+778,IndiGo,"Wed, 6 Oct",Bangalore,New Delhi,07:20,12:40,5h 20m,1 Stop,"15,573"
+779,SpiceJet,"Wed, 6 Oct",Bangalore,New Delhi,09:50,17:45,7h 55m,1 Stop,"15,678"
+780,Air India,"Wed, 6 Oct",Bangalore,New Delhi,05:45,13:05,7h 20m,1 Stop,"16,099"
+781,Go First,"Wed, 6 Oct",Bangalore,New Delhi,08:20,17:50,9h 30m,2 Stop(s),"19,636"
+782,Air Asia,"Wed, 6 Oct",Bangalore,New Delhi,23:10,"09:55
++ 1 day",10h 45m,1 Stop,"20,917"
+783,SpiceJet,"Wed, 6 Oct",Bangalore,New Delhi,16:05,"19:35
++ 1 day",27h 30m,1 Stop,"29,116"
+784,Air India,"Wed, 6 Oct",Kochi,Bangalore,15:30,17:55,2h 25m,1 Stop,"2,997"
+785,SpiceJet,"Wed, 6 Oct",Kochi,Bangalore,16:35,17:45,1h 10m,Non Stop,"3,363"
+786,IndiGo,"Wed, 6 Oct",Kochi,Bangalore,17:15,18:15,1h 00m,Non Stop,"3,364"
+787,IndiGo,"Wed, 6 Oct",Kochi,Bangalore,06:40,07:50,1h 10m,Non Stop,"3,364"
+788,Air Asia,"Wed, 6 Oct",Kochi,Bangalore,07:40,08:40,1h 00m,Non Stop,"3,365"
+789,Air Asia,"Wed, 6 Oct",Kochi,Bangalore,21:15,22:25,1h 10m,Non Stop,"3,365"
+790,Go First,"Wed, 6 Oct",Kochi,Bangalore,10:00,19:30,9h 30m,1 Stop,"10,471"
+791,Go First,"Wed, 6 Oct",Kochi,Bangalore,21:35,"07:45
++ 1 day",10h 10m,1 Stop,"10,471"
+792,Air India,"Wed, 6 Oct",Kochi,Bangalore,20:10,"07:55
++ 1 day",11h 45m,1 Stop,"10,609"
+793,Air India,"Wed, 6 Oct",Kochi,Bangalore,20:10,"11:10
++ 1 day",15h 00m,1 Stop,"10,609"
+794,Air India,"Wed, 6 Oct",Kochi,Bangalore,20:10,"18:30
++ 1 day",22h 20m,1 Stop,"10,609"
+795,Air India,"Wed, 6 Oct",Kochi,Bangalore,20:10,"16:15
++ 1 day",20h 05m,2 Stop(s),"14,707"
+796,Air India,"Wed, 6 Oct",Kochi,Bangalore,20:10,"16:15
++ 1 day",20h 05m,2 Stop(s),"14,707"
+797,Air India,"Wed, 6 Oct",Kochi,Bangalore,20:10,"16:15
++ 1 day",20h 05m,2 Stop(s),"14,707"
+798,Air India,"Wed, 6 Oct",Kochi,Bangalore,20:10,"16:15
++ 1 day",20h 05m,3 Stop(s),"14,707"
+799,Air India,"Wed, 6 Oct",Kochi,Bangalore,20:10,"23:55
++ 1 day",27h 45m,2 Stop(s),"14,707"
+800,Air India,"Wed, 6 Oct",Kochi,Bangalore,20:10,"23:55
++ 1 day",27h 45m,2 Stop(s),"14,707"
+801,Air India,"Wed, 6 Oct",Kochi,Bangalore,20:10,"23:55
++ 1 day",27h 45m,2 Stop(s),"14,707"
+802,Air India,"Wed, 6 Oct",Kochi,Bangalore,20:10,"23:55
++ 1 day",27h 45m,2 Stop(s),"14,707"
+803,Air India,"Wed, 6 Oct",Kochi,Bangalore,20:10,"23:55
++ 1 day",27h 45m,3 Stop(s),"14,707"
+804,Air India,"Wed, 6 Oct",Kochi,Bangalore,20:10,"23:55
++ 1 day",27h 45m,3 Stop(s),"14,707"
+805,Vistara,"Wed, 6 Oct",Kochi,Bangalore,09:45,16:55,7h 10m,1 Stop,"16,069"
+806,Vistara,"Wed, 6 Oct",Kochi,Bangalore,09:45,18:50,9h 05m,1 Stop,"16,069"
+807,Vistara,"Wed, 6 Oct",Kochi,Bangalore,09:45,20:25,10h 40m,1 Stop,"16,069"
+808,Vistara,"Wed, 6 Oct",Kochi,Bangalore,09:45,22:40,12h 55m,1 Stop,"16,069"
+809,Vistara,"Wed, 6 Oct",Kochi,Bangalore,09:45,23:20,13h 35m,1 Stop,"16,069"
+810,Air India,"Wed, 6 Oct",Kochi,Bangalore,18:00,"08:55
++ 1 day",14h 55m,1 Stop,"16,069"
+811,Air India,"Wed, 6 Oct",Kochi,Bangalore,18:00,"12:30
++ 1 day",18h 30m,1 Stop,"16,069"
+812,Vistara,"Wed, 6 Oct",Kochi,Bangalore,19:30,"16:55
++ 1 day",21h 25m,1 Stop,"16,069"
+813,Air India,"Wed, 6 Oct",Kochi,Bangalore,18:00,"16:15
++ 1 day",22h 15m,1 Stop,"16,069"
+814,Vistara,"Wed, 6 Oct",Kochi,Bangalore,19:30,"18:50
++ 1 day",23h 20m,1 Stop,"16,069"
+815,Vistara,"Wed, 6 Oct",Kochi,Bangalore,19:30,"20:25
++ 1 day",24h 55m,1 Stop,"16,069"
+816,Vistara,"Wed, 6 Oct",Kochi,Bangalore,19:30,"22:40
++ 1 day",27h 10m,1 Stop,"16,069"
+817,Vistara,"Wed, 6 Oct",Kochi,Bangalore,19:30,"23:20
++ 1 day",27h 50m,1 Stop,"16,069"
+818,Vistara,"Wed, 6 Oct",Kochi,Bangalore,19:30,"10:50
++ 1 day",15h 20m,1 Stop,"17,434"
+819,Vistara,"Wed, 6 Oct",Kochi,Bangalore,09:45,"10:50
++ 1 day",25h 05m,1 Stop,"17,434"
+820,Air India,"Wed, 6 Oct",Kochi,Bangalore,18:00,"22:20
++ 1 day",28h 20m,3 Stop(s),"18,484"
+821,Vistara,"Wed, 6 Oct",Kochi,Bangalore,09:45,20:55,11h 10m,2 Stop(s),"19,324"
+822,Vistara,"Wed, 6 Oct",Kochi,Bangalore,19:30,"17:45
++ 1 day",22h 15m,2 Stop(s),"19,324"
+823,Vistara,"Wed, 6 Oct",Kochi,Bangalore,19:30,"16:00
++ 1 day",20h 30m,2 Stop(s),"19,954"
+824,Vistara,"Wed, 6 Oct",Kochi,Bangalore,19:30,"16:00
++ 1 day",20h 30m,2 Stop(s),"20,479"
+825,Air Asia,"Thu, 7 Oct",New Delhi,Bangalore,12:40,18:20,5h 40m,1 Stop,"7,422"
+826,Air Asia,"Thu, 7 Oct",New Delhi,Bangalore,15:25,21:20,5h 55m,1 Stop,"7,422"
+827,Air Asia,"Thu, 7 Oct",New Delhi,Bangalore,11:55,18:20,6h 25m,1 Stop,"7,422"
+828,Air Asia,"Thu, 7 Oct",New Delhi,Bangalore,04:55,11:30,6h 35m,1 Stop,"7,422"
+829,Air Asia,"Thu, 7 Oct",New Delhi,Bangalore,07:15,13:55,6h 40m,1 Stop,"7,422"
+830,Air Asia,"Thu, 7 Oct",New Delhi,Bangalore,06:10,13:55,7h 45m,1 Stop,"7,422"
+831,Air Asia,"Thu, 7 Oct",New Delhi,Bangalore,16:20,"01:00
++ 1 day",8h 40m,1 Stop,"7,422"
+832,Air Asia,"Thu, 7 Oct",New Delhi,Bangalore,12:40,22:25,9h 45m,2 Stop(s),"7,422"
+833,Air Asia,"Thu, 7 Oct",New Delhi,Bangalore,05:35,15:40,10h 05m,1 Stop,"7,422"
+834,Air Asia,"Thu, 7 Oct",New Delhi,Bangalore,11:55,22:25,10h 30m,2 Stop(s),"7,422"
+835,Go First,"Thu, 7 Oct",New Delhi,Bangalore,08:40,11:15,2h 35m,Non Stop,"7,424"
+836,Go First,"Thu, 7 Oct",New Delhi,Bangalore,19:45,22:20,2h 35m,Non Stop,"7,424"
+837,Go First,"Thu, 7 Oct",New Delhi,Bangalore,08:50,13:30,4h 40m,1 Stop,"7,424"
+838,Go First,"Thu, 7 Oct",New Delhi,Bangalore,14:20,19:45,5h 25m,1 Stop,"7,424"
+839,Go First,"Thu, 7 Oct",New Delhi,Bangalore,16:10,22:15,6h 05m,1 Stop,"7,424"
+840,Go First,"Thu, 7 Oct",New Delhi,Bangalore,14:10,20:40,6h 30m,1 Stop,"7,424"
+841,Go First,"Thu, 7 Oct",New Delhi,Bangalore,05:45,15:20,9h 35m,1 Stop,"7,424"
+842,Go First,"Thu, 7 Oct",New Delhi,Bangalore,09:40,19:45,10h 05m,1 Stop,"7,424"
+843,Go First,"Thu, 7 Oct",New Delhi,Bangalore,21:30,"07:45
++ 1 day",10h 15m,1 Stop,"7,424"
+844,Go First,"Thu, 7 Oct",New Delhi,Bangalore,09:00,20:35,11h 35m,1 Stop,"7,424"
+845,Go First,"Thu, 7 Oct",New Delhi,Bangalore,08:50,20:40,11h 50m,1 Stop,"7,424"
+846,Go First,"Thu, 7 Oct",New Delhi,Bangalore,08:45,20:50,12h 05m,1 Stop,"7,424"
+847,Go First,"Thu, 7 Oct",New Delhi,Bangalore,18:40,"07:45
++ 1 day",13h 05m,1 Stop,"7,424"
+848,Go First,"Thu, 7 Oct",New Delhi,Bangalore,06:15,19:45,13h 30m,1 Stop,"7,424"
+849,Go First,"Thu, 7 Oct",New Delhi,Bangalore,20:20,"11:10
++ 1 day",14h 50m,1 Stop,"7,424"
+850,SpiceJet,"Thu, 7 Oct",New Delhi,Bangalore,06:15,08:50,2h 35m,Non Stop,"7,425"
+851,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,11:05,13:45,2h 40m,Non Stop,"7,425"
+852,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,20:40,23:20,2h 40m,Non Stop,"7,425"
+853,Air India,"Thu, 7 Oct",New Delhi,Bangalore,21:15,23:55,2h 40m,Non Stop,"7,425"
+854,Air India,"Thu, 7 Oct",New Delhi,Bangalore,06:10,08:55,2h 45m,Non Stop,"7,425"
+855,Air India,"Thu, 7 Oct",New Delhi,Bangalore,09:45,12:30,2h 45m,Non Stop,"7,425"
+856,Air India,"Thu, 7 Oct",New Delhi,Bangalore,13:30,16:15,2h 45m,Non Stop,"7,425"
+857,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,14:10,16:55,2h 45m,Non Stop,"7,425"
+858,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,15:05,17:50,2h 45m,Non Stop,"7,425"
+859,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,16:05,18:50,2h 45m,Non Stop,"7,425"
+860,SpiceJet,"Thu, 7 Oct",New Delhi,Bangalore,21:50,"00:35
++ 1 day",2h 45m,Non Stop,"7,425"
+861,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,22:20,"01:05
++ 1 day",2h 45m,Non Stop,"7,425"
+862,SpiceJet,"Thu, 7 Oct",New Delhi,Bangalore,22:40,"01:25
++ 1 day",2h 45m,Non Stop,"7,425"
+863,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,13:10,16:00,2h 50m,Non Stop,"7,425"
+864,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,16:25,19:15,2h 50m,Non Stop,"7,425"
+865,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,17:35,20:25,2h 50m,Non Stop,"7,425"
+866,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,19:50,22:40,2h 50m,Non Stop,"7,425"
+867,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,20:15,23:05,2h 50m,Non Stop,"7,425"
+868,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,18:45,21:40,2h 55m,Non Stop,"7,425"
+869,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,06:05,09:15,3h 10m,Non Stop,"7,425"
+870,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,11:00,15:35,4h 35m,1 Stop,"7,425"
+871,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,12:20,17:15,4h 55m,1 Stop,"7,425"
+872,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,16:10,21:20,5h 10m,1 Stop,"7,425"
+873,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,05:50,11:05,5h 15m,1 Stop,"7,425"
+874,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,10:10,15:25,5h 15m,1 Stop,"7,425"
+875,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,06:55,12:20,5h 25m,1 Stop,"7,425"
+876,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,08:50,14:15,5h 25m,1 Stop,"7,425"
+877,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,14:00,19:25,5h 25m,1 Stop,"7,425"
+878,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,06:10,11:40,5h 30m,1 Stop,"7,425"
+879,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,12:10,17:40,5h 30m,1 Stop,"7,425"
+880,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,09:50,15:25,5h 35m,1 Stop,"7,425"
+881,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,15:35,21:10,5h 35m,1 Stop,"7,425"
+882,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,20:10,"01:45
++ 1 day",5h 35m,1 Stop,"7,425"
+883,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,13:10,18:55,5h 45m,1 Stop,"7,425"
+884,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,09:55,15:45,5h 50m,1 Stop,"7,425"
+885,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,11:35,17:40,6h 05m,1 Stop,"7,425"
+886,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,17:30,23:35,6h 05m,1 Stop,"7,425"
+887,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,06:15,12:25,6h 10m,1 Stop,"7,425"
+888,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,12:00,18:15,6h 15m,1 Stop,"7,425"
+889,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,13:35,19:50,6h 15m,1 Stop,"7,425"
+890,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,05:25,11:55,6h 30m,1 Stop,"7,425"
+891,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,08:55,15:25,6h 30m,1 Stop,"7,425"
+892,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,16:30,23:05,6h 35m,1 Stop,"7,425"
+893,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,17:20,23:55,6h 35m,1 Stop,"7,425"
+894,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,08:30,15:25,6h 55m,1 Stop,"7,425"
+895,SpiceJet,"Thu, 7 Oct",New Delhi,Bangalore,06:50,19:25,12h 35m,1 Stop,"7,425"
+896,SpiceJet,"Thu, 7 Oct",New Delhi,Bangalore,19:10,"17:35
++ 1 day",22h 25m,1 Stop,"7,425"
+897,SpiceJet,"Thu, 7 Oct",New Delhi,Bangalore,16:40,"19:25
++ 1 day",26h 45m,1 Stop,"7,425"
+898,Air Asia,"Thu, 7 Oct",New Delhi,Bangalore,16:15,18:45,2h 30m,Non Stop,"7,426"
+899,Air Asia,"Thu, 7 Oct",New Delhi,Bangalore,08:00,10:50,2h 50m,Non Stop,"7,426"
+900,Air Asia,"Thu, 7 Oct",New Delhi,Bangalore,18:35,21:25,2h 50m,Non Stop,"7,426"
+901,SpiceJet,"Thu, 7 Oct",New Delhi,Bangalore,12:00,16:55,4h 55m,1 Stop,"7,741"
+902,SpiceJet,"Thu, 7 Oct",New Delhi,Bangalore,18:20,"11:30
++ 1 day",17h 10m,1 Stop,"7,741"
+903,SpiceJet,"Thu, 7 Oct",New Delhi,Bangalore,18:15,"16:55
++ 1 day",22h 40m,1 Stop,"7,741"
+904,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,07:40,14:05,6h 25m,1 Stop,"8,717"
+905,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,08:10,10:50,2h 40m,Non Stop,"8,790"
+906,Air India,"Thu, 7 Oct",New Delhi,Bangalore,16:35,22:20,5h 45m,2 Stop(s),"9,840"
+907,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,20:35,"08:50
++ 1 day",12h 15m,1 Stop,"9,840"
+908,Air India,"Thu, 7 Oct",New Delhi,Bangalore,09:45,22:20,12h 35m,1 Stop,"9,840"
+909,Air India,"Thu, 7 Oct",New Delhi,Bangalore,21:25,"11:20
++ 1 day",13h 55m,1 Stop,"9,840"
+910,Air India,"Thu, 7 Oct",New Delhi,Bangalore,08:00,22:20,14h 20m,1 Stop,"9,840"
+911,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,17:45,"08:50
++ 1 day",15h 05m,1 Stop,"9,840"
+912,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,14:45,"08:50
++ 1 day",18h 05m,1 Stop,"9,840"
+913,Air India,"Thu, 7 Oct",New Delhi,Bangalore,16:35,"11:20
++ 1 day",18h 45m,2 Stop(s),"9,840"
+914,Air India,"Thu, 7 Oct",New Delhi,Bangalore,09:45,"11:20
++ 1 day",25h 35m,1 Stop,"9,840"
+915,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,07:10,"08:50
++ 1 day",25h 40m,1 Stop,"9,840"
+916,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,17:15,23:50,6h 35m,1 Stop,"10,208"
+917,Air India,"Thu, 7 Oct",New Delhi,Bangalore,21:25,"22:20
++ 1 day",24h 55m,1 Stop,"10,208"
+918,Air India,"Thu, 7 Oct",New Delhi,Bangalore,07:15,12:50,5h 35m,1 Stop,"10,470"
+919,Air India,"Thu, 7 Oct",New Delhi,Bangalore,06:00,14:25,8h 25m,1 Stop,"10,470"
+920,Air India,"Thu, 7 Oct",New Delhi,Bangalore,20:40,"11:20
++ 1 day",14h 40m,2 Stop(s),"10,470"
+921,Air India,"Thu, 7 Oct",New Delhi,Bangalore,09:45,"11:20
++ 1 day",25h 35m,2 Stop(s),"10,470"
+922,Air India,"Thu, 7 Oct",New Delhi,Bangalore,06:00,"11:20
++ 1 day",29h 20m,2 Stop(s),"10,470"
+923,SpiceJet,"Thu, 7 Oct",New Delhi,Bangalore,13:10,"15:15
++ 1 day",26h 05m,1 Stop,"10,611"
+924,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,12:45,17:45,5h 00m,1 Stop,"10,680"
+925,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,15:30,20:55,5h 25m,1 Stop,"10,680"
+926,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,10:20,17:45,7h 25m,1 Stop,"10,680"
+927,Air India,"Thu, 7 Oct",New Delhi,Bangalore,10:40,18:30,7h 50m,1 Stop,"10,680"
+928,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,12:45,20:55,8h 10m,1 Stop,"10,680"
+929,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,09:30,17:45,8h 15m,1 Stop,"10,680"
+930,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,08:50,17:45,8h 55m,1 Stop,"10,680"
+931,Air India,"Thu, 7 Oct",New Delhi,Bangalore,09:00,18:30,9h 30m,1 Stop,"10,680"
+932,Air India,"Thu, 7 Oct",New Delhi,Bangalore,08:00,18:30,10h 30m,1 Stop,"10,680"
+933,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,10:20,20:55,10h 35m,1 Stop,"10,680"
+934,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,20:50,"07:50
++ 1 day",11h 00m,1 Stop,"10,680"
+935,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,09:30,20:55,11h 25m,1 Stop,"10,680"
+936,Air India,"Thu, 7 Oct",New Delhi,Bangalore,07:00,18:30,11h 30m,1 Stop,"10,680"
+937,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,06:00,17:45,11h 45m,1 Stop,"10,680"
+938,Air India,"Thu, 7 Oct",New Delhi,Bangalore,20:00,"07:55
++ 1 day",11h 55m,1 Stop,"10,680"
+939,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,20:50,"08:50
++ 1 day",12h 00m,1 Stop,"10,680"
+940,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,08:50,20:55,12h 05m,1 Stop,"10,680"
+941,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,19:45,"07:50
++ 1 day",12h 05m,1 Stop,"10,680"
+942,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,18:55,"07:50
++ 1 day",12h 55m,1 Stop,"10,680"
+943,Air India,"Thu, 7 Oct",New Delhi,Bangalore,19:00,"07:55
++ 1 day",12h 55m,1 Stop,"10,680"
+944,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,19:45,"08:50
++ 1 day",13h 05m,1 Stop,"10,680"
+945,Air India,"Thu, 7 Oct",New Delhi,Bangalore,18:00,"07:55
++ 1 day",13h 55m,2 Stop(s),"10,680"
+946,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,20:50,"10:45
++ 1 day",13h 55m,1 Stop,"10,680"
+947,Air India,"Thu, 7 Oct",New Delhi,Bangalore,20:00,"11:10
++ 1 day",15h 10m,1 Stop,"10,680"
+948,Air India,"Thu, 7 Oct",New Delhi,Bangalore,19:00,"11:10
++ 1 day",16h 10m,1 Stop,"10,680"
+949,Air India,"Thu, 7 Oct",New Delhi,Bangalore,18:00,"11:10
++ 1 day",17h 10m,2 Stop(s),"10,680"
+950,Air India,"Thu, 7 Oct",New Delhi,Bangalore,20:00,"18:30
++ 1 day",22h 30m,1 Stop,"10,680"
+951,Air India,"Thu, 7 Oct",New Delhi,Bangalore,19:00,"18:30
++ 1 day",23h 30m,1 Stop,"10,680"
+952,Air India,"Thu, 7 Oct",New Delhi,Bangalore,18:00,"18:30
++ 1 day",24h 30m,2 Stop(s),"10,680"
+953,Go First,"Thu, 7 Oct",New Delhi,Bangalore,08:10,13:25,5h 15m,1 Stop,"11,205"
+954,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,08:30,16:00,7h 30m,1 Stop,"11,310"
+955,Air India,"Thu, 7 Oct",New Delhi,Bangalore,20:00,"18:30
++ 1 day",22h 30m,2 Stop(s),"11,629"
+956,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,07:30,17:45,10h 15m,1 Stop,"11,730"
+957,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,07:30,20:55,13h 25m,1 Stop,"11,730"
+958,Air India,"Thu, 7 Oct",New Delhi,Bangalore,14:10,"17:55
++ 1 day",27h 45m,2 Stop(s),"11,783"
+959,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,11:10,16:00,4h 50m,1 Stop,"11,835"
+960,Air India,"Thu, 7 Oct",New Delhi,Bangalore,15:05,"07:55
++ 1 day",16h 50m,2 Stop(s),"11,940"
+961,Air India,"Thu, 7 Oct",New Delhi,Bangalore,15:05,"11:10
++ 1 day",20h 05m,2 Stop(s),"11,940"
+962,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,17:10,"18:30
++ 1 day",25h 20m,1 Stop,"12,150"
+963,Air India,"Thu, 7 Oct",New Delhi,Bangalore,06:20,"07:55
++ 1 day",25h 35m,2 Stop(s),"12,321"
+964,Air India,"Thu, 7 Oct",New Delhi,Bangalore,16:45,23:40,6h 55m,1 Stop,"12,391"
+965,Air India,"Thu, 7 Oct",New Delhi,Bangalore,14:00,23:40,9h 40m,1 Stop,"12,391"
+966,Air India,"Thu, 7 Oct",New Delhi,Bangalore,10:35,23:40,13h 05m,1 Stop,"12,391"
+967,Vistara,"Thu, 7 Oct",New Delhi,Bangalore,18:10,"13:00
++ 1 day",18h 50m,1 Stop,"12,391"
+968,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,08:55,14:20,5h 25m,1 Stop,"12,621"
+969,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,14:45,21:05,6h 20m,1 Stop,"12,990"
+970,Air India,"Thu, 7 Oct",New Delhi,Bangalore,18:40,"17:05
++ 1 day",22h 25m,1 Stop,"15,510"
+971,IndiGo,"Thu, 7 Oct",New Delhi,Bangalore,12:25,19:15,6h 50m,1 Stop,"18,293"
+972,Air India,"Thu, 7 Oct",New Delhi,Bangalore,20:15,"16:45
++ 1 day",20h 30m,1 Stop,"19,710"
+973,Air India,"Thu, 7 Oct",New Delhi,Bangalore,07:00,16:45,9h 45m,1 Stop,"21,285"
+974,Air India,"Thu, 7 Oct",New Delhi,Bangalore,16:55,"16:45
++ 1 day",23h 50m,1 Stop,"21,285"
+975,Air Asia,"Thu, 7 Oct",Mumbai,Bangalore,08:00,16:35,8h 35m,2 Stop(s),"5,101"
+976,Air Asia,"Thu, 7 Oct",Mumbai,Bangalore,08:00,18:20,10h 20m,1 Stop,"5,101"
+977,Go First,"Thu, 7 Oct",Mumbai,Bangalore,06:05,07:45,1h 40m,Non Stop,"5,102"
+978,Go First,"Thu, 7 Oct",Mumbai,Bangalore,18:05,19:45,1h 40m,Non Stop,"5,102"
+979,Go First,"Thu, 7 Oct",Mumbai,Bangalore,13:55,20:50,6h 55m,1 Stop,"5,102"
+980,Go First,"Thu, 7 Oct",Mumbai,Bangalore,07:50,15:00,7h 10m,1 Stop,"5,102"
+981,Go First,"Thu, 7 Oct",Mumbai,Bangalore,13:50,22:20,8h 30m,1 Stop,"5,102"
+982,Go First,"Thu, 7 Oct",Mumbai,Bangalore,12:50,22:20,9h 30m,1 Stop,"5,102"
+983,Go First,"Thu, 7 Oct",Mumbai,Bangalore,09:10,22:20,13h 10m,1 Stop,"5,102"
+984,Go First,"Thu, 7 Oct",Mumbai,Bangalore,20:00,"11:10
++ 1 day",15h 10m,1 Stop,"5,102"
+985,Go First,"Thu, 7 Oct",Mumbai,Bangalore,07:00,22:15,15h 15m,1 Stop,"5,102"
+986,SpiceJet,"Thu, 7 Oct",Mumbai,Bangalore,17:55,"09:25
++ 1 day",15h 30m,1 Stop,"5,102"
+987,Go First,"Thu, 7 Oct",Mumbai,Bangalore,06:00,22:20,16h 20m,1 Stop,"5,102"
+988,SpiceJet,"Thu, 7 Oct",Mumbai,Bangalore,21:20,"21:00
++ 1 day",23h 40m,1 Stop,"5,102"
+989,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,06:10,07:45,1h 35m,Non Stop,"5,103"
+990,Air India,"Thu, 7 Oct",Mumbai,Bangalore,06:15,07:55,1h 40m,Non Stop,"5,103"
+991,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,08:20,10:00,1h 40m,Non Stop,"5,103"
+992,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,08:35,10:15,1h 40m,Non Stop,"5,103"
+993,Air India,"Thu, 7 Oct",Mumbai,Bangalore,09:30,11:10,1h 40m,Non Stop,"5,103"
+994,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,17:45,19:25,1h 40m,Non Stop,"5,103"
+995,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,16:00,17:45,1h 45m,Non Stop,"5,103"
+996,Air India,"Thu, 7 Oct",Mumbai,Bangalore,16:45,18:30,1h 45m,Non Stop,"5,103"
+997,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,19:10,20:55,1h 45m,Non Stop,"5,103"
+998,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,07:00,08:50,1h 50m,Non Stop,"5,103"
+999,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,07:05,09:00,1h 55m,Non Stop,"5,103"
+1000,Air Asia,"Thu, 7 Oct",Mumbai,Bangalore,20:50,22:25,1h 35m,Non Stop,"5,104"
+1001,Air Asia,"Thu, 7 Oct",Mumbai,Bangalore,12:15,14:00,1h 45m,Non Stop,"5,104"
+1002,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,13:45,15:25,1h 40m,Non Stop,"5,208"
+1003,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,09:55,11:40,1h 45m,Non Stop,"5,208"
+1004,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,16:30,18:15,1h 45m,Non Stop,"5,208"
+1005,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,20:45,22:35,1h 50m,Non Stop,"5,208"
+1006,SpiceJet,"Thu, 7 Oct",Mumbai,Bangalore,11:30,16:55,5h 25m,1 Stop,"5,418"
+1007,SpiceJet,"Thu, 7 Oct",Mumbai,Bangalore,21:20,"09:05
++ 1 day",11h 45m,1 Stop,"5,418"
+1008,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,19:25,21:10,1h 45m,Non Stop,"5,471"
+1009,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,12:05,17:40,5h 35m,1 Stop,"7,991"
+1010,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,07:20,14:15,6h 55m,1 Stop,"7,991"
+1011,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,16:45,22:35,5h 50m,1 Stop,"8,043"
+1012,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,07:25,13:25,6h 00m,1 Stop,"8,043"
+1013,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,13:45,19:50,6h 05m,1 Stop,"8,043"
+1014,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,11:15,17:40,6h 25m,1 Stop,"8,043"
+1015,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,07:25,14:15,6h 50m,1 Stop,"8,043"
+1016,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,12:05,19:50,7h 45m,1 Stop,"8,043"
+1017,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,11:25,16:00,4h 35m,1 Stop,"8,148"
+1018,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,19:15,"08:50
++ 1 day",13h 35m,1 Stop,"8,148"
+1019,Air India,"Thu, 7 Oct",Mumbai,Bangalore,21:15,"11:20
++ 1 day",14h 05m,1 Stop,"8,148"
+1020,Air India,"Thu, 7 Oct",Mumbai,Bangalore,19:25,"11:20
++ 1 day",15h 55m,1 Stop,"8,148"
+1021,Air India,"Thu, 7 Oct",Mumbai,Bangalore,05:45,22:20,16h 35m,1 Stop,"8,148"
+1022,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,06:55,"08:50
++ 1 day",25h 55m,1 Stop,"8,148"
+1023,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,09:00,13:25,4h 25m,1 Stop,"8,201"
+1024,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,18:05,22:35,4h 30m,1 Stop,"8,201"
+1025,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,09:00,14:15,5h 15m,1 Stop,"8,201"
+1026,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,09:00,17:40,8h 40m,1 Stop,"8,201"
+1027,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,19:15,23:50,4h 35m,1 Stop,"8,253"
+1028,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,16:25,21:10,4h 45m,1 Stop,"8,253"
+1029,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,18:15,23:50,5h 35m,1 Stop,"8,253"
+1030,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,13:45,21:10,7h 25m,1 Stop,"8,253"
+1031,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,16:25,23:50,7h 25m,1 Stop,"8,253"
+1032,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,10:35,17:40,7h 05m,1 Stop,"8,358"
+1033,Air India,"Thu, 7 Oct",Mumbai,Bangalore,05:45,11:20,5h 35m,1 Stop,"8,463"
+1034,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,10:15,16:00,5h 45m,1 Stop,"8,516"
+1035,Air India,"Thu, 7 Oct",Mumbai,Bangalore,21:15,"22:20
++ 1 day",25h 05m,1 Stop,"8,516"
+1036,Air India,"Thu, 7 Oct",Mumbai,Bangalore,17:10,"17:55
++ 1 day",24h 45m,2 Stop(s),"8,621"
+1037,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,09:30,14:55,5h 25m,1 Stop,"8,673"
+1038,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,13:00,17:45,4h 45m,1 Stop,"8,883"
+1039,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,10:15,15:25,5h 10m,1 Stop,"8,883"
+1040,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,13:00,20:00,7h 00m,1 Stop,"8,883"
+1041,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,10:15,17:45,7h 30m,1 Stop,"8,883"
+1042,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,14:35,22:05,7h 30m,1 Stop,"8,883"
+1043,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,13:00,21:20,8h 20m,1 Stop,"8,883"
+1044,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,06:45,15:25,8h 40m,1 Stop,"8,883"
+1045,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,08:15,15:25,7h 10m,1 Stop,"8,936"
+1046,Air India,"Thu, 7 Oct",Mumbai,Bangalore,09:00,14:25,5h 25m,1 Stop,"8,988"
+1047,Air India,"Thu, 7 Oct",Mumbai,Bangalore,05:20,11:20,6h 00m,2 Stop(s),"8,988"
+1048,Air India,"Thu, 7 Oct",Mumbai,Bangalore,05:20,14:25,9h 05m,1 Stop,"8,988"
+1049,Air India,"Thu, 7 Oct",Mumbai,Bangalore,09:00,"11:20
++ 1 day",26h 20m,2 Stop(s),"8,988"
+1050,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,08:15,14:15,6h 00m,1 Stop,"9,041"
+1051,Air India,"Thu, 7 Oct",Mumbai,Bangalore,10:00,16:15,6h 15m,1 Stop,"9,201"
+1052,Air India,"Thu, 7 Oct",Mumbai,Bangalore,16:00,23:55,7h 55m,1 Stop,"9,201"
+1053,Air India,"Thu, 7 Oct",Mumbai,Bangalore,08:00,16:15,8h 15m,1 Stop,"9,201"
+1054,Air India,"Thu, 7 Oct",Mumbai,Bangalore,15:40,23:55,8h 15m,2 Stop(s),"9,201"
+1055,Air India,"Thu, 7 Oct",Mumbai,Bangalore,07:05,16:15,9h 10m,2 Stop(s),"9,201"
+1056,Air India,"Thu, 7 Oct",Mumbai,Bangalore,07:00,16:15,9h 15m,1 Stop,"9,201"
+1057,Air India,"Thu, 7 Oct",Mumbai,Bangalore,10:00,23:55,13h 55m,1 Stop,"9,201"
+1058,Air India,"Thu, 7 Oct",Mumbai,Bangalore,19:00,"08:55
++ 1 day",13h 55m,1 Stop,"9,201"
+1059,Air India,"Thu, 7 Oct",Mumbai,Bangalore,18:00,"08:55
++ 1 day",14h 55m,1 Stop,"9,201"
+1060,Air India,"Thu, 7 Oct",Mumbai,Bangalore,08:00,23:55,15h 55m,1 Stop,"9,201"
+1061,Air India,"Thu, 7 Oct",Mumbai,Bangalore,07:05,23:55,16h 50m,2 Stop(s),"9,201"
+1062,Air India,"Thu, 7 Oct",Mumbai,Bangalore,07:00,23:55,16h 55m,1 Stop,"9,201"
+1063,Air India,"Thu, 7 Oct",Mumbai,Bangalore,16:00,"08:55
++ 1 day",16h 55m,1 Stop,"9,201"
+1064,Air India,"Thu, 7 Oct",Mumbai,Bangalore,15:40,"08:55
++ 1 day",17h 15m,2 Stop(s),"9,201"
+1065,Air India,"Thu, 7 Oct",Mumbai,Bangalore,19:00,"12:30
++ 1 day",17h 30m,1 Stop,"9,201"
+1066,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,15:15,21:55,6h 40m,1 Stop,"9,251"
+1067,Go First,"Thu, 7 Oct",Mumbai,Bangalore,06:20,20:40,14h 20m,2 Stop(s),"9,712"
+1068,IndiGo,"Thu, 7 Oct",Mumbai,Bangalore,14:25,22:35,8h 10m,1 Stop,"11,141"
+1069,Air India,"Thu, 7 Oct",Mumbai,Bangalore,16:00,"11:20
++ 1 day",19h 20m,2 Stop(s),"11,469"
+1070,Air India,"Thu, 7 Oct",Mumbai,Bangalore,15:40,"11:20
++ 1 day",19h 40m,3 Stop(s),"11,469"
+1071,Air India,"Thu, 7 Oct",Mumbai,Bangalore,10:00,"11:20
++ 1 day",25h 20m,2 Stop(s),"11,469"
+1072,Air India,"Thu, 7 Oct",Mumbai,Bangalore,08:00,"11:20
++ 1 day",27h 20m,2 Stop(s),"11,469"
+1073,Air India,"Thu, 7 Oct",Mumbai,Bangalore,07:05,"11:20
++ 1 day",28h 15m,3 Stop(s),"11,469"
+1074,Air India,"Thu, 7 Oct",Mumbai,Bangalore,07:00,"11:20
++ 1 day",28h 20m,2 Stop(s),"11,469"
+1075,Air India,"Thu, 7 Oct",Mumbai,Bangalore,19:00,"22:20
++ 1 day",27h 20m,2 Stop(s),"11,837"
+1076,Air India,"Thu, 7 Oct",Mumbai,Bangalore,19:00,"22:20
++ 1 day",27h 20m,2 Stop(s),"11,837"
+1077,Air India,"Thu, 7 Oct",Mumbai,Bangalore,18:00,"22:20
++ 1 day",28h 20m,2 Stop(s),"11,837"
+1078,Air India,"Thu, 7 Oct",Mumbai,Bangalore,18:00,"22:20
++ 1 day",28h 20m,2 Stop(s),"11,837"
+1079,Air India,"Thu, 7 Oct",Mumbai,Bangalore,16:00,"22:20
++ 1 day",30h 20m,2 Stop(s),"11,837"
+1080,Air India,"Thu, 7 Oct",Mumbai,Bangalore,16:00,"22:20
++ 1 day",30h 20m,2 Stop(s),"11,837"
+1081,Air India,"Thu, 7 Oct",Mumbai,Bangalore,11:10,"12:50
++ 1 day",25h 40m,1 Stop,"12,138"
+1082,Air India,"Thu, 7 Oct",Mumbai,Bangalore,16:00,"11:20
++ 1 day",19h 20m,3 Stop(s),"12,246"
+1083,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,14:40,20:25,5h 45m,1 Stop,"12,978"
+1084,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,17:30,23:20,5h 50m,1 Stop,"12,978"
+1085,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,10:25,16:55,6h 30m,1 Stop,"12,978"
+1086,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,11:55,18:50,6h 55m,1 Stop,"12,978"
+1087,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,15:45,22:40,6h 55m,1 Stop,"12,978"
+1088,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,15:45,23:20,7h 35m,1 Stop,"12,978"
+1089,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,14:40,22:40,8h 00m,1 Stop,"12,978"
+1090,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,08:45,16:55,8h 10m,1 Stop,"12,978"
+1091,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,10:25,18:50,8h 25m,1 Stop,"12,978"
+1092,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,11:55,20:25,8h 30m,1 Stop,"12,978"
+1093,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,14:40,23:20,8h 40m,1 Stop,"12,978"
+1094,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,07:30,16:55,9h 25m,1 Stop,"12,978"
+1095,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,10:25,20:25,10h 00m,1 Stop,"12,978"
+1096,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,08:45,18:50,10h 05m,1 Stop,"12,978"
+1097,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,11:55,22:40,10h 45m,1 Stop,"12,978"
+1098,Go First,"Thu, 7 Oct",Mumbai,Bangalore,09:50,13:25,3h 35m,1 Stop,"13,083"
+1099,Go First,"Thu, 7 Oct",Mumbai,Bangalore,19:20,"11:15
++ 1 day",15h 55m,1 Stop,"14,001"
+1100,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,09:30,17:55,8h 25m,1 Stop,"14,658"
+1101,Vistara,"Thu, 7 Oct",Mumbai,Bangalore,16:05,"18:30
++ 1 day",26h 25m,1 Stop,"14,658"
+1102,Air India,"Thu, 7 Oct",Mumbai,Bangalore,07:55,16:45,8h 50m,2 Stop(s),"22,008"
+1103,Air India,"Thu, 7 Oct",Mumbai,Bangalore,07:55,23:40,15h 45m,1 Stop,"25,294"
+1104,Air Asia,"Thu, 7 Oct",Bangalore,Kolkata,22:10,"07:00
++ 1 day",8h 50m,1 Stop,"5,176"
+1105,Air Asia,"Thu, 7 Oct",Bangalore,Kolkata,06:50,15:50,9h 00m,1 Stop,"5,176"
+1106,Air Asia,"Thu, 7 Oct",Bangalore,Kolkata,11:25,21:40,10h 15m,1 Stop,"5,176"
+1107,Air Asia,"Thu, 7 Oct",Bangalore,Kolkata,19:45,"07:00
++ 1 day",11h 15m,1 Stop,"5,176"
+1108,Go First,"Thu, 7 Oct",Bangalore,Kolkata,07:00,16:30,9h 30m,1 Stop,"5,177"
+1109,Go First,"Thu, 7 Oct",Bangalore,Kolkata,21:15,"07:50
++ 1 day",10h 35m,1 Stop,"5,177"
+1110,Go First,"Thu, 7 Oct",Bangalore,Kolkata,20:20,"10:20
++ 1 day",14h 00m,1 Stop,"5,177"
+1111,Go First,"Thu, 7 Oct",Bangalore,Kolkata,17:35,"09:10
++ 1 day",15h 35m,1 Stop,"5,177"
+1112,SpiceJet,"Thu, 7 Oct",Bangalore,Kolkata,06:05,20:20,14h 15m,1 Stop,"5,387"
+1113,SpiceJet,"Thu, 7 Oct",Bangalore,Kolkata,19:10,"08:05
++ 1 day",12h 55m,1 Stop,"5,597"
+1114,SpiceJet,"Thu, 7 Oct",Bangalore,Kolkata,06:05,"08:05
++ 1 day",26h 00m,1 Stop,"5,597"
+1115,Air Asia,"Thu, 7 Oct",Bangalore,Kolkata,05:35,08:15,2h 40m,Non Stop,"5,802"
+1116,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,07:00,09:30,2h 30m,Non Stop,"5,808"
+1117,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,05:55,08:30,2h 35m,Non Stop,"5,808"
+1118,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,08:25,11:05,2h 40m,Non Stop,"5,808"
+1119,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,11:20,13:55,2h 35m,Non Stop,"6,438"
+1120,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,13:00,15:35,2h 35m,Non Stop,"6,438"
+1121,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,15:10,17:50,2h 40m,Non Stop,"6,438"
+1122,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,17:45,20:25,2h 40m,Non Stop,"6,438"
+1123,SpiceJet,"Thu, 7 Oct",Bangalore,Kolkata,18:05,20:40,2h 35m,Non Stop,"6,543"
+1124,Air Asia,"Thu, 7 Oct",Bangalore,Kolkata,07:20,15:50,8h 30m,2 Stop(s),"6,548"
+1125,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,19:40,22:05,2h 25m,Non Stop,"6,753"
+1126,Go First,"Thu, 7 Oct",Bangalore,Kolkata,17:35,19:55,2h 20m,Non Stop,"6,909"
+1127,Go First,"Thu, 7 Oct",Bangalore,Kolkata,05:40,08:05,2h 25m,Non Stop,"6,909"
+1128,Air Asia,"Thu, 7 Oct",Bangalore,Kolkata,09:15,19:25,10h 10m,1 Stop,"7,005"
+1129,Air Asia,"Thu, 7 Oct",Bangalore,Kolkata,07:35,19:25,11h 50m,1 Stop,"7,005"
+1130,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,21:45,"00:20
++ 1 day",2h 35m,Non Stop,"7,278"
+1131,Air Asia,"Thu, 7 Oct",Bangalore,Kolkata,18:45,21:20,2h 35m,Non Stop,"7,304"
+1132,Air Asia,"Thu, 7 Oct",Bangalore,Kolkata,23:10,"01:35
++ 1 day",2h 25m,Non Stop,"7,830"
+1133,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,08:45,14:20,5h 35m,1 Stop,"7,919"
+1134,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,06:45,12:25,5h 40m,1 Stop,"7,919"
+1135,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,05:35,11:50,6h 15m,1 Stop,"7,919"
+1136,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,05:35,14:20,8h 45m,1 Stop,"7,919"
+1137,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,06:40,16:10,9h 30m,1 Stop,"7,919"
+1138,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,08:45,19:50,11h 05m,1 Stop,"7,919"
+1139,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,10:10,19:25,9h 15m,1 Stop,"8,375"
+1140,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,22:00,"07:50
++ 1 day",9h 50m,1 Stop,"9,289"
+1141,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,18:20,"00:30
++ 1 day",6h 10m,1 Stop,"10,166"
+1142,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,15:00,"00:30
++ 1 day",9h 30m,1 Stop,"10,166"
+1143,SpiceJet,"Thu, 7 Oct",Bangalore,Kolkata,19:55,"08:25
++ 1 day",12h 30m,1 Stop,"11,374"
+1144,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,14:50,19:15,4h 25m,1 Stop,"11,478"
+1145,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,11:00,19:15,8h 15m,1 Stop,"11,531"
+1146,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,10:00,19:15,9h 15m,1 Stop,"11,531"
+1147,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,08:50,19:15,10h 25m,1 Stop,"11,531"
+1148,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,14:40,22:40,8h 00m,2 Stop(s),"11,625"
+1149,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,16:25,21:30,5h 05m,1 Stop,"12,213"
+1150,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,14:50,21:30,6h 40m,1 Stop,"12,213"
+1151,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,21:45,"07:35
++ 1 day",9h 50m,1 Stop,"12,213"
+1152,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,09:30,16:50,7h 20m,2 Stop(s),"12,214"
+1153,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,07:45,16:50,9h 05m,2 Stop(s),"12,214"
+1154,Air India,"Thu, 7 Oct",Bangalore,Kolkata,19:10,"12:10
++ 1 day",17h 00m,2 Stop(s),"12,214"
+1155,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,19:55,"16:55
++ 1 day",21h 00m,1 Stop,"12,214"
+1156,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,18:25,"16:55
++ 1 day",22h 30m,1 Stop,"12,214"
+1157,Air India,"Thu, 7 Oct",Bangalore,Kolkata,08:35,"12:10
++ 1 day",27h 35m,2 Stop(s),"12,214"
+1158,Air India,"Thu, 7 Oct",Bangalore,Kolkata,06:40,"12:10
++ 1 day",29h 30m,2 Stop(s),"12,214"
+1159,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,11:00,21:30,10h 30m,1 Stop,"12,266"
+1160,Air India,"Thu, 7 Oct",Bangalore,Kolkata,08:35,"14:50
++ 1 day",30h 15m,3 Stop(s),"12,385"
+1161,Air India,"Thu, 7 Oct",Bangalore,Kolkata,06:40,"14:50
++ 1 day",32h 10m,3 Stop(s),"12,385"
+1162,Air India,"Thu, 7 Oct",Bangalore,Kolkata,17:40,"12:10
++ 1 day",18h 30m,1 Stop,"12,455"
+1163,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,20:20,"07:35
++ 1 day",11h 15m,1 Stop,"12,476"
+1164,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,11:00,15:55,4h 55m,1 Stop,"12,791"
+1165,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,10:00,15:55,5h 55m,1 Stop,"12,791"
+1166,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,08:50,15:55,7h 05m,1 Stop,"12,791"
+1167,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,07:20,15:55,8h 35m,1 Stop,"13,001"
+1168,Air Asia,"Thu, 7 Oct",Bangalore,Kolkata,16:15,"00:55
++ 1 day",8h 40m,1 Stop,"13,054"
+1169,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,16:25,22:40,6h 15m,1 Stop,"13,263"
+1170,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,14:50,22:40,7h 50m,1 Stop,"13,263"
+1171,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,21:45,"08:30
++ 1 day",10h 45m,1 Stop,"13,263"
+1172,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,08:00,22:45,14h 45m,1 Stop,"13,264"
+1173,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,07:00,22:45,15h 45m,1 Stop,"13,264"
+1174,Air Asia,"Thu, 7 Oct",Bangalore,Kolkata,16:05,"00:55
++ 1 day",8h 50m,2 Stop(s),"13,473"
+1175,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,11:30,22:45,11h 15m,1 Stop,"13,474"
+1176,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,19:55,"09:45
++ 1 day",13h 50m,1 Stop,"13,579"
+1177,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,18:25,"09:45
++ 1 day",15h 20m,1 Stop,"13,579"
+1178,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,09:30,"09:45
++ 1 day",24h 15m,1 Stop,"13,579"
+1179,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,07:45,"09:45
++ 1 day",26h 00m,1 Stop,"13,579"
+1180,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,21:10,"08:20
++ 1 day",11h 10m,1 Stop,"13,789"
+1181,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,19:40,"08:20
++ 1 day",12h 40m,1 Stop,"13,789"
+1182,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,17:55,"08:20
++ 1 day",14h 25m,1 Stop,"13,789"
+1183,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,08:00,"08:20
++ 1 day",24h 20m,1 Stop,"13,789"
+1184,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,07:00,"08:20
++ 1 day",25h 20m,1 Stop,"13,789"
+1185,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,11:30,"08:20
++ 1 day",20h 50m,1 Stop,"13,999"
+1186,Air India,"Thu, 7 Oct",Bangalore,Kolkata,06:10,"14:50
++ 1 day",32h 40m,3 Stop(s),"14,002"
+1187,Air India,"Thu, 7 Oct",Bangalore,Kolkata,10:25,"14:50
++ 1 day",28h 25m,2 Stop(s),"14,150"
+1188,Air India,"Thu, 7 Oct",Bangalore,Kolkata,06:10,"14:50
++ 1 day",32h 40m,2 Stop(s),"14,150"
+1189,Air India,"Thu, 7 Oct",Bangalore,Kolkata,10:25,"12:10
++ 1 day",25h 45m,2 Stop(s),"14,243"
+1190,Air India,"Thu, 7 Oct",Bangalore,Kolkata,06:10,"12:10
++ 1 day",30h 00m,2 Stop(s),"14,243"
+1191,Air India,"Thu, 7 Oct",Bangalore,Kolkata,06:10,"12:10
++ 1 day",30h 00m,2 Stop(s),"14,243"
+1192,Air India,"Thu, 7 Oct",Bangalore,Kolkata,06:10,"12:10
++ 1 day",30h 00m,2 Stop(s),"14,243"
+1193,Air India,"Thu, 7 Oct",Bangalore,Kolkata,12:00,14:25,2h 25m,Non Stop,"14,314"
+1194,Go First,"Thu, 7 Oct",Bangalore,Kolkata,09:30,21:55,12h 25m,1 Stop,"14,390"
+1195,SpiceJet,"Thu, 7 Oct",Bangalore,Kolkata,19:10,"20:20
++ 1 day",25h 10m,1 Stop,"14,391"
+1196,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,21:10,"09:35
++ 1 day",12h 25m,1 Stop,"14,629"
+1197,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,19:40,"09:35
++ 1 day",13h 55m,1 Stop,"14,629"
+1198,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,17:55,"09:35
++ 1 day",15h 40m,1 Stop,"14,629"
+1199,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,09:40,14:40,5h 00m,1 Stop,"14,943"
+1200,Air India,"Thu, 7 Oct",Bangalore,Kolkata,18:45,"08:05
++ 1 day",13h 20m,1 Stop,"15,049"
+1201,Air India,"Thu, 7 Oct",Bangalore,Kolkata,07:05,"08:05
++ 1 day",25h 00m,2 Stop(s),"15,049"
+1202,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,08:00,19:35,11h 35m,1 Stop,"15,154"
+1203,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,07:00,19:35,12h 35m,1 Stop,"15,154"
+1204,Air Asia,"Thu, 7 Oct",Bangalore,Kolkata,05:00,12:00,7h 00m,1 Stop,"15,158"
+1205,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,11:30,19:35,8h 05m,1 Stop,"15,364"
+1206,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,19:55,"19:45
++ 1 day",23h 50m,1 Stop,"15,784"
+1207,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,18:25,"19:45
++ 1 day",25h 20m,1 Stop,"15,784"
+1208,IndiGo,"Thu, 7 Oct",Bangalore,Kolkata,14:50,22:50,8h 00m,1 Stop,"15,888"
+1209,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,21:10,"19:35
++ 1 day",22h 25m,1 Stop,"15,889"
+1210,Vistara,"Thu, 7 Oct",Bangalore,Kolkata,11:00,19:35,8h 35m,2 Stop(s),"18,199"
+1211,Air India,"Thu, 7 Oct",Bangalore,Kolkata,13:20,"14:50
++ 1 day",25h 30m,3 Stop(s),"18,738"
+1212,Air India,"Thu, 7 Oct",Bangalore,Kolkata,10:25,"14:50
++ 1 day",28h 25m,3 Stop(s),"18,738"
+1213,Air India,"Thu, 7 Oct",Bangalore,Kolkata,06:10,"14:50
++ 1 day",32h 40m,3 Stop(s),"18,738"
+1214,Air India,"Thu, 7 Oct",Bangalore,Kolkata,17:45,"17:00
++ 1 day",23h 15m,2 Stop(s),"19,358"
+1215,Air India,"Thu, 7 Oct",Bangalore,Kolkata,13:20,"17:00
++ 1 day",27h 40m,2 Stop(s),"19,358"
+1216,Air India,"Thu, 7 Oct",Bangalore,Kolkata,17:45,"21:05
++ 1 day",27h 20m,4 Stop(s),"19,580"
+1217,Air India,"Thu, 7 Oct",Bangalore,Kolkata,13:20,"21:05
++ 1 day",31h 45m,4 Stop(s),"19,580"
+1218,Air India,"Thu, 7 Oct",Bangalore,Kolkata,13:20,22:20,9h 00m,1 Stop,"21,244"
+1219,Air India,"Thu, 7 Oct",Bangalore,Kolkata,10:25,22:20,11h 55m,1 Stop,"21,244"
+1220,Air India,"Thu, 7 Oct",Bangalore,Kolkata,06:10,22:20,16h 10m,1 Stop,"21,244"
+1221,Air India,"Thu, 7 Oct",Bangalore,Kolkata,10:25,19:10,8h 45m,1 Stop,"22,819"
+1222,Air India,"Thu, 7 Oct",Bangalore,Kolkata,06:10,19:10,13h 00m,1 Stop,"22,819"
+1223,Air India,"Thu, 7 Oct",Bangalore,Kolkata,17:45,"09:10
++ 1 day",15h 25m,1 Stop,"22,819"
+1224,Air India,"Thu, 7 Oct",Bangalore,Kolkata,13:20,"09:10
++ 1 day",19h 50m,1 Stop,"22,819"
+1225,Air India,"Thu, 7 Oct",Bangalore,Kolkata,17:45,"19:10
++ 1 day",25h 25m,1 Stop,"22,819"
+1226,Air Asia,"Thu, 7 Oct",Kolkata,Bangalore,10:35,15:40,5h 05m,1 Stop,"6,486"
+1227,Air Asia,"Thu, 7 Oct",Kolkata,Bangalore,10:35,16:35,6h 00m,1 Stop,"6,486"
+1228,Air Asia,"Thu, 7 Oct",Kolkata,Bangalore,16:20,23:50,7h 30m,2 Stop(s),"6,486"
+1229,Air Asia,"Thu, 7 Oct",Kolkata,Bangalore,10:35,18:20,7h 45m,2 Stop(s),"6,486"
+1230,Air Asia,"Thu, 7 Oct",Kolkata,Bangalore,05:25,13:55,8h 30m,1 Stop,"6,486"
+1231,Air Asia,"Thu, 7 Oct",Kolkata,Bangalore,16:20,"01:00
++ 1 day",8h 40m,1 Stop,"6,486"
+1232,Air Asia,"Thu, 7 Oct",Kolkata,Bangalore,09:05,18:20,9h 15m,1 Stop,"6,486"
+1233,Air Asia,"Thu, 7 Oct",Kolkata,Bangalore,10:35,22:25,11h 50m,3 Stop(s),"6,486"
+1234,Go First,"Thu, 7 Oct",Kolkata,Bangalore,12:55,15:20,2h 25m,Non Stop,"6,488"
+1235,Go First,"Thu, 7 Oct",Kolkata,Bangalore,20:30,22:55,2h 25m,Non Stop,"6,488"
+1236,SpiceJet,"Thu, 7 Oct",Kolkata,Bangalore,08:50,11:30,2h 40m,Non Stop,"6,488"
+1237,Go First,"Thu, 7 Oct",Kolkata,Bangalore,11:00,20:40,9h 40m,1 Stop,"6,488"
+1238,Go First,"Thu, 7 Oct",Kolkata,Bangalore,19:50,"07:45
++ 1 day",11h 55m,1 Stop,"6,488"
+1239,SpiceJet,"Thu, 7 Oct",Kolkata,Bangalore,20:55,"08:50
++ 1 day",11h 55m,1 Stop,"6,488"
+1240,Go First,"Thu, 7 Oct",Kolkata,Bangalore,05:45,19:45,14h 00m,1 Stop,"6,488"
+1241,SpiceJet,"Thu, 7 Oct",Kolkata,Bangalore,20:55,"23:10
++ 1 day",26h 15m,1 Stop,"6,488"
+1242,SpiceJet,"Thu, 7 Oct",Kolkata,Bangalore,17:40,"21:00
++ 1 day",27h 20m,1 Stop,"6,488"
+1243,SpiceJet,"Thu, 7 Oct",Kolkata,Bangalore,20:55,"00:35
++ 2 days",27h 40m,1 Stop,"6,488"
+1244,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,07:30,10:00,2h 30m,Non Stop,"6,489"
+1245,Air India,"Thu, 7 Oct",Kolkata,Bangalore,14:15,16:45,2h 30m,Non Stop,"6,489"
+1246,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,10:40,13:15,2h 35m,Non Stop,"6,489"
+1247,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,14:05,16:40,2h 35m,Non Stop,"6,489"
+1248,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,16:25,19:00,2h 35m,Non Stop,"6,489"
+1249,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,18:30,21:05,2h 35m,Non Stop,"6,489"
+1250,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,19:55,22:30,2h 35m,Non Stop,"6,489"
+1251,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,21:00,23:35,2h 35m,Non Stop,"6,489"
+1252,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,21:55,"00:30
++ 1 day",2h 35m,Non Stop,"6,489"
+1253,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,08:35,11:15,2h 40m,Non Stop,"6,489"
+1254,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,05:45,10:20,4h 35m,1 Stop,"6,489"
+1255,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,09:40,14:15,4h 35m,1 Stop,"6,489"
+1256,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,05:40,12:35,6h 55m,1 Stop,"6,489"
+1257,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,15:55,23:05,7h 10m,1 Stop,"6,489"
+1258,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,16:35,23:50,7h 15m,1 Stop,"6,489"
+1259,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,16:30,23:55,7h 25m,1 Stop,"6,489"
+1260,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,23:25,"06:50
++ 1 day",7h 25m,1 Stop,"6,489"
+1261,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,08:15,16:10,7h 55m,1 Stop,"6,489"
+1262,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,06:15,14:15,8h 00m,1 Stop,"6,489"
+1263,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,09:40,17:40,8h 00m,1 Stop,"6,489"
+1264,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,09:30,17:45,8h 15m,1 Stop,"6,489"
+1265,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,05:45,14:15,8h 30m,1 Stop,"6,489"
+1266,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,22:00,"06:50
++ 1 day",8h 50m,1 Stop,"6,489"
+1267,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,23:25,"08:15
++ 1 day",8h 50m,1 Stop,"6,489"
+1268,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,08:25,17:45,9h 20m,1 Stop,"6,489"
+1269,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,09:40,19:50,10h 10m,1 Stop,"6,489"
+1270,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,23:25,"09:35
++ 1 day",10h 10m,1 Stop,"6,489"
+1271,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,22:00,"08:15
++ 1 day",10h 15m,1 Stop,"6,489"
+1272,Air Asia,"Thu, 7 Oct",Kolkata,Bangalore,21:50,"00:25
++ 1 day",2h 35m,Non Stop,"6,490"
+1273,Air Asia,"Thu, 7 Oct",Kolkata,Bangalore,08:45,11:30,2h 45m,Non Stop,"6,490"
+1274,Air Asia,"Thu, 7 Oct",Kolkata,Bangalore,16:15,19:05,2h 50m,Non Stop,"6,490"
+1275,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,08:10,15:35,7h 25m,2 Stop(s),"6,542"
+1276,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,08:10,18:55,10h 45m,2 Stop(s),"6,542"
+1277,SpiceJet,"Thu, 7 Oct",Kolkata,Bangalore,17:40,"09:05
++ 1 day",15h 25m,1 Stop,"6,804"
+1278,SpiceJet,"Thu, 7 Oct",Kolkata,Bangalore,06:20,"00:35
++ 1 day",18h 15m,1 Stop,"7,118"
+1279,SpiceJet,"Thu, 7 Oct",Kolkata,Bangalore,06:20,"01:25
++ 1 day",19h 05m,1 Stop,"7,118"
+1280,SpiceJet,"Thu, 7 Oct",Kolkata,Bangalore,06:20,"08:50
++ 1 day",26h 30m,1 Stop,"7,118"
+1281,Air Asia,"Thu, 7 Oct",Kolkata,Bangalore,07:35,15:50,8h 15m,2 Stop(s),"7,120"
+1282,SpiceJet,"Thu, 7 Oct",Kolkata,Bangalore,10:20,"13:05
++ 1 day",26h 45m,1 Stop,"7,434"
+1283,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,16:10,21:20,5h 10m,1 Stop,"7,954"
+1284,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,13:20,19:50,6h 30m,1 Stop,"7,954"
+1285,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,15:05,22:30,7h 25m,1 Stop,"7,954"
+1286,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,13:20,21:10,7h 50m,1 Stop,"7,954"
+1287,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,11:25,17:40,6h 15m,1 Stop,"9,419"
+1288,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,13:20,23:50,10h 30m,1 Stop,"9,419"
+1289,Air India,"Thu, 7 Oct",Kolkata,Bangalore,19:00,"11:20
++ 1 day",16h 20m,1 Stop,"10,374"
+1290,Air India,"Thu, 7 Oct",Kolkata,Bangalore,19:00,"22:20
++ 1 day",27h 20m,1 Stop,"10,742"
+1291,Air India,"Thu, 7 Oct",Kolkata,Bangalore,13:00,23:40,10h 40m,1 Stop,"12,085"
+1292,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,17:35,"07:50
++ 1 day",14h 15m,1 Stop,"12,684"
+1293,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,17:35,"08:50
++ 1 day",15h 15m,1 Stop,"12,684"
+1294,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,17:35,"10:45
++ 1 day",17h 10m,1 Stop,"12,684"
+1295,Air India,"Thu, 7 Oct",Kolkata,Bangalore,13:00,"07:55
++ 1 day",18h 55m,2 Stop(s),"12,684"
+1296,Air India,"Thu, 7 Oct",Kolkata,Bangalore,13:00,"11:10
++ 1 day",22h 10m,2 Stop(s),"12,684"
+1297,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,17:35,"17:45
++ 1 day",24h 10m,1 Stop,"12,684"
+1298,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,17:35,"20:55
++ 1 day",27h 20m,1 Stop,"12,684"
+1299,Air India,"Thu, 7 Oct",Kolkata,Bangalore,13:00,"18:30
++ 1 day",29h 30m,2 Stop(s),"12,684"
+1300,Go First,"Thu, 7 Oct",Kolkata,Bangalore,13:45,22:20,8h 35m,1 Stop,"13,391"
+1301,Go First,"Thu, 7 Oct",Kolkata,Bangalore,05:45,22:20,16h 35m,1 Stop,"13,391"
+1302,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,07:10,16:55,9h 45m,1 Stop,"13,734"
+1303,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,07:10,18:50,11h 40m,1 Stop,"13,734"
+1304,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,07:10,20:25,13h 15m,1 Stop,"13,734"
+1305,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,07:10,22:40,15h 30m,1 Stop,"13,734"
+1306,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,07:10,23:20,16h 10m,1 Stop,"13,734"
+1307,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,07:10,"10:50
++ 1 day",27h 40m,1 Stop,"13,734"
+1308,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,14:05,23:05,9h 00m,1 Stop,"13,839"
+1309,Air India,"Thu, 7 Oct",Kolkata,Bangalore,13:00,23:55,10h 55m,2 Stop(s),"13,873"
+1310,Air India,"Thu, 7 Oct",Kolkata,Bangalore,13:00,"08:55
++ 1 day",19h 55m,2 Stop(s),"13,873"
+1311,Air India,"Thu, 7 Oct",Kolkata,Bangalore,13:00,"08:55
++ 1 day",19h 55m,2 Stop(s),"13,873"
+1312,Air India,"Thu, 7 Oct",Kolkata,Bangalore,13:00,"12:30
++ 1 day",23h 30m,2 Stop(s),"13,873"
+1313,Air India,"Thu, 7 Oct",Kolkata,Bangalore,13:00,"12:30
++ 1 day",23h 30m,2 Stop(s),"13,873"
+1314,Air India,"Thu, 7 Oct",Kolkata,Bangalore,13:00,"16:15
++ 1 day",27h 15m,2 Stop(s),"13,873"
+1315,Air India,"Thu, 7 Oct",Kolkata,Bangalore,13:00,"16:15
++ 1 day",27h 15m,2 Stop(s),"13,873"
+1316,Air India,"Thu, 7 Oct",Kolkata,Bangalore,13:00,"23:55
++ 1 day",34h 55m,2 Stop(s),"13,873"
+1317,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,10:40,17:45,7h 05m,1 Stop,"14,102"
+1318,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,10:15,16:55,6h 40m,1 Stop,"14,259"
+1319,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,10:15,18:50,8h 35m,1 Stop,"14,259"
+1320,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,10:15,20:25,10h 10m,1 Stop,"14,259"
+1321,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,10:15,22:40,12h 25m,1 Stop,"14,259"
+1322,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,10:15,23:20,13h 05m,1 Stop,"14,259"
+1323,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,10:15,"10:50
++ 1 day",24h 35m,1 Stop,"14,259"
+1324,IndiGo,"Thu, 7 Oct",Kolkata,Bangalore,12:30,17:45,5h 15m,1 Stop,"14,312"
+1325,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,16:05,22:40,6h 35m,1 Stop,"14,574"
+1326,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,16:05,23:20,7h 15m,1 Stop,"14,574"
+1327,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,16:05,"10:50
++ 1 day",18h 45m,1 Stop,"14,574"
+1328,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,16:05,"16:55
++ 1 day",24h 50m,1 Stop,"14,574"
+1329,Air India,"Thu, 7 Oct",Kolkata,Bangalore,19:00,"07:55
++ 1 day",12h 55m,2 Stop(s),"15,099"
+1330,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,20:20,"10:50
++ 1 day",14h 30m,1 Stop,"15,099"
+1331,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,20:20,"16:55
++ 1 day",20h 35m,1 Stop,"15,099"
+1332,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,20:20,"18:50
++ 1 day",22h 30m,1 Stop,"15,099"
+1333,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,20:20,"22:40
++ 1 day",26h 20m,1 Stop,"15,099"
+1334,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,20:20,"20:25
++ 1 day",24h 05m,1 Stop,"15,309"
+1335,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,09:55,17:45,7h 50m,1 Stop,"17,304"
+1336,Vistara,"Thu, 7 Oct",Kolkata,Bangalore,09:55,20:55,11h 00m,1 Stop,"17,304"
+1337,Air India,"Thu, 7 Oct",Kolkata,Bangalore,20:30,"08:55
++ 1 day",12h 25m,1 Stop,"18,879"
+1338,Air India,"Thu, 7 Oct",Kolkata,Bangalore,10:35,23:55,13h 20m,1 Stop,"18,879"
+1339,Air India,"Thu, 7 Oct",Kolkata,Bangalore,20:30,"12:30
++ 1 day",16h 00m,1 Stop,"18,879"
+1340,Air India,"Thu, 7 Oct",Kolkata,Bangalore,20:30,"16:15
++ 1 day",19h 45m,1 Stop,"18,879"
+1341,Air Asia,"Thu, 7 Oct",Kolkata,Bangalore,07:40,18:45,11h 05m,1 Stop,"19,090"
+1342,Air India,"Thu, 7 Oct",Kolkata,Bangalore,06:55,16:15,9h 20m,1 Stop,"20,139"
+1343,Air India,"Thu, 7 Oct",Kolkata,Bangalore,06:55,23:55,17h 00m,1 Stop,"20,139"
+1344,Air India,"Thu, 7 Oct",Kolkata,Bangalore,10:35,22:20,11h 45m,3 Stop(s),"21,294"
+1345,Air India,"Thu, 7 Oct",Kolkata,Bangalore,06:55,18:30,11h 35m,2 Stop(s),"23,394"
+1346,Go First,"Thu, 7 Oct",Varanasi,New Delhi,19:15,20:40,1h 25m,Non Stop,"5,432"
+1347,SpiceJet,"Thu, 7 Oct",Varanasi,New Delhi,08:15,09:55,1h 40m,Non Stop,"5,432"
+1348,SpiceJet,"Thu, 7 Oct",Varanasi,New Delhi,18:40,20:40,2h 00m,Non Stop,"5,432"
+1349,SpiceJet,"Thu, 7 Oct",Varanasi,New Delhi,14:40,20:45,6h 05m,1 Stop,"5,432"
+1350,IndiGo,"Thu, 7 Oct",Varanasi,New Delhi,12:00,13:30,1h 30m,Non Stop,"5,433"
+1351,IndiGo,"Thu, 7 Oct",Varanasi,New Delhi,14:55,16:25,1h 30m,Non Stop,"5,433"
+1352,Air India,"Thu, 7 Oct",Varanasi,New Delhi,12:10,13:45,1h 35m,Non Stop,"5,433"
+1353,Vistara,"Thu, 7 Oct",Varanasi,New Delhi,15:20,16:55,1h 35m,Non Stop,"5,433"
+1354,Air India,"Thu, 7 Oct",Varanasi,New Delhi,15:30,17:10,1h 40m,Non Stop,"8,688"
+1355,Vistara,"Thu, 7 Oct",Varanasi,New Delhi,16:10,23:00,6h 50m,1 Stop,"11,838"
+1356,Air India,"Thu, 7 Oct",Varanasi,New Delhi,13:25,20:30,7h 05m,1 Stop,"11,838"
+1357,Air India,"Thu, 7 Oct",Varanasi,New Delhi,13:25,21:15,7h 50m,1 Stop,"11,838"
+1358,Vistara,"Thu, 7 Oct",Varanasi,New Delhi,16:10,"00:10
++ 1 day",8h 00m,1 Stop,"11,838"
+1359,Vistara,"Thu, 7 Oct",Varanasi,New Delhi,16:10,"00:55
++ 1 day",8h 45m,1 Stop,"11,838"
+1360,Vistara,"Thu, 7 Oct",Varanasi,New Delhi,16:10,"09:40
++ 1 day",17h 30m,1 Stop,"11,838"
+1361,Vistara,"Thu, 7 Oct",Varanasi,New Delhi,16:10,"11:00
++ 1 day",18h 50m,1 Stop,"11,838"
+1362,Air India,"Thu, 7 Oct",Varanasi,New Delhi,13:25,"09:10
++ 1 day",19h 45m,1 Stop,"11,838"
+1363,Vistara,"Thu, 7 Oct",Varanasi,New Delhi,16:10,"12:40
++ 1 day",20h 30m,1 Stop,"11,838"
+1364,Air India,"Thu, 7 Oct",Varanasi,New Delhi,13:25,"10:15
++ 1 day",20h 50m,1 Stop,"11,838"
+1365,Vistara,"Thu, 7 Oct",Varanasi,New Delhi,16:10,"14:05
++ 1 day",21h 55m,1 Stop,"11,838"
+1366,Air India,"Thu, 7 Oct",Varanasi,New Delhi,13:25,"12:15
++ 1 day",22h 50m,1 Stop,"11,838"
+1367,Vistara,"Thu, 7 Oct",Varanasi,New Delhi,16:10,"16:55
++ 1 day",24h 45m,1 Stop,"11,838"
+1368,Vistara,"Thu, 7 Oct",Varanasi,New Delhi,16:10,"18:05
++ 1 day",25h 55m,1 Stop,"11,838"
+1369,Vistara,"Thu, 7 Oct",Varanasi,New Delhi,16:10,"19:40
++ 1 day",27h 30m,1 Stop,"11,838"
+1370,Air India,"Thu, 7 Oct",Varanasi,New Delhi,13:25,"19:10
++ 1 day",29h 45m,2 Stop(s),"11,838"
+1371,Air India,"Thu, 7 Oct",Varanasi,New Delhi,13:25,23:55,10h 30m,2 Stop(s),"12,639"
+1372,Go First,"Thu, 7 Oct",Varanasi,New Delhi,13:10,21:25,8h 15m,1 Stop,"12,856"
+1373,Vistara,"Thu, 7 Oct",Varanasi,New Delhi,16:10,21:55,5h 45m,1 Stop,"12,888"
+1374,Air India,"Thu, 7 Oct",Varanasi,New Delhi,13:25,"11:10
++ 1 day",21h 45m,2 Stop(s),"13,098"
+1375,Air India,"Thu, 7 Oct",Varanasi,New Delhi,13:25,"08:55
++ 1 day",19h 30m,2 Stop(s),"13,899"
+1376,Air India,"Thu, 7 Oct",Varanasi,New Delhi,13:25,"08:55
++ 1 day",19h 30m,2 Stop(s),"13,899"
+1377,Air India,"Thu, 7 Oct",Varanasi,New Delhi,13:25,"13:40
++ 1 day",24h 15m,2 Stop(s),"13,899"
+1378,Air India,"Thu, 7 Oct",Varanasi,New Delhi,13:25,"13:40
++ 1 day",24h 15m,2 Stop(s),"13,899"
+1379,Vistara,"Thu, 7 Oct",Varanasi,New Delhi,16:10,"09:00
++ 1 day",16h 50m,2 Stop(s),"15,723"
+1380,Vistara,"Thu, 7 Oct",Varanasi,New Delhi,16:10,"12:30
++ 1 day",20h 20m,2 Stop(s),"17,298"
+1381,Vistara,"Thu, 7 Oct",Varanasi,New Delhi,16:10,"09:40
++ 1 day",17h 30m,2 Stop(s),"18,033"
+1382,Vistara,"Thu, 7 Oct",Varanasi,New Delhi,16:10,"10:40
++ 1 day",18h 30m,2 Stop(s),"18,243"
+1383,Air Asia,"Mon, 11 Oct",New Delhi,Mumbai,16:15,22:10,5h 55m,1 Stop,"5,953"
+1384,Air Asia,"Mon, 11 Oct",New Delhi,Mumbai,09:25,16:00,6h 35m,1 Stop,"5,953"
+1385,Air Asia,"Mon, 11 Oct",New Delhi,Mumbai,12:40,20:15,7h 35m,1 Stop,"5,953"
+1386,Air Asia,"Mon, 11 Oct",New Delhi,Mumbai,11:55,20:15,8h 20m,1 Stop,"5,953"
+1387,Air Asia,"Mon, 11 Oct",New Delhi,Mumbai,08:00,16:35,8h 35m,1 Stop,"5,953"
+1388,Air Asia,"Mon, 11 Oct",New Delhi,Mumbai,04:55,14:15,9h 20m,1 Stop,"5,953"
+1389,Air Asia,"Mon, 11 Oct",New Delhi,Mumbai,18:35,"06:20
++ 1 day",11h 45m,1 Stop,"5,953"
+1390,Air Asia,"Mon, 11 Oct",New Delhi,Mumbai,16:15,"06:20
++ 1 day",14h 05m,1 Stop,"5,953"
+1391,Air Asia,"Mon, 11 Oct",New Delhi,Mumbai,08:00,22:10,14h 10m,1 Stop,"5,953"
+1392,Air Asia,"Mon, 11 Oct",New Delhi,Mumbai,05:20,20:15,14h 55m,1 Stop,"5,953"
+1393,Go First,"Mon, 11 Oct",New Delhi,Mumbai,06:15,08:20,2h 05m,Non Stop,"5,954"
+1394,Go First,"Mon, 11 Oct",New Delhi,Mumbai,09:40,11:45,2h 05m,Non Stop,"5,954"
+1395,Go First,"Mon, 11 Oct",New Delhi,Mumbai,10:55,13:00,2h 05m,Non Stop,"5,954"
+1396,Go First,"Mon, 11 Oct",New Delhi,Mumbai,14:20,16:25,2h 05m,Non Stop,"5,954"
+1397,Go First,"Mon, 11 Oct",New Delhi,Mumbai,15:45,17:50,2h 05m,Non Stop,"5,954"
+1398,Go First,"Mon, 11 Oct",New Delhi,Mumbai,18:40,20:45,2h 05m,Non Stop,"5,954"
+1399,Go First,"Mon, 11 Oct",New Delhi,Mumbai,20:00,22:05,2h 05m,Non Stop,"5,954"
+1400,Go First,"Mon, 11 Oct",New Delhi,Mumbai,21:30,23:35,2h 05m,Non Stop,"5,954"
+1401,Go First,"Mon, 11 Oct",New Delhi,Mumbai,22:45,"00:50
++ 1 day",2h 05m,Non Stop,"5,954"
+1402,Go First,"Mon, 11 Oct",New Delhi,Mumbai,17:45,22:25,4h 40m,1 Stop,"5,954"
+1403,Go First,"Mon, 11 Oct",New Delhi,Mumbai,08:10,13:00,4h 50m,1 Stop,"5,954"
+1404,Go First,"Mon, 11 Oct",New Delhi,Mumbai,16:10,21:05,4h 55m,1 Stop,"5,954"
+1405,Go First,"Mon, 11 Oct",New Delhi,Mumbai,10:40,15:40,5h 00m,1 Stop,"5,954"
+1406,Go First,"Mon, 11 Oct",New Delhi,Mumbai,13:30,19:20,5h 50m,1 Stop,"5,954"
+1407,Go First,"Mon, 11 Oct",New Delhi,Mumbai,12:20,18:15,5h 55m,1 Stop,"5,954"
+1408,Go First,"Mon, 11 Oct",New Delhi,Mumbai,09:00,15:45,6h 45m,1 Stop,"5,954"
+1409,Go First,"Mon, 11 Oct",New Delhi,Mumbai,12:35,19:20,6h 45m,1 Stop,"5,954"
+1410,Go First,"Mon, 11 Oct",New Delhi,Mumbai,11:20,18:15,6h 55m,1 Stop,"5,954"
+1411,Go First,"Mon, 11 Oct",New Delhi,Mumbai,08:10,15:40,7h 30m,1 Stop,"5,954"
+1412,Go First,"Mon, 11 Oct",New Delhi,Mumbai,09:10,18:15,9h 05m,1 Stop,"5,954"
+1413,Go First,"Mon, 11 Oct",New Delhi,Mumbai,07:10,16:20,9h 10m,1 Stop,"5,954"
+1414,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,06:00,08:00,2h 00m,Non Stop,"5,955"
+1415,SpiceJet,"Mon, 11 Oct",New Delhi,Mumbai,18:40,20:40,2h 00m,Non Stop,"5,955"
+1416,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,19:05,21:05,2h 00m,Non Stop,"5,955"
+1417,Air India,"Mon, 11 Oct",New Delhi,Mumbai,07:00,09:05,2h 05m,Non Stop,"5,955"
+1418,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,09:30,11:35,2h 05m,Non Stop,"5,955"
+1419,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,12:00,14:05,2h 05m,Non Stop,"5,955"
+1420,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,14:00,16:05,2h 05m,Non Stop,"5,955"
+1421,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,20:30,22:35,2h 05m,Non Stop,"5,955"
+1422,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,05:00,07:10,2h 10m,Non Stop,"5,955"
+1423,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,06:10,08:20,2h 10m,Non Stop,"5,955"
+1424,Air India,"Mon, 11 Oct",New Delhi,Mumbai,08:00,10:10,2h 10m,Non Stop,"5,955"
+1425,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,08:55,11:05,2h 10m,Non Stop,"5,955"
+1426,Air India,"Mon, 11 Oct",New Delhi,Mumbai,10:40,12:50,2h 10m,Non Stop,"5,955"
+1427,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,12:45,14:55,2h 10m,Non Stop,"5,955"
+1428,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,15:30,17:40,2h 10m,Non Stop,"5,955"
+1429,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,16:55,19:05,2h 10m,Non Stop,"5,955"
+1430,Air India,"Mon, 11 Oct",New Delhi,Mumbai,20:00,22:10,2h 10m,Non Stop,"5,955"
+1431,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,20:50,23:00,2h 10m,Non Stop,"5,955"
+1432,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,21:55,"00:05
++ 1 day",2h 10m,Non Stop,"5,955"
+1433,SpiceJet,"Mon, 11 Oct",New Delhi,Mumbai,06:50,09:05,2h 15m,Non Stop,"5,955"
+1434,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,07:30,09:45,2h 15m,Non Stop,"5,955"
+1435,Air India,"Mon, 11 Oct",New Delhi,Mumbai,09:00,11:15,2h 15m,Non Stop,"5,955"
+1436,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,10:10,12:25,2h 15m,Non Stop,"5,955"
+1437,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,10:20,12:35,2h 15m,Non Stop,"5,955"
+1438,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,15:35,17:50,2h 15m,Non Stop,"5,955"
+1439,Air India,"Mon, 11 Oct",New Delhi,Mumbai,19:00,21:15,2h 15m,Non Stop,"5,955"
+1440,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,19:45,22:00,2h 15m,Non Stop,"5,955"
+1441,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,08:50,11:10,2h 20m,Non Stop,"5,955"
+1442,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,17:45,20:05,2h 20m,Non Stop,"5,955"
+1443,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,18:55,21:15,2h 20m,Non Stop,"5,955"
+1444,SpiceJet,"Mon, 11 Oct",New Delhi,Mumbai,20:20,22:40,2h 20m,Non Stop,"5,955"
+1445,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,17:45,20:10,2h 25m,Non Stop,"5,955"
+1446,SpiceJet,"Mon, 11 Oct",New Delhi,Mumbai,06:35,10:10,3h 35m,1 Stop,"5,955"
+1447,Air India,"Mon, 11 Oct",New Delhi,Mumbai,18:00,21:35,3h 35m,1 Stop,"5,955"
+1448,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,13:45,17:45,4h 00m,1 Stop,"5,955"
+1449,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,08:55,13:10,4h 15m,1 Stop,"5,955"
+1450,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,18:45,23:00,4h 15m,1 Stop,"5,955"
+1451,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,18:10,22:35,4h 25m,1 Stop,"5,955"
+1452,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,13:40,18:35,4h 55m,1 Stop,"5,955"
+1453,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,08:10,13:10,5h 00m,1 Stop,"5,955"
+1454,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,09:35,14:50,5h 15m,1 Stop,"5,955"
+1455,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,13:10,18:35,5h 25m,1 Stop,"5,955"
+1456,SpiceJet,"Mon, 11 Oct",New Delhi,Mumbai,09:15,14:45,5h 30m,1 Stop,"5,955"
+1457,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,13:50,19:30,5h 40m,1 Stop,"5,955"
+1458,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,07:20,13:10,5h 50m,1 Stop,"5,955"
+1459,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,13:50,21:30,7h 40m,1 Stop,"5,955"
+1460,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,08:55,16:40,7h 45m,1 Stop,"5,955"
+1461,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,09:35,18:35,9h 00m,1 Stop,"5,955"
+1462,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,13:50,23:00,9h 10m,1 Stop,"5,955"
+1463,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,07:20,16:40,9h 20m,1 Stop,"5,955"
+1464,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,08:10,17:45,9h 35m,1 Stop,"5,955"
+1465,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,12:30,22:35,10h 05m,1 Stop,"5,955"
+1466,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,08:10,18:45,10h 35m,1 Stop,"5,955"
+1467,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,08:55,19:30,10h 35m,1 Stop,"5,955"
+1468,SpiceJet,"Mon, 11 Oct",New Delhi,Mumbai,18:15,"10:30
++ 1 day",16h 15m,1 Stop,"5,955"
+1469,SpiceJet,"Mon, 11 Oct",New Delhi,Mumbai,18:15,"13:10
++ 1 day",18h 55m,1 Stop,"5,955"
+1470,SpiceJet,"Mon, 11 Oct",New Delhi,Mumbai,16:35,"14:45
++ 1 day",22h 10m,1 Stop,"5,955"
+1471,SpiceJet,"Mon, 11 Oct",New Delhi,Mumbai,12:00,"10:30
++ 1 day",22h 30m,1 Stop,"5,955"
+1472,SpiceJet,"Mon, 11 Oct",New Delhi,Mumbai,16:40,"16:55
++ 1 day",24h 15m,1 Stop,"5,955"
+1473,SpiceJet,"Mon, 11 Oct",New Delhi,Mumbai,12:00,"13:10
++ 1 day",25h 10m,1 Stop,"5,955"
+1474,Air Asia,"Mon, 11 Oct",New Delhi,Mumbai,19:55,22:15,2h 20m,Non Stop,"5,956"
+1475,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,11:30,18:45,7h 15m,1 Stop,"7,163"
+1476,Air India,"Mon, 11 Oct",New Delhi,Mumbai,15:05,18:15,3h 10m,1 Stop,"7,215"
+1477,Air India,"Mon, 11 Oct",New Delhi,Mumbai,05:45,09:40,3h 55m,1 Stop,"7,468"
+1478,Air India,"Mon, 11 Oct",New Delhi,Mumbai,20:00,"09:40
++ 1 day",13h 40m,1 Stop,"7,468"
+1479,Air India,"Mon, 11 Oct",New Delhi,Mumbai,05:45,23:25,17h 40m,1 Stop,"7,468"
+1480,Air India,"Mon, 11 Oct",New Delhi,Mumbai,12:00,15:50,3h 50m,1 Stop,"8,160"
+1481,Air India,"Mon, 11 Oct",New Delhi,Mumbai,07:15,15:50,8h 35m,1 Stop,"8,160"
+1482,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,13:20,"16:00
++ 1 day",26h 40m,1 Stop,"8,160"
+1483,Air India,"Mon, 11 Oct",New Delhi,Mumbai,13:00,"15:50
++ 1 day",26h 50m,1 Stop,"8,160"
+1484,IndiGo,"Mon, 11 Oct",New Delhi,Mumbai,07:40,16:50,9h 10m,1 Stop,"8,475"
+1485,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,17:10,21:35,4h 25m,1 Stop,"9,000"
+1486,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,13:40,21:35,7h 55m,1 Stop,"9,000"
+1487,Air India,"Mon, 11 Oct",New Delhi,Mumbai,06:20,20:00,13h 40m,1 Stop,"9,000"
+1488,Air India,"Mon, 11 Oct",New Delhi,Mumbai,05:20,23:05,17h 45m,2 Stop(s),"9,000"
+1489,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,17:10,"15:00
++ 1 day",21h 50m,1 Stop,"9,000"
+1490,Air India,"Mon, 11 Oct",New Delhi,Mumbai,20:10,"20:00
++ 1 day",23h 50m,1 Stop,"9,000"
+1491,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,13:40,"15:00
++ 1 day",25h 20m,1 Stop,"9,000"
+1492,Air India,"Mon, 11 Oct",New Delhi,Mumbai,05:20,16:25,11h 05m,2 Stop(s),"9,590"
+1493,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,17:45,23:00,5h 15m,1 Stop,"9,840"
+1494,Air India,"Mon, 11 Oct",New Delhi,Mumbai,07:10,13:25,6h 15m,1 Stop,"9,840"
+1495,Air India,"Mon, 11 Oct",New Delhi,Mumbai,16:40,23:30,6h 50m,2 Stop(s),"9,840"
+1496,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,07:10,15:00,7h 50m,1 Stop,"9,840"
+1497,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,14:45,23:00,8h 15m,1 Stop,"9,840"
+1498,Air India,"Mon, 11 Oct",New Delhi,Mumbai,21:25,"07:10
++ 1 day",9h 45m,1 Stop,"9,840"
+1499,Air India,"Mon, 11 Oct",New Delhi,Mumbai,21:25,"09:40
++ 1 day",12h 15m,1 Stop,"9,840"
+1500,Air India,"Mon, 11 Oct",New Delhi,Mumbai,09:45,23:30,13h 45m,1 Stop,"9,840"
+1501,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,20:35,"10:40
++ 1 day",14h 05m,1 Stop,"9,840"
+1502,Air India,"Mon, 11 Oct",New Delhi,Mumbai,16:40,"07:10
++ 1 day",14h 30m,2 Stop(s),"9,840"
+1503,Air India,"Mon, 11 Oct",New Delhi,Mumbai,08:20,23:30,15h 10m,1 Stop,"9,840"
+1504,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,07:10,23:00,15h 50m,1 Stop,"9,840"
+1505,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,17:45,"10:40
++ 1 day",16h 55m,1 Stop,"9,840"
+1506,Air India,"Mon, 11 Oct",New Delhi,Mumbai,16:40,"09:40
++ 1 day",17h 00m,2 Stop(s),"9,840"
+1507,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,20:35,"15:00
++ 1 day",18h 25m,1 Stop,"9,840"
+1508,Air India,"Mon, 11 Oct",New Delhi,Mumbai,18:30,"13:25
++ 1 day",18h 55m,1 Stop,"9,840"
+1509,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,14:45,"10:40
++ 1 day",19h 55m,1 Stop,"9,840"
+1510,Air India,"Mon, 11 Oct",New Delhi,Mumbai,09:45,"07:10
++ 1 day",21h 25m,1 Stop,"9,840"
+1511,Air India,"Mon, 11 Oct",New Delhi,Mumbai,08:20,"07:10
++ 1 day",22h 50m,1 Stop,"9,840"
+1512,Air India,"Mon, 11 Oct",New Delhi,Mumbai,12:50,19:25,6h 35m,1 Stop,"9,988"
+1513,Air India,"Mon, 11 Oct",New Delhi,Mumbai,12:55,"13:35
++ 1 day",24h 40m,1 Stop,"9,988"
+1514,Go First,"Mon, 11 Oct",New Delhi,Mumbai,08:10,14:55,6h 45m,1 Stop,"10,365"
+1515,Go First,"Mon, 11 Oct",New Delhi,Mumbai,10:40,17:30,6h 50m,1 Stop,"10,575"
+1516,Go First,"Mon, 11 Oct",New Delhi,Mumbai,08:10,17:30,9h 20m,1 Stop,"10,575"
+1517,Vistara,"Mon, 11 Oct",New Delhi,Mumbai,13:20,18:20,5h 00m,1 Stop,"10,680"
+1518,Air India,"Mon, 11 Oct",New Delhi,Mumbai,12:05,17:10,5h 05m,1 Stop,"10,680"
+1519,Air India,"Mon, 11 Oct",New Delhi,Mumbai,10:15,15:40,5h 25m,1 Stop,"10,680"
+1520,Air India,"Mon, 11 Oct",New Delhi,Mumbai,16:45,"16:45
++ 1 day",24h 00m,1 Stop,"10,921"
+1521,Air India,"Mon, 11 Oct",New Delhi,Mumbai,14:00,"16:45
++ 1 day",26h 45m,1 Stop,"10,921"
+1522,Air India,"Mon, 11 Oct",New Delhi,Mumbai,18:40,"17:10
++ 1 day",22h 30m,1 Stop,"11,520"
+1523,Air India,"Mon, 11 Oct",New Delhi,Mumbai,16:35,23:30,6h 55m,1 Stop,"13,410"
+1524,Air India,"Mon, 11 Oct",New Delhi,Mumbai,16:35,"07:10
++ 1 day",14h 35m,1 Stop,"13,410"
+1525,Air India,"Mon, 11 Oct",New Delhi,Mumbai,16:35,"09:40
++ 1 day",17h 05m,1 Stop,"13,410"
+1526,Air India,"Fri, 22 Oct",New Delhi,Mumbai,07:00,09:05,2h 05m,Non Stop,"4,931"
+1527,Air India,"Fri, 22 Oct",New Delhi,Mumbai,08:00,10:10,2h 10m,Non Stop,"4,931"
+1528,Air India,"Fri, 22 Oct",New Delhi,Mumbai,10:40,12:50,2h 10m,Non Stop,"4,931"
+1529,Air India,"Fri, 22 Oct",New Delhi,Mumbai,09:00,11:15,2h 15m,Non Stop,"4,931"
+1530,Air India,"Fri, 22 Oct",New Delhi,Mumbai,15:05,18:15,3h 10m,1 Stop,"4,931"
+1531,Air India,"Fri, 22 Oct",New Delhi,Mumbai,19:00,21:15,2h 15m,Non Stop,"5,416"
+1532,Air India,"Fri, 22 Oct",New Delhi,Mumbai,17:50,21:35,3h 45m,1 Stop,"5,416"
+1533,Air Asia,"Fri, 22 Oct",New Delhi,Mumbai,16:15,22:10,5h 55m,1 Stop,"5,953"
+1534,Air Asia,"Fri, 22 Oct",New Delhi,Mumbai,09:25,16:00,6h 35m,1 Stop,"5,953"
+1535,Air Asia,"Fri, 22 Oct",New Delhi,Mumbai,12:40,20:15,7h 35m,1 Stop,"5,953"
+1536,Air Asia,"Fri, 22 Oct",New Delhi,Mumbai,11:55,20:15,8h 20m,1 Stop,"5,953"
+1537,Air Asia,"Fri, 22 Oct",New Delhi,Mumbai,08:00,16:35,8h 35m,1 Stop,"5,953"
+1538,Air Asia,"Fri, 22 Oct",New Delhi,Mumbai,04:55,14:15,9h 20m,1 Stop,"5,953"
+1539,Air Asia,"Fri, 22 Oct",New Delhi,Mumbai,18:35,"06:20
++ 1 day",11h 45m,1 Stop,"5,953"
+1540,Air Asia,"Fri, 22 Oct",New Delhi,Mumbai,16:15,"06:20
++ 1 day",14h 05m,1 Stop,"5,953"
+1541,Air Asia,"Fri, 22 Oct",New Delhi,Mumbai,08:00,22:10,14h 10m,1 Stop,"5,953"
+1542,Air Asia,"Fri, 22 Oct",New Delhi,Mumbai,05:20,20:15,14h 55m,1 Stop,"5,953"
+1543,Go First,"Fri, 22 Oct",New Delhi,Mumbai,06:15,08:20,2h 05m,Non Stop,"5,954"
+1544,Go First,"Fri, 22 Oct",New Delhi,Mumbai,09:40,11:45,2h 05m,Non Stop,"5,954"
+1545,Go First,"Fri, 22 Oct",New Delhi,Mumbai,10:55,13:00,2h 05m,Non Stop,"5,954"
+1546,Go First,"Fri, 22 Oct",New Delhi,Mumbai,14:20,16:25,2h 05m,Non Stop,"5,954"
+1547,Go First,"Fri, 22 Oct",New Delhi,Mumbai,15:45,17:50,2h 05m,Non Stop,"5,954"
+1548,Go First,"Fri, 22 Oct",New Delhi,Mumbai,18:40,20:45,2h 05m,Non Stop,"5,954"
+1549,Go First,"Fri, 22 Oct",New Delhi,Mumbai,20:00,22:05,2h 05m,Non Stop,"5,954"
+1550,Go First,"Fri, 22 Oct",New Delhi,Mumbai,21:30,23:35,2h 05m,Non Stop,"5,954"
+1551,Go First,"Fri, 22 Oct",New Delhi,Mumbai,22:45,"00:50
++ 1 day",2h 05m,Non Stop,"5,954"
+1552,Go First,"Fri, 22 Oct",New Delhi,Mumbai,17:45,22:25,4h 40m,1 Stop,"5,954"
+1553,Go First,"Fri, 22 Oct",New Delhi,Mumbai,08:10,13:00,4h 50m,1 Stop,"5,954"
+1554,Go First,"Fri, 22 Oct",New Delhi,Mumbai,12:20,18:15,5h 55m,1 Stop,"5,954"
+1555,Go First,"Fri, 22 Oct",New Delhi,Mumbai,08:10,14:55,6h 45m,1 Stop,"5,954"
+1556,Go First,"Fri, 22 Oct",New Delhi,Mumbai,09:00,15:45,6h 45m,1 Stop,"5,954"
+1557,Go First,"Fri, 22 Oct",New Delhi,Mumbai,11:20,18:15,6h 55m,1 Stop,"5,954"
+1558,Go First,"Fri, 22 Oct",New Delhi,Mumbai,08:10,15:40,7h 30m,1 Stop,"5,954"
+1559,Go First,"Fri, 22 Oct",New Delhi,Mumbai,09:10,18:15,9h 05m,1 Stop,"5,954"
+1560,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,06:00,08:00,2h 00m,Non Stop,"5,955"
+1561,SpiceJet,"Fri, 22 Oct",New Delhi,Mumbai,18:40,20:40,2h 00m,Non Stop,"5,955"
+1562,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,19:05,21:05,2h 00m,Non Stop,"5,955"
+1563,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,12:00,14:05,2h 05m,Non Stop,"5,955"
+1564,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,14:00,16:05,2h 05m,Non Stop,"5,955"
+1565,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,05:00,07:10,2h 10m,Non Stop,"5,955"
+1566,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,06:10,08:20,2h 10m,Non Stop,"5,955"
+1567,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,08:55,11:05,2h 10m,Non Stop,"5,955"
+1568,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,09:30,11:40,2h 10m,Non Stop,"5,955"
+1569,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,12:45,14:55,2h 10m,Non Stop,"5,955"
+1570,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,15:30,17:40,2h 10m,Non Stop,"5,955"
+1571,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,16:55,19:05,2h 10m,Non Stop,"5,955"
+1572,Air India,"Fri, 22 Oct",New Delhi,Mumbai,20:00,22:10,2h 10m,Non Stop,"5,955"
+1573,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,21:40,23:50,2h 10m,Non Stop,"5,955"
+1574,SpiceJet,"Fri, 22 Oct",New Delhi,Mumbai,06:50,09:05,2h 15m,Non Stop,"5,955"
+1575,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,07:30,09:45,2h 15m,Non Stop,"5,955"
+1576,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,10:10,12:25,2h 15m,Non Stop,"5,955"
+1577,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,10:20,12:35,2h 15m,Non Stop,"5,955"
+1578,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,15:35,17:50,2h 15m,Non Stop,"5,955"
+1579,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,19:45,22:00,2h 15m,Non Stop,"5,955"
+1580,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,08:50,11:10,2h 20m,Non Stop,"5,955"
+1581,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,17:45,20:05,2h 20m,Non Stop,"5,955"
+1582,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,18:55,21:15,2h 20m,Non Stop,"5,955"
+1583,SpiceJet,"Fri, 22 Oct",New Delhi,Mumbai,20:20,22:40,2h 20m,Non Stop,"5,955"
+1584,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,17:45,20:10,2h 25m,Non Stop,"5,955"
+1585,SpiceJet,"Fri, 22 Oct",New Delhi,Mumbai,06:35,10:10,3h 35m,1 Stop,"5,955"
+1586,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,13:45,17:45,4h 00m,1 Stop,"5,955"
+1587,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,08:55,13:10,4h 15m,1 Stop,"5,955"
+1588,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,18:45,23:00,4h 15m,1 Stop,"5,955"
+1589,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,18:10,22:35,4h 25m,1 Stop,"5,955"
+1590,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,13:40,18:35,4h 55m,1 Stop,"5,955"
+1591,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,09:35,14:50,5h 15m,1 Stop,"5,955"
+1592,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,13:10,18:35,5h 25m,1 Stop,"5,955"
+1593,SpiceJet,"Fri, 22 Oct",New Delhi,Mumbai,09:15,14:45,5h 30m,1 Stop,"5,955"
+1594,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,13:50,19:30,5h 40m,1 Stop,"5,955"
+1595,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,07:20,13:10,5h 50m,1 Stop,"5,955"
+1596,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,11:30,18:45,7h 15m,1 Stop,"5,955"
+1597,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,13:50,21:30,7h 40m,1 Stop,"5,955"
+1598,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,08:55,16:40,7h 45m,1 Stop,"5,955"
+1599,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,09:35,18:35,9h 00m,1 Stop,"5,955"
+1600,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,13:50,23:00,9h 10m,1 Stop,"5,955"
+1601,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,07:20,16:40,9h 20m,1 Stop,"5,955"
+1602,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,08:10,17:45,9h 35m,1 Stop,"5,955"
+1603,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,12:30,22:35,10h 05m,1 Stop,"5,955"
+1604,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,08:10,18:45,10h 35m,1 Stop,"5,955"
+1605,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,08:55,19:30,10h 35m,1 Stop,"5,955"
+1606,Air Asia,"Fri, 22 Oct",New Delhi,Mumbai,19:55,22:15,2h 20m,Non Stop,"5,956"
+1607,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,21:55,"00:05
++ 1 day",2h 10m,Non Stop,"6,165"
+1608,SpiceJet,"Fri, 22 Oct",New Delhi,Mumbai,06:50,16:55,10h 05m,1 Stop,"6,271"
+1609,SpiceJet,"Fri, 22 Oct",New Delhi,Mumbai,18:15,"10:30
++ 1 day",16h 15m,1 Stop,"6,271"
+1610,SpiceJet,"Fri, 22 Oct",New Delhi,Mumbai,18:15,"13:10
++ 1 day",18h 55m,1 Stop,"6,271"
+1611,SpiceJet,"Fri, 22 Oct",New Delhi,Mumbai,16:35,"14:45
++ 1 day",22h 10m,1 Stop,"6,271"
+1612,SpiceJet,"Fri, 22 Oct",New Delhi,Mumbai,12:00,"10:30
++ 1 day",22h 30m,1 Stop,"6,271"
+1613,SpiceJet,"Fri, 22 Oct",New Delhi,Mumbai,16:40,"16:55
++ 1 day",24h 15m,1 Stop,"6,271"
+1614,SpiceJet,"Fri, 22 Oct",New Delhi,Mumbai,12:00,"13:10
++ 1 day",25h 10m,1 Stop,"6,271"
+1615,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,20:30,22:35,2h 05m,Non Stop,"6,375"
+1616,Air India,"Fri, 22 Oct",New Delhi,Mumbai,20:00,"09:40
++ 1 day",13h 40m,1 Stop,"6,763"
+1617,Air India,"Fri, 22 Oct",New Delhi,Mumbai,09:00,23:25,14h 25m,1 Stop,"6,763"
+1618,Air India,"Fri, 22 Oct",New Delhi,Mumbai,09:00,"09:40
++ 1 day",24h 40m,1 Stop,"6,763"
+1619,Air India,"Fri, 22 Oct",New Delhi,Mumbai,12:00,15:50,3h 50m,1 Stop,"7,009"
+1620,Air India,"Fri, 22 Oct",New Delhi,Mumbai,07:15,15:50,8h 35m,1 Stop,"7,296"
+1621,Air India,"Fri, 22 Oct",New Delhi,Mumbai,20:10,"20:00
++ 1 day",23h 50m,1 Stop,"7,431"
+1622,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,08:10,13:10,5h 00m,1 Stop,"8,190"
+1623,Air India,"Fri, 22 Oct",New Delhi,Mumbai,13:00,19:25,6h 25m,1 Stop,"8,260"
+1624,Air India,"Fri, 22 Oct",New Delhi,Mumbai,06:20,20:00,13h 40m,1 Stop,"8,295"
+1625,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,13:20,"12:40
++ 1 day",23h 20m,1 Stop,"8,318"
+1626,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,13:20,"16:00
++ 1 day",26h 40m,1 Stop,"8,318"
+1627,Air India,"Fri, 22 Oct",New Delhi,Mumbai,09:45,23:30,13h 45m,1 Stop,"8,597"
+1628,Air India,"Fri, 22 Oct",New Delhi,Mumbai,08:00,23:30,15h 30m,1 Stop,"8,597"
+1629,Air India,"Fri, 22 Oct",New Delhi,Mumbai,09:45,"07:10
++ 1 day",21h 25m,1 Stop,"8,597"
+1630,Air India,"Fri, 22 Oct",New Delhi,Mumbai,08:00,"07:10
++ 1 day",23h 10m,1 Stop,"8,597"
+1631,Air India,"Fri, 22 Oct",New Delhi,Mumbai,09:45,"09:40
++ 1 day",23h 55m,1 Stop,"8,597"
+1632,Air India,"Fri, 22 Oct",New Delhi,Mumbai,08:00,"09:40
++ 1 day",25h 40m,1 Stop,"8,597"
+1633,Air India,"Fri, 22 Oct",New Delhi,Mumbai,10:15,15:40,5h 25m,1 Stop,"8,792"
+1634,Go First,"Fri, 22 Oct",New Delhi,Mumbai,16:10,21:05,4h 55m,1 Stop,"8,869"
+1635,Go First,"Fri, 22 Oct",New Delhi,Mumbai,16:10,23:25,7h 15m,1 Stop,"8,869"
+1636,Go First,"Fri, 22 Oct",New Delhi,Mumbai,07:10,16:20,9h 10m,1 Stop,"8,869"
+1637,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,13:40,21:35,7h 55m,1 Stop,"9,000"
+1638,Air India,"Fri, 22 Oct",New Delhi,Mumbai,06:00,16:25,10h 25m,3 Stop(s),"9,041"
+1639,Air India,"Fri, 22 Oct",New Delhi,Mumbai,16:35,"16:25
++ 1 day",23h 50m,3 Stop(s),"9,041"
+1640,Air India,"Fri, 22 Oct",New Delhi,Mumbai,12:55,"13:35
++ 1 day",24h 40m,1 Stop,"9,124"
+1641,Air India,"Fri, 22 Oct",New Delhi,Mumbai,07:10,13:25,6h 15m,1 Stop,"9,135"
+1642,Air India,"Fri, 22 Oct",New Delhi,Mumbai,21:25,"07:10
++ 1 day",9h 45m,1 Stop,"9,135"
+1643,Air India,"Fri, 22 Oct",New Delhi,Mumbai,21:25,"09:40
++ 1 day",12h 15m,1 Stop,"9,135"
+1644,Air India,"Fri, 22 Oct",New Delhi,Mumbai,18:30,"13:25
++ 1 day",18h 55m,1 Stop,"9,135"
+1645,Air India,"Fri, 22 Oct",New Delhi,Mumbai,13:00,"13:25
++ 1 day",24h 25m,1 Stop,"9,135"
+1646,IndiGo,"Fri, 22 Oct",New Delhi,Mumbai,07:40,16:50,9h 10m,1 Stop,"9,158"
+1647,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,17:10,21:35,4h 25m,1 Stop,"9,315"
+1648,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,13:40,"15:00
++ 1 day",25h 20m,1 Stop,"9,420"
+1649,Air India,"Fri, 22 Oct",New Delhi,Mumbai,16:35,23:30,6h 55m,1 Stop,"9,555"
+1650,Air India,"Fri, 22 Oct",New Delhi,Mumbai,16:35,"07:10
++ 1 day",14h 35m,1 Stop,"9,555"
+1651,Air India,"Fri, 22 Oct",New Delhi,Mumbai,16:35,"09:40
++ 1 day",17h 05m,1 Stop,"9,555"
+1652,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,17:10,"15:00
++ 1 day",21h 50m,1 Stop,"9,735"
+1653,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,17:45,23:00,5h 15m,1 Stop,"9,840"
+1654,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,07:10,15:00,7h 50m,1 Stop,"9,840"
+1655,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,14:45,23:00,8h 15m,1 Stop,"9,840"
+1656,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,20:35,"10:40
++ 1 day",14h 05m,1 Stop,"9,840"
+1657,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,07:10,23:00,15h 50m,1 Stop,"9,840"
+1658,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,17:45,"10:40
++ 1 day",16h 55m,1 Stop,"9,840"
+1659,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,20:35,"15:00
++ 1 day",18h 25m,1 Stop,"9,840"
+1660,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,14:45,"10:40
++ 1 day",19h 55m,1 Stop,"9,840"
+1661,Air India,"Fri, 22 Oct",New Delhi,Mumbai,12:05,17:10,5h 05m,1 Stop,"9,958"
+1662,Air India,"Fri, 22 Oct",New Delhi,Mumbai,13:30,21:05,7h 35m,1 Stop,"9,983"
+1663,Air India,"Fri, 22 Oct",New Delhi,Mumbai,09:45,21:05,11h 20m,1 Stop,"9,983"
+1664,Air India,"Fri, 22 Oct",New Delhi,Mumbai,21:15,"08:35
++ 1 day",11h 20m,1 Stop,"9,983"
+1665,Air India,"Fri, 22 Oct",New Delhi,Mumbai,06:10,21:05,14h 55m,1 Stop,"9,983"
+1666,Air India,"Fri, 22 Oct",New Delhi,Mumbai,13:30,"08:35
++ 1 day",19h 05m,1 Stop,"9,983"
+1667,Air India,"Fri, 22 Oct",New Delhi,Mumbai,09:45,"08:35
++ 1 day",22h 50m,1 Stop,"9,983"
+1668,Air India,"Fri, 22 Oct",New Delhi,Mumbai,21:15,"21:05
++ 1 day",23h 50m,1 Stop,"9,983"
+1669,Go First,"Fri, 22 Oct",New Delhi,Mumbai,13:30,19:20,5h 50m,1 Stop,"10,575"
+1670,Go First,"Fri, 22 Oct",New Delhi,Mumbai,12:35,19:20,6h 45m,1 Stop,"10,575"
+1671,Air India,"Fri, 22 Oct",New Delhi,Mumbai,09:45,17:05,7h 20m,1 Stop,"10,663"
+1672,Air India,"Fri, 22 Oct",New Delhi,Mumbai,06:00,17:05,11h 05m,1 Stop,"10,663"
+1673,Vistara,"Fri, 22 Oct",New Delhi,Mumbai,13:20,18:20,5h 00m,1 Stop,"10,680"
+1674,Air India,"Fri, 22 Oct",New Delhi,Mumbai,21:15,"10:35
++ 1 day",13h 20m,1 Stop,"11,162"
+1675,Air India,"Fri, 22 Oct",New Delhi,Mumbai,20:40,"08:05
++ 1 day",11h 25m,1 Stop,"12,386"
+1676,Go First,"Fri, 22 Oct",New Delhi,Mumbai,10:40,15:40,5h 00m,1 Stop,"12,519"
+1677,Go First,"Fri, 22 Oct",New Delhi,Mumbai,10:40,17:30,6h 50m,1 Stop,"12,519"
+1678,Air India,"Fri, 22 Oct",New Delhi,Mumbai,20:40,"17:05
++ 1 day",20h 25m,1 Stop,"12,871"
+1679,Air India,"Fri, 22 Oct",New Delhi,Mumbai,18:40,"17:10
++ 1 day",22h 30m,1 Stop,"13,751"
+1680,GO FIRST,"Thu, 14 Oct",New Delhi,Hyderabad,06:30,08:30,2hr,non-stop,5954
+1681,GO FIRST,"Thu, 14 Oct",New Delhi,Hyderabad,21:15,23:15,2hr,non-stop,5954
+1682,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,07:10,09:20,2hr 10min,non-stop,5955
+1683,SPICEJET,"Thu, 14 Oct",New Delhi,Hyderabad,21:00,23:05,2hr 5min,non-stop,5955
+1684,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,22:00,00:05,2hr 5min,non-stop,5955
+1685,AIRASIA INDIA,"Thu, 14 Oct",New Delhi,Hyderabad,05:35,07:45,2hr 10min,non-stop,5956
+1686,AIRASIA INDIA,"Thu, 14 Oct",New Delhi,Hyderabad,16:20,18:20,2hr,non-stop,5956
+1687,VISTARA,"Thu, 14 Oct",New Delhi,Hyderabad,07:10,09:25,2hr 15min,non-stop,5956
+1688,AIR INDIA,"Thu, 14 Oct",New Delhi,Hyderabad,16:35,20:05,3hr 30min,1 stop,5955
+1689,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,15:55,20:55,5hr,1 stop,5955
+1690,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,05:25,10:55,5hr 30min,1 stop,5955
+1691,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,10:10,15:25,5hr 15min,1 stop,5955
+1692,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,14:20,19:45,5hr 25min,1 stop,5955
+1693,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,15:35,20:50,5hr 15min,1 stop,5955
+1694,SPICEJET,"Thu, 14 Oct",New Delhi,Hyderabad,08:40,14:25,5hr 45min,1 stop,5955
+1695,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,08:55,15:00,6hr 5min,1 stop,5955
+1696,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,12:00,17:45,5hr 45min,1 stop,5955
+1697,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,14:00,20:00,6hr,1 stop,5955
+1698,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,15:45,21:55,6hr 10min,1 stop,5955
+1699,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,08:55,15:25,6hr 30min,1 stop,5955
+1700,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,11:00,17:20,6hr 20min,1 stop,5955
+1701,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,13:10,19:30,6hr 20min,1 stop,5955
+1702,SPICEJET,"Thu, 14 Oct",New Delhi,Hyderabad,22:40,07:00,8hr 20min,1 stop,5955
+1703,AIRASIA INDIA,"Thu, 14 Oct",New Delhi,Hyderabad,04:55,12:50,7hr 55min,1 stop,5956
+1704,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,17:15,19:25,2hr 10min,non-stop,6165
+1705,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,19:15,21:25,2hr 10min,non-stop,6165
+1706,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,09:45,12:10,2hr 25min,non-stop,6165
+1707,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,13:35,15:55,2hr 20min,non-stop,6165
+1708,VISTARA,"Thu, 14 Oct",New Delhi,Hyderabad,17:45,19:50,2hr 5min,non-stop,6166
+1709,VISTARA,"Thu, 14 Oct",New Delhi,Hyderabad,14:45,17:00,2hr 15min,non-stop,6166
+1710,AIR INDIA,"Thu, 14 Oct",New Delhi,Hyderabad,08:00,10:10,2hr 10min,non-stop,6375
+1711,AIRASIA INDIA,"Thu, 14 Oct",New Delhi,Hyderabad,08:00,15:50,7hr 50min,2 stops,6376
+1712,AIR INDIA,"Thu, 14 Oct",New Delhi,Hyderabad,21:25,23:35,2hr 10min,non-stop,6795
+1713,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,06:05,11:55,5hr 50min,1 stop,6777
+1714,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,16:10,21:40,5hr 30min,1 stop,6932
+1715,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,13:10,19:40,6hr 30min,1 stop,6932
+1716,INDIGO,"Thu, 14 Oct",New Delhi,Hyderabad,16:25,22:55,6hr 30min,1 stop,6932
+1717,AIR INDIA,"Thu, 14 Oct",New Delhi,Hyderabad,09:45,11:55,2hr 10min,non-stop,7215
+1718,AIRASIA INDIA,"Thu, 14 Oct",New Delhi,Hyderabad,11:55,16:55,5hr,1 stop,7419
+1719,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,07:05,08:05,1hr,non-stop,2954
+1720,SPICEJET,"Fri, 29 Oct",Bengaluru,Chennai,06:20,07:20,1hr,non-stop,3497
+1721,SPICEJET,"Fri, 29 Oct",Bengaluru,Chennai,19:55,21:25,1hr 30min,non-stop,3497
+1722,INDIGO,"Fri, 29 Oct",Bengaluru,Chennai,09:20,10:25,1hr 5min,non-stop,3498
+1723,INDIGO,"Fri, 29 Oct",Bengaluru,Chennai,10:40,11:40,1hr,non-stop,3498
+1724,INDIGO,"Fri, 29 Oct",Bengaluru,Chennai,18:20,19:35,1hr 15min,non-stop,3498
+1725,AIRASIA INDIA,"Fri, 29 Oct",Bengaluru,Chennai,16:05,17:25,1hr 20min,non-stop,3499
+1726,INDIGO,"Fri, 29 Oct",Bengaluru,Chennai,20:15,21:05,50min,non-stop,3603
+1727,INDIGO,"Fri, 29 Oct",Bengaluru,Chennai,15:00,16:10,1hr 10min,non-stop,3918
+1728,INDIGO,"Fri, 29 Oct",Bengaluru,Chennai,07:10,08:15,1hr 5min,non-stop,4076
+1729,INDIGO,"Fri, 29 Oct",Bengaluru,Chennai,22:00,23:00,1hr,non-stop,4391
+1730,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,18:45,08:00,13hr 15min,1 stop,8224
+1731,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,06:45,07:15,24hr 30min,1 stop,10300
+1732,GO FIRST,"Fri, 29 Oct",Bengaluru,Chennai,21:00,07:40,10hr 40min,1 stop,10605
+1733,GO FIRST,"Fri, 29 Oct",Bengaluru,Chennai,20:20,07:40,11hr 20min,1 stop,10605
+1734,GO FIRST,"Fri, 29 Oct",Bengaluru,Chennai,08:20,23:15,14hr 55min,1 stop,10605
+1735,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,19:10,07:15,12hr 5min,1 stop,10709
+1736,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,06:40,11:30,4hr 50min,1 stop,10744
+1737,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,19:10,10:55,15hr 45min,1 stop,11129
+1738,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,11:30,20:25,8hr 55min,1 stop,11164
+1739,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,09:30,20:25,10hr 55min,1 stop,11164
+1740,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,11:30,23:05,11hr 35min,1 stop,11164
+1741,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,08:30,20:25,11hr 55min,1 stop,11164
+1742,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,09:30,23:05,13hr 35min,1 stop,11164
+1743,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,06:40,20:25,13hr 45min,1 stop,11164
+1744,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,08:30,23:05,14hr 35min,1 stop,11164
+1745,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,06:40,23:05,16hr 25min,1 stop,11164
+1746,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,11:30,09:10,21hr 40min,1 stop,11164
+1747,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,11:05,19:40,8hr 35min,1 stop,11374
+1748,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,08:35,07:15,22hr 40min,1 stop,11479
+1749,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,21:40,09:10,11hr 30min,1 stop,11532
+1750,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,19:55,09:10,13hr 15min,1 stop,11532
+1751,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,21:40,11:30,13hr 50min,1 stop,11532
+1752,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,19:55,11:30,15hr 35min,1 stop,11532
+1753,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,18:25,23:05,4hr 40min,1 stop,11742
+1754,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,18:25,09:10,14hr 45min,1 stop,11742
+1755,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,18:25,11:30,17hr 5min,1 stop,11742
+1756,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,08:35,10:55,26hr 20min,1 stop,11899
+1757,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,11:50,07:15,19hr 25min,2 stops,12663
+1758,GO FIRST,"Fri, 29 Oct",Bengaluru,Chennai,17:35,23:50,6hr 15min,1 stop,12920
+1759,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,11:50,10:55,23hr 5min,2 stops,13125
+1760,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,06:45,23:35,16hr 50min,2 stops,13138
+1761,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,06:45,08:55,26hr 10min,2 stops,13138
+1762,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,06:45,23:35,16hr 50min,3 stops,13138
+1763,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,06:45,08:55,26hr 10min,3 stops,13138
+1764,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,19:10,23:35,28hr 25min,3 stops,13548
+1765,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,06:45,08:55,26hr 10min,2 stops,13716
+1766,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,11:50,08:55,21hr 5min,2 stops,13818
+1767,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,11:50,23:35,35hr 45min,2 stops,13818
+1768,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,10:25,23:35,13hr 10min,1 stop,14258
+1769,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,10:25,08:55,22hr 30min,1 stop,14258
+1770,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,08:35,23:35,15hr,3 stops,14317
+1771,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,08:35,08:55,24hr 20min,3 stops,14317
+1772,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,06:45,12:40,29hr 55min,2 stops,14640
+1773,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,06:45,12:40,29hr 55min,2 stops,14640
+1774,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,06:45,12:40,29hr 55min,3 stops,14640
+1775,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,08:35,08:55,24hr 20min,2 stops,14895
+1776,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,11:50,12:40,24hr 50min,2 stops,15320
+1777,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,09:45,16:20,6hr 35min,1 stop,15364
+1778,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,08:00,16:20,8hr 20min,1 stop,15364
+1779,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,09:45,20:15,10hr 30min,1 stop,15574
+1780,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,08:00,20:15,12hr 15min,1 stop,15574
+1781,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,09:45,22:45,13hr,1 stop,15889
+1782,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,08:00,22:45,14hr 45min,1 stop,15889
+1783,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,11:30,20:15,8hr 45min,1 stop,16099
+1784,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,07:00,16:20,9hr 20min,1 stop,16414
+1785,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,11:30,22:45,11hr 15min,1 stop,16414
+1786,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,07:00,20:15,13hr 15min,1 stop,16624
+1787,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,21:10,10:10,13hr,1 stop,16729
+1788,VISTARA,"Fri, 29 Oct",Bengaluru,Chennai,19:40,10:10,14hr 30min,1 stop,16729
+1789,AIR INDIA,"Fri, 29 Oct",Bengaluru,Chennai,13:20,23:35,10hr 15min,1 stop,17933
+1790,SPICEJET,"Fri, 12 Nov",Goa,Mumbai,05:25,06:40,1hr 15min,non-stop,2164
+1791,INDIGO,"Fri, 12 Nov",Goa,Mumbai,23:25,00:45,1hr 20min,non-stop,2214
+1792,SPICEJET,"Fri, 12 Nov",Goa,Mumbai,22:55,00:20,1hr 25min,non-stop,2270
+1793,AIR INDIA,"Fri, 12 Nov",Goa,Mumbai,23:10,00:35,1hr 25min,non-stop,2419
+1794,INDIGO,"Fri, 12 Nov",Goa,Mumbai,06:55,08:15,1hr 20min,non-stop,2479
+1795,GO FIRST,"Fri, 12 Nov",Goa,Mumbai,23:55,01:20,1hr 25min,non-stop,2615
+1796,AIRASIA INDIA,"Fri, 12 Nov",Goa,Mumbai,06:25,07:40,1hr 15min,non-stop,2666
+1797,AIRASIA INDIA,"Fri, 12 Nov",Goa,Mumbai,01:05,02:25,1hr 20min,non-stop,2666
+1798,AIR INDIA,"Fri, 12 Nov",Goa,Mumbai,07:30,08:45,1hr 15min,non-stop,2839
+1799,GO FIRST,"Fri, 12 Nov",Goa,Mumbai,06:40,07:55,1hr 15min,non-stop,3507
+1800,GO FIRST,"Fri, 12 Nov",Goa,Mumbai,17:00,18:15,1hr 15min,non-stop,3899
+1801,AIR INDIA,"Fri, 12 Nov",Goa,Mumbai,15:20,16:35,1hr 15min,non-stop,3994
+1802,SPICEJET,"Fri, 12 Nov",Goa,Mumbai,13:30,14:55,1hr 25min,non-stop,4054
+1803,GO FIRST,"Fri, 12 Nov",Goa,Mumbai,13:15,14:35,1hr 20min,non-stop,4137
+1804,GO FIRST,"Fri, 12 Nov",Goa,Mumbai,18:15,19:40,1hr 25min,non-stop,4137
+1805,INDIGO,"Fri, 12 Nov",Goa,Mumbai,18:30,19:50,1hr 20min,non-stop,4319
+1806,VISTARA,"Fri, 12 Nov",Goa,Mumbai,13:20,14:45,1hr 25min,non-stop,4404
+1807,INDIGO,"Fri, 12 Nov",Goa,Mumbai,13:05,14:30,1hr 25min,non-stop,4791
+1808,INDIGO,"Fri, 12 Nov",Goa,Mumbai,16:30,18:00,1hr 30min,non-stop,4791
+1809,AIRASIA INDIA,"Fri, 12 Nov",Goa,Mumbai,22:30,06:45,8hr 15min,1 stop,4783
+1810,AIR INDIA,"Fri, 12 Nov",Goa,Mumbai,21:00,22:25,1hr 25min,non-stop,5055
+1811,GO FIRST,"Fri, 12 Nov",Goa,Mumbai,00:35,10:50,10hr 15min,1 stop,5302
+1812,GO FIRST,"Fri, 12 Nov",Goa,Mumbai,14:00,18:25,4hr 25min,1 stop,5648
+1813,AIR INDIA,"Fri, 12 Nov",Goa,Mumbai,11:20,23:20,12hr,2 stops,5737
+1814,AIR INDIA,"Fri, 12 Nov",Goa,Mumbai,01:15,10:10,8hr 55min,1 stop,6599
+1815,AIRASIA INDIA,"Fri, 12 Nov",Goa,Mumbai,23:05,06:35,7hr 30min,1 stop,6790
+1816,AIR INDIA,"Fri, 12 Nov",Goa,Mumbai,01:15,09:05,7hr 50min,1 stop,6914
+1817,AIR INDIA,"Fri, 12 Nov",Goa,Mumbai,14:10,21:15,7hr 5min,1 stop,8699
+1818,GO FIRST,"Fri, 12 Nov",Goa,Mumbai,17:35,01:00,7hr 25min,1 stop,10608
+1819,AIR INDIA,"Tue, 02 Nov",New Delhi,Goa,10:55,13:15,2hr 20min,non-stop,6122
+1820,SPICEJET,"Tue, 02 Nov",New Delhi,Goa,11:25,14:05,2hr 40min,non-stop,7424
+1821,SPICEJET,"Tue, 02 Nov",New Delhi,Goa,17:55,20:35,2hr 40min,non-stop,7424
+1822,SPICEJET,"Tue, 02 Nov",New Delhi,Goa,18:00,20:35,2hr 35min,non-stop,7424
+1823,GO FIRST,"Tue, 02 Nov",New Delhi,Goa,10:45,13:30,2hr 45min,non-stop,7424
+1824,INDIGO,"Tue, 02 Nov",New Delhi,Goa,11:00,13:40,2hr 40min,non-stop,7425
+1825,INDIGO,"Tue, 02 Nov",New Delhi,Goa,12:10,14:50,2hr 40min,non-stop,7425
+1826,INDIGO,"Tue, 02 Nov",New Delhi,Goa,19:10,21:50,2hr 40min,non-stop,7425
+1827,INDIGO,"Tue, 02 Nov",New Delhi,Goa,00:05,02:50,2hr 45min,non-stop,7425
+1828,INDIGO,"Tue, 02 Nov",New Delhi,Goa,10:15,13:00,2hr 45min,non-stop,7425
+1829,INDIGO,"Tue, 02 Nov",New Delhi,Goa,16:00,18:45,2hr 45min,non-stop,7425
+1830,INDIGO,"Tue, 02 Nov",New Delhi,Goa,22:05,00:50,2hr 45min,non-stop,7425
+1831,AIRASIA INDIA,"Tue, 02 Nov",New Delhi,Goa,05:20,07:50,2hr 30min,non-stop,7426
+1832,AIRASIA INDIA,"Tue, 02 Nov",New Delhi,Goa,12:10,14:55,2hr 45min,non-stop,7426
+1833,AIRASIA INDIA,"Tue, 02 Nov",New Delhi,Goa,12:40,15:25,2hr 45min,non-stop,7426
+1834,AIRASIA INDIA,"Tue, 02 Nov",New Delhi,Goa,21:25,07:00,9hr 35min,1 stop,7422
+1835,INDIGO,"Tue, 02 Nov",New Delhi,Goa,17:45,22:50,5hr 5min,1 stop,7425
+1836,AIRASIA INDIA,"Tue, 02 Nov",New Delhi,Goa,20:45,07:00,10hr 15min,1 stop,7422
+1837,INDIGO,"Tue, 02 Nov",New Delhi,Goa,02:30,07:50,5hr 20min,1 stop,7425
+1838,INDIGO,"Tue, 02 Nov",New Delhi,Goa,08:40,13:55,5hr 15min,1 stop,7425
+1839,INDIGO,"Tue, 02 Nov",New Delhi,Goa,11:35,17:35,6hr,1 stop,7425
+1840,INDIGO,"Tue, 02 Nov",New Delhi,Goa,16:45,22:50,6hr 5min,1 stop,7425
+1841,INDIGO,"Tue, 02 Nov",New Delhi,Goa,16:50,22:55,6hr 5min,1 stop,7425
+1842,INDIGO,"Tue, 02 Nov",New Delhi,Goa,17:25,23:25,6hr,1 stop,7425
+1843,INDIGO,"Tue, 02 Nov",New Delhi,Goa,07:00,13:55,6hr 55min,1 stop,7425
+1844,INDIGO,"Tue, 02 Nov",New Delhi,Goa,15:45,22:50,7hr 5min,1 stop,7425
+1845,INDIGO,"Tue, 02 Nov",New Delhi,Goa,06:40,14:15,7hr 35min,1 stop,7425
+1846,INDIGO,"Tue, 02 Nov",New Delhi,Goa,10:30,18:00,7hr 30min,1 stop,7425
+1847,INDIGO,"Tue, 02 Nov",New Delhi,Goa,13:15,20:50,7hr 35min,1 stop,7425
+1848,AIRASIA INDIA,"Tue, 02 Nov",New Delhi,Goa,18:35,07:00,12hr 25min,1 stop,7422
+1849,SPICEJET,"Tue, 02 Nov",New Delhi,Goa,07:20,12:50,5hr 30min,1 stop,7634
+1850,SPICEJET,"Tue, 02 Nov",New Delhi,Goa,19:45,01:55,6hr 10min,1 stop,7634
+1851,SPICEJET,"Tue, 02 Nov",New Delhi,Goa,06:05,12:50,6hr 45min,1 stop,7634
+1852,SPICEJET,"Tue, 02 Nov",New Delhi,Goa,07:20,17:05,9hr 45min,1 stop,7634
+1853,SPICEJET,"Tue, 02 Nov",New Delhi,Goa,06:05,17:05,11hr,1 stop,7634
+1854,SPICEJET,"Tue, 02 Nov",New Delhi,Goa,07:20,22:55,15hr 35min,1 stop,7634
+1855,SPICEJET,"Tue, 02 Nov",New Delhi,Goa,06:05,22:55,16hr 50min,1 stop,7634
+1856,SPICEJET,"Tue, 02 Nov",New Delhi,Goa,07:20,01:55,18hr 35min,1 stop,7634
+1857,SPICEJET,"Tue, 02 Nov",New Delhi,Goa,06:05,01:55,19hr 50min,1 stop,7634
+1858,SPICEJET,"Tue, 02 Nov",New Delhi,Goa,18:50,01:55,7hr 5min,1 stop,8054
+1859,INDIGO,"Tue, 02 Nov",New Delhi,Goa,21:15,03:20,6hr 5min,1 stop,8070
+1860,INDIGO,"Tue, 02 Nov",New Delhi,Goa,14:50,20:50,6hr,1 stop,8071
+1861,INDIGO,"Tue, 02 Nov",New Delhi,Goa,18:05,00:40,6hr 35min,1 stop,8071
+1862,INDIGO,"Tue, 02 Nov",New Delhi,Goa,13:50,21:20,7hr 30min,1 stop,8071
+1863,INDIGO,"Tue, 02 Nov",New Delhi,Goa,12:00,18:00,6hr,1 stop,8717
+1864,AIRASIA INDIA,"Tue, 02 Nov",New Delhi,Goa,09:35,19:35,10hr,2 stops,8716
+1865,AIRASIA INDIA,"Tue, 02 Nov",New Delhi,Goa,08:00,19:35,11hr 35min,2 stops,8716
+1866,VISTARA,"Tue, 02 Nov",New Delhi,Goa,11:10,13:50,2hr 40min,non-stop,8791
+1867,AIR INDIA,"Tue, 02 Nov",New Delhi,Goa,08:00,14:45,6hr 45min,1 stop,8816
+1868,AIR INDIA,"Tue, 02 Nov",New Delhi,Goa,07:00,14:45,7hr 45min,1 stop,8816
+1869,AIR INDIA,"Tue, 02 Nov",New Delhi,Goa,10:40,20:30,9hr 50min,1 stop,8816
+1870,AIR INDIA,"Tue, 02 Nov",New Delhi,Goa,20:00,06:50,10hr 50min,1 stop,8816
+1871,AIR INDIA,"Tue, 02 Nov",New Delhi,Goa,08:00,20:30,12hr 30min,1 stop,8816
+1872,AIR INDIA,"Tue, 02 Nov",New Delhi,Goa,07:00,20:30,13hr 30min,1 stop,8816
+1873,AIR INDIA,"Tue, 02 Nov",New Delhi,Goa,10:40,06:50,20hr 10min,1 stop,8816
+1874,AIR INDIA,"Tue, 02 Nov",New Delhi,Goa,08:00,06:50,22hr 50min,1 stop,8816
+1875,AIR INDIA,"Tue, 02 Nov",New Delhi,Goa,07:00,06:50,23hr 50min,1 stop,8816
+1876,AIR INDIA,"Tue, 02 Nov",New Delhi,Goa,08:10,10:50,26hr 40min,2 stops,8829
+1877,AIR INDIA,"Tue, 02 Nov",New Delhi,Goa,19:00,06:50,11hr 50min,1 stop,9301
+1878,AIR INDIA,"Tue, 02 Nov",New Delhi,Goa,21:10,10:50,13hr 40min,2 stops,9368
+1879,AIR INDIA,"Tue, 02 Nov",New Delhi,Goa,09:45,10:50,25hr 5min,2 stops,9368
+1880,AIR INDIA,"Tue, 02 Nov",New Delhi,Goa,20:00,14:45,18hr 45min,1 stop,9446
+1881,AIR INDIA,"Tue, 02 Nov",New Delhi,Goa,20:00,20:30,24hr 30min,1 stop,9604
+1882,GO FIRST,"Tue, 02 Nov",New Delhi,Goa,08:00,12:45,4hr 45min,1 stop,9704
+1883,GO FIRST,"Tue, 02 Nov",New Delhi,Goa,07:00,12:45,5hr 45min,1 stop,9704
+1884,GO FIRST,"Tue, 02 Nov",New Delhi,Goa,10:30,16:30,6hr,1 stop,9704
+1885,GO FIRST,"Tue, 02 Nov",New Delhi,Goa,10:30,17:45,7hr 15min,1 stop,9704
+1886,GO FIRST,"Tue, 02 Nov",New Delhi,Goa,08:00,16:30,8hr 30min,1 stop,9704
+1887,GO FIRST,"Tue, 02 Nov",New Delhi,Goa,07:00,16:30,9hr 30min,1 stop,9704
+1888,GO FIRST,"Tue, 02 Nov",New Delhi,Goa,02:40,12:45,10hr 5min,1 stop,9704
+1889,GO FIRST,"Tue, 02 Nov",New Delhi,Goa,08:00,17:45,9hr 45min,1 stop,9704
+1890,GO FIRST,"Tue, 02 Nov",New Delhi,Goa,07:00,17:45,10hr 45min,1 stop,9704
+1891,AIR INDIA,"Tue, 02 Nov",New Delhi,Goa,19:00,14:45,19hr 45min,1 stop,9931
+1892,SPICEJET,"Tue, 02 Nov",New Delhi,Goa,08:45,13:30,4hr 45min,1 stop,9945
+1893,INDIGO,"Tue, 02 Nov",New Delhi,Goa,13:15,20:20,7hr 5min,1 stop,10008
+1894,INDIGO,"Tue, 02 Nov",New Delhi,Goa,09:30,15:25,5hr 55min,1 stop,10050
+1895,INDIGO,"Tue, 02 Nov",New Delhi,Goa,08:45,15:25,6hr 40min,1 stop,10050
+1896,INDIGO,"Tue, 02 Nov",New Delhi,Goa,08:00,15:25,7hr 25min,1 stop,10050
+1897,GO FIRST,"Tue, 02 Nov",New Delhi,Goa,15:30,20:00,4hr 30min,1 stop,10863
+1898,VISTARA,"Tue, 02 Nov",New Delhi,Goa,07:30,12:45,5hr 15min,1 stop,11048
+1899,VISTARA,"Tue, 02 Nov",New Delhi,Goa,06:00,12:45,6hr 45min,1 stop,11048
+1900,GO FIRST,"Tue, 02 Nov",New Delhi,Goa,05:50,17:05,11hr 15min,1 stop,11205
+1901,SPICEJET,"Tue, 02 Nov",New Delhi,Goa,06:20,16:30,10hr 10min,1 stop,11493
+1902,SPICEJET,"Tue, 02 Nov",New Delhi,Goa,16:45,13:30,20hr 45min,1 stop,11625
+1903,INDIGO,"Tue, 02 Nov",New Delhi,Goa,07:15,12:35,5hr 20min,1 stop,11835
+1904,INDIGO,"Tue, 02 Nov",New Delhi,Goa,06:30,12:35,6hr 5min,1 stop,11835
+1905,INDIGO,"Tue, 02 Nov",New Delhi,Goa,05:30,12:35,7hr 5min,1 stop,11835
+1906,INDIGO,"Tue, 02 Nov",New Delhi,Goa,18:20,00:05,5hr 45min,1 stop,11945
+1907,VISTARA,"Tue, 02 Nov",New Delhi,Goa,19:50,12:45,16hr 55min,1 stop,12098
+1908,VISTARA,"Tue, 02 Nov",New Delhi,Goa,18:55,12:45,17hr 50min,1 stop,12098
+1909,INDIGO,"Tue, 14 Dec",Varanasi,New Delhi,20:45,22:20,1hr 35min,non-stop,2192
+1910,AIR INDIA,"Tue, 14 Dec",Varanasi,New Delhi,15:30,17:05,1hr 35min,non-stop,2220
+1911,SPICEJET,"Tue, 14 Dec",Varanasi,New Delhi,18:40,20:20,1hr 40min,non-stop,2415
+1912,INDIGO,"Tue, 14 Dec",Varanasi,New Delhi,21:25,23:05,1hr 40min,non-stop,2508
+1913,AIR INDIA,"Tue, 14 Dec",Varanasi,New Delhi,12:10,13:45,1hr 35min,non-stop,2535
+1914,INDIGO,"Tue, 14 Dec",Varanasi,New Delhi,12:40,14:15,1hr 35min,non-stop,2625
+1915,GO FIRST,"Tue, 14 Dec",Varanasi,New Delhi,13:20,15:05,1hr 45min,non-stop,2626
+1916,GO FIRST,"Tue, 14 Dec",Varanasi,New Delhi,22:00,23:45,1hr 45min,non-stop,2626
+1917,SPICEJET,"Tue, 14 Dec",Varanasi,New Delhi,10:50,12:25,1hr 35min,non-stop,2729
+1918,VISTARA,"Tue, 14 Dec",Varanasi,New Delhi,15:20,16:50,1hr 30min,non-stop,3470
+1919,VISTARA,"Tue, 14 Dec",Varanasi,New Delhi,18:15,19:50,1hr 35min,non-stop,3470
+1920,INDIGO,"Tue, 14 Dec",Varanasi,New Delhi,17:30,19:05,1hr 35min,non-stop,3596
+1921,GO FIRST,"Tue, 14 Dec",Varanasi,New Delhi,20:00,08:30,12hr 30min,1 stop,6304
+1922,GO FIRST,"Tue, 14 Dec",Varanasi,New Delhi,13:00,19:15,6hr 15min,1 stop,6753
+1923,GO FIRST,"Tue, 14 Dec",Varanasi,New Delhi,13:50,20:10,6hr 20min,1 stop,6784
+1924,GO FIRST,"Tue, 14 Dec",Varanasi,New Delhi,13:30,01:15,11hr 45min,1 stop,6804
+1925,AIR INDIA,"Tue, 14 Dec",Varanasi,New Delhi,13:20,21:15,7hr 55min,1 stop,6858
+1926,GO FIRST,"Tue, 14 Dec",Varanasi,New Delhi,13:00,23:50,10hr 50min,1 stop,7763
+1927,VISTARA,"Tue, 14 Dec",Varanasi,New Delhi,16:10,00:10,8hr,1 stop,9524
+1928,VISTARA,"Tue, 14 Dec",Varanasi,New Delhi,16:10,21:55,5hr 45min,1 stop,10599
+1929,INDIGO,"Sun, 21 Nov",Mumbai,Lucknow,16:10,18:20,2hr 10min,non-stop,3701
+1930,INDIGO,"Sun, 21 Nov",Mumbai,Lucknow,20:40,22:50,2hr 10min,non-stop,3701
+1931,GO FIRST,"Sun, 21 Nov",Mumbai,Lucknow,15:15,17:30,2hr 15min,non-stop,3701
+1932,GO FIRST,"Sun, 21 Nov",Mumbai,Lucknow,19:30,22:00,2hr 30min,non-stop,3701
+1933,AIR INDIA,"Sun, 21 Nov",Mumbai,Lucknow,08:05,10:30,2hr 25min,non-stop,3707
+1934,INDIGO,"Sun, 21 Nov",Mumbai,Lucknow,03:05,09:10,6hr 5min,1 stop,3701
+1935,GO FIRST,"Sun, 21 Nov",Mumbai,Lucknow,12:15,17:55,5hr 40min,1 stop,3771
+1936,GO FIRST,"Sun, 21 Nov",Mumbai,Lucknow,23:45,07:30,7hr 45min,1 stop,3771
+1937,GO FIRST,"Sun, 21 Nov",Mumbai,Lucknow,22:50,07:30,8hr 40min,1 stop,3771
+1938,GO FIRST,"Sun, 21 Nov",Mumbai,Lucknow,08:00,17:55,9hr 55min,1 stop,3771
+1939,GO FIRST,"Sun, 21 Nov",Mumbai,Lucknow,12:15,22:15,10hr,1 stop,3771
+1940,GO FIRST,"Sun, 21 Nov",Mumbai,Lucknow,21:15,07:30,10hr 15min,1 stop,3771
+1941,GO FIRST,"Sun, 21 Nov",Mumbai,Lucknow,23:45,10:15,10hr 30min,1 stop,3771
+1942,GO FIRST,"Sun, 21 Nov",Mumbai,Lucknow,20:15,07:30,11hr 15min,1 stop,3771
+1943,GO FIRST,"Sun, 21 Nov",Mumbai,Lucknow,22:50,10:15,11hr 25min,1 stop,3771
+1944,GO FIRST,"Sun, 21 Nov",Mumbai,Lucknow,06:00,17:55,11hr 55min,1 stop,3771
+1945,GO FIRST,"Sun, 21 Nov",Mumbai,Lucknow,21:15,10:15,13hr,1 stop,3771
+1946,GO FIRST,"Sun, 21 Nov",Mumbai,Lucknow,08:00,22:15,14hr 15min,1 stop,3771
+1947,GO FIRST,"Sun, 21 Nov",Mumbai,Lucknow,20:15,10:15,14hr,1 stop,3771
+1948,GO FIRST,"Sun, 21 Nov",Mumbai,Lucknow,10:45,13:05,2hr 20min,non-stop,3915
+1949,INDIGO,"Sun, 21 Nov",Mumbai,Lucknow,11:00,13:10,2hr 10min,non-stop,3918
+1950,VISTARA,"Sun, 21 Nov",Mumbai,Lucknow,22:45,14:50,16hr 5min,1 stop,3926
+1951,VISTARA,"Sun, 21 Nov",Mumbai,Lucknow,21:55,14:50,16hr 55min,1 stop,3926
+1952,VISTARA,"Sun, 21 Nov",Mumbai,Lucknow,22:45,17:15,18hr 30min,1 stop,3926
+1953,VISTARA,"Sun, 21 Nov",Mumbai,Lucknow,21:55,17:15,19hr 20min,1 stop,3926
+1954,GO FIRST,"Sun, 21 Nov",Mumbai,Lucknow,13:30,17:55,4hr 25min,1 stop,4054
+1955,GO FIRST,"Sun, 21 Nov",Mumbai,Lucknow,13:30,22:15,8hr 45min,1 stop,4054
+1956,GO FIRST,"Sun, 21 Nov",Mumbai,Lucknow,17:55,07:30,13hr 35min,1 stop,4054
+1957,INDIGO,"Sun, 21 Nov",Mumbai,Lucknow,07:45,14:25,6hr 40min,1 stop,4248
+1958,INDIGO,"Sun, 21 Nov",Mumbai,Lucknow,23:05,06:15,7hr 10min,1 stop,4248
+1959,INDIGO,"Sun, 21 Nov",Mumbai,Lucknow,07:00,14:25,7hr 25min,1 stop,4248
+1960,INDIGO,"Sun, 21 Nov",Mumbai,Lucknow,23:05,07:15,8hr 10min,1 stop,4248
+1961,INDIGO,"Sun, 21 Nov",Mumbai,Lucknow,06:05,14:25,8hr 20min,1 stop,4248
+1962,AIR INDIA,"Sun, 21 Nov",Mumbai,Lucknow,08:00,14:00,6hr,1 stop,4291
+1963,AIR INDIA,"Sun, 21 Nov",Mumbai,Lucknow,07:00,14:00,7hr,1 stop,4291
+1964,AIR INDIA,"Sun, 21 Nov",Mumbai,Lucknow,08:00,19:40,11hr 40min,1 stop,4291
+1965,AIR INDIA,"Sun, 21 Nov",Mumbai,Lucknow,07:00,19:40,12hr 40min,1 stop,4291
+1966,AIR INDIA,"Sun, 21 Nov",Mumbai,Lucknow,19:00,08:15,13hr 15min,1 stop,4291
+1967,AIR INDIA,"Sun, 21 Nov",Mumbai,Lucknow,08:00,08:15,24hr 15min,1 stop,4291
+1968,AIR INDIA,"Sun, 21 Nov",Mumbai,Lucknow,07:00,08:15,25hr 15min,1 stop,4291
+1969,VISTARA,"Sun, 21 Nov",Mumbai,Lucknow,11:55,17:15,5hr 20min,1 stop,4451
+1970,VISTARA,"Sun, 21 Nov",Mumbai,Lucknow,06:30,14:50,8hr 20min,1 stop,4451
+1971,VISTARA,"Sun, 21 Nov",Mumbai,Lucknow,06:30,17:15,10hr 45min,1 stop,4451
+1972,VISTARA,"Sun, 21 Nov",Mumbai,Lucknow,20:55,14:50,17hr 55min,1 stop,4451
+1973,VISTARA,"Sun, 21 Nov",Mumbai,Lucknow,20:55,17:15,20hr 20min,1 stop,4451
+1974,AIR INDIA,"Wed, 03 Nov",Mumbai,Lucknow,19:00,19:40,24hr 40min,1 stop,5919
+1975,VISTARA,"Wed, 03 Nov",Mumbai,Lucknow,19:45,17:15,21hr 30min,1 stop,6316
+1976,VISTARA,"Wed, 03 Nov",Mumbai,Lucknow,18:30,17:15,22hr 45min,1 stop,6316
+1977,VISTARA,"Wed, 03 Nov",Mumbai,Lucknow,17:30,17:15,23hr 45min,1 stop,6316
+1978,AIR INDIA,"Wed, 03 Nov",Mumbai,Lucknow,07:00,08:15,25hr 15min,1 stop,6391
+1979,INDIGO,"Wed, 03 Nov",Mumbai,Lucknow,23:05,07:15,8hr 10min,1 stop,6417
+1980,INDIGO,"Wed, 03 Nov",Mumbai,Lucknow,23:05,06:15,7hr 10min,1 stop,6574
+1981,INDIGO,"Wed, 03 Nov",Mumbai,Lucknow,03:05,09:10,6hr 5min,1 stop,6782
+1982,AIR INDIA,"Wed, 03 Nov",Mumbai,Lucknow,19:00,08:15,13hr 15min,1 stop,6811
+1983,AIR INDIA,"Wed, 03 Nov",Mumbai,Lucknow,10:00,08:15,22hr 15min,1 stop,6811
+1984,VISTARA,"Wed, 03 Nov",Mumbai,Lucknow,19:45,14:50,19hr 5min,1 stop,6905
+1985,VISTARA,"Wed, 03 Nov",Mumbai,Lucknow,18:30,14:50,20hr 20min,1 stop,6905
+1986,VISTARA,"Wed, 03 Nov",Mumbai,Lucknow,17:30,14:50,21hr 20min,1 stop,6905
+1987,INDIGO,"Wed, 03 Nov",Mumbai,Lucknow,07:45,14:25,6hr 40min,1 stop,6939
+1988,INDIGO,"Wed, 03 Nov",Mumbai,Lucknow,07:00,14:25,7hr 25min,1 stop,6939
+1989,GO FIRST,"Wed, 03 Nov",Mumbai,Lucknow,22:50,07:30,8hr 40min,1 stop,8552
+1990,GO FIRST,"Wed, 03 Nov",Mumbai,Lucknow,21:15,07:30,10hr 15min,1 stop,8552
+1991,GO FIRST,"Wed, 03 Nov",Mumbai,Lucknow,17:55,07:30,13hr 35min,1 stop,8552
+1992,INDIGO,"Wed, 03 Nov",Mumbai,Lucknow,10:30,15:30,5hr,1 stop,8646
+1993,VISTARA,"Wed, 03 Nov",Mumbai,Lucknow,22:45,17:15,18hr 30min,1 stop,8640
+1994,VISTARA,"Wed, 03 Nov",Mumbai,Lucknow,21:55,17:15,19hr 20min,1 stop,8640
+1995,VISTARA,"Wed, 03 Nov",Mumbai,Lucknow,20:55,17:15,20hr 20min,1 stop,8640
+1996,VISTARA,"Wed, 03 Nov",Mumbai,Lucknow,15:45,17:15,25hr 30min,1 stop,8640
+1997,VISTARA,"Wed, 03 Nov",Mumbai,Lucknow,14:40,17:15,26hr 35min,1 stop,8640
+1998,AIR INDIA,"Wed, 03 Nov",Mumbai,Lucknow,13:25,19:40,30hr 15min,2 stops,8740
+1999,AIR INDIA,"Wed, 03 Nov",Mumbai,Lucknow,16:45,19:40,26hr 55min,2 stops,8783
+2000,AIR INDIA,"Wed, 03 Nov",Mumbai,Lucknow,16:45,19:40,26hr 55min,2 stops,8783
+2001,GO FIRST,"Wed, 03 Nov",Mumbai,Lucknow,09:55,17:55,8hr,1 stop,8984
+2002,GO FIRST,"Wed, 03 Nov",Mumbai,Lucknow,09:55,22:15,12hr 20min,1 stop,8984
+2003,INDIGO,"Wed, 03 Nov",Mumbai,Lucknow,20:40,22:50,2hr 10min,non-stop,9118
+2004,Air India,"Sat, Oct 23",Hyderabad,Chennai,06:25,08:00,01 h 35 m,Non stop,"₹ 4,453"
+2005,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,16:35,17:55,01 h 20 m,Non stop,"₹ 4,453"
+2006,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,17:25,18:50,01 h 25 m,Non stop,"₹ 4,453"
+2007,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,05:15,10:25,05 h 10 m,1 stop via Bengaluru,"₹ 4,453"
+2008,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,07:15,11:45,04 h 30 m,1 stop via Bengaluru,"₹ 4,453"
+2009,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,08:00,16:10,08 h 10 m,1 stop via Bengaluru,"₹ 4,453"
+2010,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,15:10,19:35,04 h 25 m,1 stop via Bengaluru,"₹ 4,453"
+2011,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,13:05,19:35,06 h 30 m,1 stop via Bengaluru,"₹ 4,453"
+2012,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,16:25,21:05,04 h 40 m,1 stop via Bengaluru,"₹ 4,453"
+2013,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,18:35,23:00,04 h 25 m,1 stop via Bengaluru,"₹ 4,453"
+2014,AirAsia,"Sat, Oct 23",Hyderabad,Chennai,18:55,20:30,01 h 35 m,Non stop,"₹ 4,454"
+2015,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,14:05,15:20,01 h 15 m,Non stop,"₹ 4,558"
+2016,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,22:25,23:40,01 h 15 m,Non stop,"₹ 4,663"
+2017,Spicejet,"Sat, Oct 23",Hyderabad,Chennai,22:15,21:25,23 h 10 m,1 stop via Bengaluru,"₹ 4,663"
+2018,AirAsia,"Sat, Oct 23",Hyderabad,Chennai,11:15,12:25,01 h 10 m,Non stop,"₹ 4,689"
+2019,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,10:30,11:45,01 h 15 m,Non stop,"₹ 4,768"
+2020,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,09:05,16:10,07 h 05 m,1 stop via Bengaluru,"₹ 5,220"
+2021,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,22:20,08:15,09 h 55 m,1 stop via Bengaluru,"₹ 5,220"
+2022,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,20:25,21:45,01 h 20 m,Non stop,"₹ 5,293"
+2023,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,07:55,09:15,01 h 20 m,Non stop,"₹ 5,503"
+2024,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,19:10,20:25,01 h 15 m,Non stop,"₹ 5,503"
+2025,Air India,"Sat, Oct 23",Hyderabad,Chennai,06:25,08:00,01 h 35 m,Non stop,"₹ 4,453"
+2026,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,16:35,17:55,01 h 20 m,Non stop,"₹ 4,453"
+2027,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,17:25,18:50,01 h 25 m,Non stop,"₹ 4,453"
+2028,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,05:15,10:25,05 h 10 m,1 stop via Bengaluru,"₹ 4,453"
+2029,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,07:15,11:45,04 h 30 m,1 stop via Bengaluru,"₹ 4,453"
+2030,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,08:00,16:10,08 h 10 m,1 stop via Bengaluru,"₹ 4,453"
+2031,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,15:10,19:35,04 h 25 m,1 stop via Bengaluru,"₹ 4,453"
+2032,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,13:05,19:35,06 h 30 m,1 stop via Bengaluru,"₹ 4,453"
+2033,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,16:25,21:05,04 h 40 m,1 stop via Bengaluru,"₹ 4,453"
+2034,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,18:35,23:00,04 h 25 m,1 stop via Bengaluru,"₹ 4,453"
+2035,AirAsia,"Sat, Oct 23",Hyderabad,Chennai,18:55,20:30,01 h 35 m,Non stop,"₹ 4,454"
+2036,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,14:05,15:20,01 h 15 m,Non stop,"₹ 4,558"
+2037,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,22:25,23:40,01 h 15 m,Non stop,"₹ 4,663"
+2038,Spicejet,"Sat, Oct 23",Hyderabad,Chennai,22:15,21:25,23 h 10 m,1 stop via Bengaluru,"₹ 4,663"
+2039,AirAsia,"Sat, Oct 23",Hyderabad,Chennai,11:15,12:25,01 h 10 m,Non stop,"₹ 4,689"
+2040,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,10:30,11:45,01 h 15 m,Non stop,"₹ 4,768"
+2041,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,09:05,16:10,07 h 05 m,1 stop via Bengaluru,"₹ 5,220"
+2042,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,22:20,08:15,09 h 55 m,1 stop via Bengaluru,"₹ 5,220"
+2043,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,20:25,21:45,01 h 20 m,Non stop,"₹ 5,293"
+2044,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,07:55,09:15,01 h 20 m,Non stop,"₹ 5,503"
+2045,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,19:10,20:25,01 h 15 m,Non stop,"₹ 5,503"
+2046,Air India,"Sat, Oct 23",Hyderabad,Chennai,05:30,10:55,05 h 25 m,1 stop via Mumbai,"₹ 8,290"
+2047,IndiGo,"Sat, Oct 23",Hyderabad,Chennai,06:30,13:20,06 h 50 m,1 stop via Vijayawada,"₹ 9,283"
+2048,Vistara,"Sat, Oct 23",Hyderabad,Chennai,13:35,20:25,06 h 50 m,1 stop via Mumbai,"₹ 10,018"
+2049,IndiGo,"Tue, Nov 9",Hyderabad,Chennai,05:05,06:25,01 h 20 m,Non stop,"₹ 1,789"
+2050,IndiGo,"Tue, Nov 9",Hyderabad,Chennai,07:00,08:20,01 h 20 m,Non stop,"₹ 1,789"
+2051,AirAsia,"Tue, Nov 9",Hyderabad,Chennai,07:20,08:35,01 h 15 m,Non stop,"₹ 1,789"
+2052,Go First,"Tue, Nov 9",Hyderabad,Chennai,11:05,12:15,01 h 10 m,Non stop,"₹ 1,789"
+2053,IndiGo,"Tue, Nov 9",Hyderabad,Chennai,13:45,15:10,01 h 25 m,Non stop,"₹ 1,789"
+2054,IndiGo,"Tue, Nov 9",Hyderabad,Chennai,16:25,17:45,01 h 20 m,Non stop,"₹ 1,789"
+2055,IndiGo,"Tue, Nov 9",Hyderabad,Chennai,17:20,18:45,01 h 25 m,Non stop,"₹ 1,789"
+2056,IndiGo,"Tue, Nov 9",Hyderabad,Chennai,19:00,20:25,01 h 25 m,Non stop,"₹ 1,789"
+2057,IndiGo,"Tue, Nov 9",Hyderabad,Chennai,20:30,21:55,01 h 25 m,Non stop,"₹ 1,789"
+2058,IndiGo,"Tue, Nov 9",Hyderabad,Chennai,22:25,23:45,01 h 20 m,Non stop,"₹ 1,789"
+2059,Spicejet,"Tue, Nov 9",Hyderabad,Chennai,05:30,06:55,01 h 25 m,Non stop,"₹ 1,931"
+2060,Air India,"Tue, Nov 9",Hyderabad,Chennai,06:25,08:00,01 h 35 m,Non stop,"₹ 2,046"
+2061,IndiGo,"Tue, Nov 9",Hyderabad,Chennai,08:00,09:20,01 h 20 m,Non stop,"₹ 2,046"
+2062,IndiGo,"Tue, Nov 9",Hyderabad,Chennai,11:15,12:40,01 h 25 m,Non stop,"₹ 2,046"
+2063,AirAsia,"Tue, Nov 9",Hyderabad,Chennai,19:10,20:30,01 h 20 m,Non stop,"₹ 2,050"
+2064,AirAsia,"Tue, Nov 9",Hyderabad,Chennai,00:45,08:30,07 h 45 m,1 stop via Bengaluru,"₹ 2,877"
+2065,AirAsia,"Tue, Nov 9",Hyderabad,Chennai,22:15,08:30,10 h 15 m,1 stop via Bengaluru,"₹ 2,877"
+2066,AirAsia,"Tue, Nov 9",Hyderabad,Chennai,14:20,17:25,03 h 05 m,1 stop via Bengaluru,"₹ 3,123"
+2067,AirAsia,"Tue, Nov 9",Hyderabad,Chennai,19:45,08:30,12 h 45 m,1 stop via Bengaluru,"₹ 3,123"
+2068,IndiGo,"Tue, Nov 9",Hyderabad,Chennai,06:05,10:20,04 h 15 m,1 stop via Bengaluru,"₹ 3,149"
+2069,IndiGo,"Tue, Nov 9",Hyderabad,Chennai,07:00,11:55,04 h 55 m,1 stop via Bengaluru,"₹ 3,149"
+2070,IndiGo,"Tue, Nov 9",Hyderabad,Chennai,17:35,21:10,03 h 35 m,1 stop via Bengaluru,"₹ 3,149"
+2071,IndiGo,"Tue, Nov 9",Hyderabad,Chennai,18:35,23:15,04 h 40 m,1 stop via Bengaluru,"₹ 3,149"
+2072,IndiGo,"Tue, Nov 9",Hyderabad,Chennai,23:25,07:05,07 h 40 m,1 stop via Bengaluru,"₹ 3,484"
+2073,IndiGo,"Tue, Nov 9",Hyderabad,Chennai,21:10,07:05,09 h 55 m,1 stop via Bengaluru,"₹ 3,484"
+2074,IndiGo,"Tue, Nov 9",Hyderabad,Chennai,16:20,21:10,04 h 50 m,1 stop via Bengaluru,"₹ 3,669"
+2075,IndiGo,"Tue, Nov 9",Hyderabad,Chennai,09:45,16:15,06 h 30 m,1 stop via Bengaluru,"₹ 3,768"
+2076,Vistara,"Tue, Nov 9",Hyderabad,Chennai,08:20,19:55,11 h 35 m,1 stop via Mumbai,"₹ 4,040"
+2077,Air India,"Tue, Nov 9",Hyderabad,Chennai,16:15,23:35,07 h 20 m,1 stop via New Delhi,"₹ 5,461"
+2078,Air India,"Mon, Dec 6",Bengaluru,New Delhi,10:25,13:00,02 h 35 m,Non stop,"₹ 3,234"
+2079,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,15:10,21:30,06 h 20 m,1 stop via Chennai,"₹ 3,506"
+2080,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,17:10,22:45,05 h 35 m,1 stop via Chennai,"₹ 3,506"
+2081,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,18:30,23:59,05 h 29 m,1 stop via Chennai,"₹ 3,506"
+2082,Air India,"Mon, Dec 6",Bengaluru,New Delhi,07:35,13:50,06 h 15 m,1 stop via Hyderabad,"₹ 3,674"
+2083,Go First,"Mon, Dec 6",Bengaluru,New Delhi,16:45,21:45,05 h,1 stop via Pune,"₹ 3,702"
+2084,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,14:00,20:35,06 h 35 m,1 stop via Pune,"₹ 3,752"
+2085,AirAsia,"Mon, Dec 6",Bengaluru,New Delhi,13:00,20:10,07 h 10 m,1 stop via Pune,"₹ 3,758"
+2086,Air India,"Mon, Dec 6",Bengaluru,New Delhi,18:45,08:55,14 h 10 m,1 stop via Hyderabad,"₹ 3,895"
+2087,Air India,"Mon, Dec 6",Bengaluru,New Delhi,15:15,08:55,17 h 40 m,"2 stop via Kolhapur,Hyderabad","₹ 3,895"
+2088,Spicejet,"Mon, Dec 6",Bengaluru,New Delhi,07:45,23:35,15 h 50 m,1 stop via Chennai,"₹ 3,916"
+2089,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,03:00,08:15,05 h 15 m,1 stop via Pune,"₹ 4,068"
+2090,Air India,"Mon, Dec 6",Bengaluru,New Delhi,06:10,08:55,02 h 45 m,Non stop,"₹ 4,071"
+2091,Air India,"Mon, Dec 6",Bengaluru,New Delhi,13:20,15:50,02 h 30 m,Non stop,"₹ 4,071"
+2092,Go First,"Mon, Dec 6",Bengaluru,New Delhi,05:45,12:10,06 h 25 m,1 stop via Mumbai,"₹ 4,153"
+2093,Go First,"Mon, Dec 6",Bengaluru,New Delhi,08:10,14:30,06 h 20 m,1 stop via Mumbai,"₹ 4,153"
+2094,Go First,"Mon, Dec 6",Bengaluru,New Delhi,16:30,22:25,05 h 55 m,1 stop via Mumbai,"₹ 4,153"
+2095,AirAsia,"Mon, Dec 6",Bengaluru,New Delhi,00:10,02:50,02 h 40 m,Non stop,"₹ 4,200"
+2096,AirAsia,"Mon, Dec 6",Bengaluru,New Delhi,00:45,03:35,02 h 50 m,Non stop,"₹ 4,200"
+2097,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,05:15,08:20,03 h 05 m,Non stop,"₹ 4,200"
+2098,Spicejet,"Mon, Dec 6",Bengaluru,New Delhi,05:55,08:35,02 h 40 m,Non stop,"₹ 4,200"
+2099,AirAsia,"Mon, Dec 6",Bengaluru,New Delhi,06:15,08:55,02 h 40 m,Non stop,"₹ 4,200"
+2100,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,06:45,09:50,03 h 05 m,Non stop,"₹ 4,200"
+2101,Go First,"Mon, Dec 6",Bengaluru,New Delhi,07:40,10:30,02 h 50 m,Non stop,"₹ 4,200"
+2102,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,07:45,10:50,03 h 05 m,Non stop,"₹ 4,200"
+2103,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,09:30,12:35,03 h 05 m,Non stop,"₹ 4,200"
+2104,AirAsia,"Mon, Dec 6",Bengaluru,New Delhi,11:20,14:05,02 h 45 m,Non stop,"₹ 4,200"
+2105,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,12:05,15:00,02 h 55 m,Non stop,"₹ 4,200"
+2106,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,14:25,17:20,02 h 55 m,Non stop,"₹ 4,200"
+2107,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,16:40,19:35,02 h 55 m,Non stop,"₹ 4,200"
+2108,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,17:30,20:25,02 h 55 m,Non stop,"₹ 4,200"
+2109,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,18:15,21:10,02 h 55 m,Non stop,"₹ 4,200"
+2110,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,19:25,22:20,02 h 55 m,Non stop,"₹ 4,200"
+2111,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,20:20,23:15,02 h 55 m,Non stop,"₹ 4,200"
+2112,Spicejet,"Mon, Dec 6",Bengaluru,New Delhi,20:30,23:20,02 h 50 m,Non stop,"₹ 4,200"
+2113,Go First,"Mon, Dec 6",Bengaluru,New Delhi,20:55,23:50,02 h 55 m,Non stop,"₹ 4,200"
+2114,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,21:50,00:55,03 h 05 m,Non stop,"₹ 4,200"
+2115,Spicejet,"Mon, Dec 6",Bengaluru,New Delhi,22:05,01:00,02 h 55 m,Non stop,"₹ 4,200"
+2116,AirAsia,"Mon, Dec 6",Bengaluru,New Delhi,22:10,01:00,02 h 50 m,Non stop,"₹ 4,200"
+2117,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,05:00,11:30,06 h 30 m,1 stop via Mumbai,"₹ 4,235"
+2118,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,11:00,16:45,05 h 45 m,1 stop via Pune,"₹ 4,235"
+2119,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,16:20,22:00,05 h 40 m,1 stop via Mumbai,"₹ 4,235"
+2120,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,19:00,01:30,06 h 30 m,1 stop via Mumbai,"₹ 4,235"
+2121,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,23:15,05:20,06 h 05 m,1 stop via Mumbai,"₹ 4,235"
+2122,Go First,"Mon, Dec 6",Bengaluru,New Delhi,14:55,20:00,05 h 05 m,1 stop via Lucknow,"₹ 4,294"
+2123,Go First,"Mon, Dec 6",Bengaluru,New Delhi,07:30,12:45,05 h 15 m,1 stop via Hyderabad,"₹ 4,320"
+2124,Vistara,"Mon, Dec 6",Bengaluru,New Delhi,07:00,09:40,02 h 40 m,Non stop,"₹ 4,369"
+2125,Vistara,"Mon, Dec 6",Bengaluru,New Delhi,08:00,10:40,02 h 40 m,Non stop,"₹ 4,369"
+2126,Vistara,"Mon, Dec 6",Bengaluru,New Delhi,09:45,12:40,02 h 55 m,Non stop,"₹ 4,369"
+2127,Vistara,"Mon, Dec 6",Bengaluru,New Delhi,11:30,14:10,02 h 40 m,Non stop,"₹ 4,369"
+2128,Vistara,"Mon, Dec 6",Bengaluru,New Delhi,17:45,20:20,02 h 35 m,Non stop,"₹ 4,369"
+2129,Vistara,"Mon, Dec 6",Bengaluru,New Delhi,19:40,22:25,02 h 45 m,Non stop,"₹ 4,369"
+2130,Vistara,"Mon, Dec 6",Bengaluru,New Delhi,21:10,23:45,02 h 35 m,Non stop,"₹ 4,369"
+2131,Vistara,"Mon, Dec 6",Bengaluru,New Delhi,18:25,00:10,05 h 45 m,1 stop via Mumbai,"₹ 4,429"
+2132,Vistara,"Mon, Dec 6",Bengaluru,New Delhi,19:55,00:55,05 h,1 stop via Mumbai,"₹ 4,429"
+2133,Air India,"Mon, Dec 6",Bengaluru,New Delhi,17:50,20:35,02 h 45 m,Non stop,"₹ 4,491"
+2134,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,19:05,01:35,06 h 30 m,1 stop via Pune,"₹ 4,598"
+2135,Air India,"Mon, Dec 6",Bengaluru,New Delhi,06:45,12:15,05 h 30 m,1 stop via Mumbai,"₹ 4,609"
+2136,IndiGo,"Mon, Dec 6",Bengaluru,New Delhi,06:25,12:25,06 h,1 stop via Lucknow,"₹ 4,855"
+2137,Spicejet,"Fri, Dec 24",Ahmedabad,Jaipur,09:05,10:35,01 h 30 m,Non stop,"₹ 2,072"
+2138,IndiGo,"Fri, Dec 24",Ahmedabad,Jaipur,18:25,19:45,01 h 20 m,Non stop,"₹ 2,072"
+2139,IndiGo,"Fri, Dec 24",Ahmedabad,Jaipur,07:10,08:50,01 h 40 m,Non stop,"₹ 2,265"
+2140,Go First,"Fri, Dec 24",Ahmedabad,Jaipur,10:30,12:10,01 h 40 m,Non stop,"₹ 2,267"
+2141,Air India,"Fri, Dec 24",Ahmedabad,Jaipur,22:20,12:55,14 h 35 m,1 stop via New Delhi,"₹ 3,939"
+2142,Air India,"Fri, Dec 24",Ahmedabad,Jaipur,22:20,08:15,09 h 55 m,1 stop via New Delhi,"₹ 4,159"
+2143,Spicejet,"Fri, Dec 24",Ahmedabad,Jaipur,19:15,20:10,24 h 55 m,1 stop via New Delhi,"₹ 4,423"
+2144,Air India,"Fri, Dec 24",Ahmedabad,Jaipur,19:05,08:15,13 h 10 m,1 stop via New Delhi,"₹ 4,642"
+2145,Go First,"Fri, Dec 24",Ahmedabad,Jaipur,00:35,07:55,07 h 20 m,1 stop via Mumbai,"₹ 4,843"
+2146,Go First,"Fri, Dec 24",Ahmedabad,Jaipur,13:50,21:35,07 h 45 m,1 stop via Mumbai,"₹ 4,843"
+2147,Go First,"Fri, Dec 24",Ahmedabad,Jaipur,11:00,21:35,10 h 35 m,1 stop via Mumbai,"₹ 4,843"
+2148,Go First,"Fri, Dec 24",Ahmedabad,Jaipur,17:35,22:30,04 h 55 m,1 stop via New Delhi,"₹ 5,557"
+2149,IndiGo,"Fri, Dec 24",Ahmedabad,Jaipur,08:40,13:20,04 h 40 m,1 stop via New Delhi,"₹ 6,584"
+2150,IndiGo,"Fri, Dec 24",Ahmedabad,Jaipur,07:30,13:20,05 h 50 m,1 stop via New Delhi,"₹ 6,584"
+2151,IndiGo,"Fri, Dec 24",Ahmedabad,Jaipur,17:30,23:10,05 h 40 m,1 stop via New Delhi,"₹ 6,584"
+2152,IndiGo,"Fri, Dec 24",Ahmedabad,Jaipur,20:30,02:25,05 h 55 m,1 stop via Mumbai,"₹ 6,665"
+2153,Air India,"Sun, Dec 12",Kolkata,New Delhi,10:25,12:55,02 h 30 m,Non stop,"₹ 3,016"
+2154,Air India,"Sun, Dec 12",Kolkata,New Delhi,20:30,22:45,02 h 15 m,Non stop,"₹ 3,016"
+2155,Air India,"Sun, Dec 12",Kolkata,New Delhi,07:00,09:15,02 h 15 m,Non stop,"₹ 3,437"
+2156,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,01:55,04:25,02 h 30 m,Non stop,"₹ 3,999"
+2157,Go First,"Sun, Dec 12",Kolkata,New Delhi,06:00,08:30,02 h 30 m,Non stop,"₹ 3,999"
+2158,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,06:05,08:40,02 h 35 m,Non stop,"₹ 3,999"
+2159,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,07:05,09:40,02 h 35 m,Non stop,"₹ 3,999"
+2160,Spicejet,"Sun, Dec 12",Kolkata,New Delhi,07:35,10:15,02 h 40 m,Non stop,"₹ 3,999"
+2161,Go First,"Sun, Dec 12",Kolkata,New Delhi,14:20,16:55,02 h 35 m,Non stop,"₹ 3,999"
+2162,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,15:00,17:40,02 h 40 m,Non stop,"₹ 3,999"
+2163,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,16:20,18:55,02 h 35 m,Non stop,"₹ 3,999"
+2164,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,17:50,20:25,02 h 35 m,Non stop,"₹ 3,999"
+2165,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,19:00,21:30,02 h 30 m,Non stop,"₹ 3,999"
+2166,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,20:20,22:55,02 h 35 m,Non stop,"₹ 3,999"
+2167,AirAsia,"Sun, Dec 12",Kolkata,New Delhi,23:40,02:10,02 h 30 m,Non stop,"₹ 3,999"
+2168,Air India,"Sun, Dec 12",Kolkata,New Delhi,09:10,21:00,11 h 50 m,"3 stop via Bhubaneswar,Hyderabad,Surat","₹ 4,144"
+2169,Vistara,"Sun, Dec 12",Kolkata,New Delhi,07:10,09:35,02 h 25 m,Non stop,"₹ 4,201"
+2170,Vistara,"Sun, Dec 12",Kolkata,New Delhi,10:15,12:35,02 h 20 m,Non stop,"₹ 4,201"
+2171,Vistara,"Sun, Dec 12",Kolkata,New Delhi,15:20,17:45,02 h 25 m,Non stop,"₹ 4,201"
+2172,Vistara,"Sun, Dec 12",Kolkata,New Delhi,20:20,22:45,02 h 25 m,Non stop,"₹ 4,201"
+2173,AirAsia,"Sun, Dec 12",Kolkata,New Delhi,07:40,10:05,02 h 25 m,Non stop,"₹ 4,386"
+2174,AirAsia,"Sun, Dec 12",Kolkata,New Delhi,19:45,22:25,02 h 40 m,Non stop,"₹ 4,386"
+2175,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,09:15,11:50,02 h 35 m,Non stop,"₹ 4,389"
+2176,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,10:10,12:40,02 h 30 m,Non stop,"₹ 4,389"
+2177,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,11:30,14:00,02 h 30 m,Non stop,"₹ 4,389"
+2178,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,11:30,19:45,08 h 15 m,1 stop via Patna,"₹ 4,450"
+2179,Air India,"Sun, Dec 12",Kolkata,New Delhi,19:00,08:55,13 h 55 m,1 stop via Hyderabad,"₹ 4,459"
+2180,Go First,"Sun, Dec 12",Kolkata,New Delhi,13:25,18:00,04 h 35 m,1 stop via Patna,"₹ 4,486"
+2181,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,17:30,23:20,05 h 50 m,1 stop via Patna,"₹ 4,540"
+2182,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,11:30,16:35,05 h 05 m,1 stop via Patna,"₹ 4,851"
+2183,Air India,"Sun, Dec 12",Kolkata,New Delhi,09:10,23:45,14 h 35 m,1 stop via Bhubaneswar,"₹ 4,925"
+2184,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,06:00,11:20,05 h 20 m,1 stop via Bhubaneswar,"₹ 4,948"
+2185,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,06:45,15:20,08 h 35 m,1 stop via Bhubaneswar,"₹ 4,948"
+2186,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,15:05,21:10,06 h 05 m,1 stop via Bhubaneswar,"₹ 4,948"
+2187,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,18:20,00:25,06 h 05 m,1 stop via Bhubaneswar,"₹ 4,948"
+2188,Air India,"Sun, Dec 12",Kolkata,New Delhi,13:00,20:55,07 h 55 m,1 stop via Patna,"₹ 4,960"
+2189,Air India,"Sun, Dec 12",Kolkata,New Delhi,09:10,18:30,09 h 20 m,"2 stop via Bhubaneswar,Hyderabad","₹ 5,061"
+2190,Go First,"Sun, Dec 12",Kolkata,New Delhi,17:35,23:45,06 h 10 m,1 stop via Varanasi,"₹ 5,182"
+2191,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,17:30,22:45,05 h 15 m,1 stop via Ranchi,"₹ 5,234"
+2192,Go First,"Sun, Dec 12",Kolkata,New Delhi,17:10,01:15,08 h 05 m,1 stop via Hyderabad,"₹ 5,343"
+2193,Spicejet,"Sun, Dec 12",Kolkata,New Delhi,20:50,23:30,02 h 40 m,Non stop,"₹ 5,469"
+2194,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,16:10,23:30,07 h 20 m,1 stop via Guwahati,"₹ 5,544"
+2195,Go First,"Sun, Dec 12",Kolkata,New Delhi,17:10,00:05,06 h 55 m,1 stop via Jaipur,"₹ 5,545"
+2196,Air India,"Sun, Dec 12",Kolkata,New Delhi,16:45,22:05,05 h 20 m,1 stop via Guwahati,"₹ 5,775"
+2197,Air India,"Sun, Dec 12",Kolkata,New Delhi,13:00,20:30,07 h 30 m,"2 stop via Patna,Mumbai","₹ 5,810"
+2198,AirAsia,"Sun, Dec 12",Kolkata,New Delhi,05:25,11:50,06 h 25 m,1 stop via Guwahati,"₹ 6,045"
+2199,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,14:35,20:35,06 h,1 stop via Agartala,"₹ 6,363"
+2200,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,13:40,20:35,06 h 55 m,1 stop via Agartala,"₹ 6,363"
+2201,Go First,"Sun, Dec 12",Kolkata,New Delhi,16:00,22:25,06 h 25 m,1 stop via Mumbai,"₹ 6,448"
+2202,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,09:40,16:10,06 h 30 m,1 stop via Guwahati,"₹ 6,542"
+2203,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,08:20,14:10,05 h 50 m,1 stop via Raipur,"₹ 6,582"
+2204,AirAsia,"Sun, Dec 12",Kolkata,New Delhi,09:05,14:55,05 h 50 m,1 stop via Bagdogra,"₹ 6,637"
+2205,IndiGo,"Sun, Dec 12",Kolkata,New Delhi,09:45,14:50,05 h 05 m,1 stop via Bagdogra,"₹ 7,221"
